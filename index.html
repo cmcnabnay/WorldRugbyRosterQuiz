@@ -216,6 +216,13 @@
     display: flex;
     gap: 10px;
     margin-bottom: 20px;
+
+    position: sticky;
+    top: 10px;
+    z-index: 100;
+
+    background: var(--chalk);
+    padding: 10px 0;
   }
 
   #guess-input {
@@ -547,54 +554,25 @@
   function matchesPlayer(input, fullName) {
     const trimmed = input.trim();
     if (!trimmed) return false;
-    if (trimmed.split(/\s+/).length === 1 && /^(de|du|van|der|le|la|von|st|mc|mac)$/i.test(trimmed)) {
-      return false; // bare particle, not a real guess
-    }
 
-    const parts = nameParts(fullName);
-
-    // Full name match
-    if (fuzzyEquals(trimmed, parts.full)) return true;
-
-    // Build candidate surnames: just the last token, and also any
-    // trailing run of tokens starting from a common particle
-    // (du Toit, van der Merwe, de Allende, etc.)
     const tokens = fullName.trim().split(/\s+/);
-    const particleRe = /^(de|du|van|der|den|le|la|von|st\.?|mc|mac|o'|di|da|dos|del|al)$/i;
-
-    const surnameCandidates = new Set();
     const lastToken = tokens[tokens.length - 1];
-    surnameCandidates.add(lastToken); // simple last word
 
-    // If the last token is hyphenated (e.g. "Feinberg-Mngomezulu"),
-    // also allow each hyphen-separated part on its own.
+    if (fuzzyEquals(trimmed, fullName)) return true;
+
     if (lastToken.includes('-')) {
-      lastToken.split('-').forEach(part => {
-        if (part) surnameCandidates.add(part);
-      });
+      if (fuzzyEquals(trimmed, lastToken)) return true;
+
+      const parts = lastToken.split('-');
+
+      for (const part of parts) {
+        if (fuzzyEquals(trimmed, part)) return true;
+      }
+
+      return false;
     }
 
-    // Walk backwards from the end, growing the surname while the
-    // token before it is a particle (handles multi-word surnames).
-    let startIdx = tokens.length - 1;
-    while (startIdx > 0 && particleRe.test(tokens[startIdx - 1])) {
-      startIdx--;
-      surnameCandidates.add(tokens.slice(startIdx).join(' '));
-    }
-
-    // Reject single-token guesses that are just the first name
-    const guessIsSingleToken = trimmed.split(/\s+/).length === 1;
-    if (guessIsSingleToken && fuzzyEquals(trimmed, tokens[0]) && tokens[0] !== tokens[tokens.length - 1]) {
-      // looks like only the first name was typed — not enough,
-      // unless it also happens to fuzzy-match a surname candidate
-      // (rare, but let the loop below decide)
-    }
-
-    for (const surname of surnameCandidates) {
-      if (fuzzyEquals(trimmed, surname)) return true;
-    }
-
-    return false;
+    return fuzzyEquals(trimmed, lastToken);
   }
 
   // ---------- Load data ----------
@@ -783,9 +761,18 @@
         input.value = '';
         el('input-feedback').textContent = '';
         el('input-feedback').className = 'input-feedback';
-        renderRoster();
+        const row = el('roster').querySelector(
+          `.roster-row[data-index="${i}"]`
+        );
+
+        if (row) {
+          const nameCell = row.querySelector('.name-cell');
+          nameCell.textContent = p.name;
+          nameCell.className = 'name-cell';
+          row.classList.add('filled');
+        }
+
         updateProgress();
-        flashRow(i);
 
         if (solvedCount === players.length) {
           finishQuiz();
