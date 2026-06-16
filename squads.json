@@ -1,0 +1,5686 @@
+{
+  "South Africa": {
+    "players": [
+      {
+        "name": "Johan Grobbelaar",
+        "position": "Hooker",
+        "club": "Bulls",
+        "caps": "7"
+      },
+      {
+        "name": "Malcolm Marx",
+        "position": "Hooker",
+        "club": "Kubota Spears",
+        "caps": "87"
+      },
+      {
+        "name": "Jan-Hendrik Wessels",
+        "position": "Hooker",
+        "club": "Bulls",
+        "caps": "9"
+      },
+      {
+        "name": "Thomas du Toit",
+        "position": "Prop",
+        "club": "Bath",
+        "caps": "32"
+      },
+      {
+        "name": "Wilco Louw",
+        "position": "Prop",
+        "club": "Bulls",
+        "caps": "28"
+      },
+      {
+        "name": "Ox Nché",
+        "position": "Prop",
+        "club": "Sharks",
+        "caps": "48"
+      },
+      {
+        "name": "Asenathi Ntlabakanye",
+        "position": "Prop",
+        "club": "Lions",
+        "caps": "2"
+      },
+      {
+        "name": "Zachary Porthen",
+        "position": "Prop",
+        "club": "Stormers",
+        "caps": "2"
+      },
+      {
+        "name": "Gerhard Steenekamp",
+        "position": "Prop",
+        "club": "Bulls",
+        "caps": "15"
+      },
+      {
+        "name": "Boan Venter",
+        "position": "Prop",
+        "club": "Edinburgh",
+        "caps": "8"
+      },
+      {
+        "name": "Lood de Jager",
+        "position": "Lock",
+        "club": "Saitama Wild Knights",
+        "caps": "73"
+      },
+      {
+        "name": "Ben-Jason Dixon",
+        "position": "Lock",
+        "club": "Stormers",
+        "caps": "6"
+      },
+      {
+        "name": "Eben Etzebeth",
+        "position": "Lock",
+        "club": "Sharks",
+        "caps": "140"
+      },
+      {
+        "name": "Jean Kleyn",
+        "position": "Lock",
+        "club": "Munster",
+        "caps": "8"
+      },
+      {
+        "name": "Franco Mostert",
+        "position": "Lock",
+        "club": "Mie Honda Heat",
+        "caps": "83"
+      },
+      {
+        "name": "Ruan Nortjé",
+        "position": "Lock",
+        "club": "Bulls",
+        "caps": "17"
+      },
+      {
+        "name": "RG Snyman",
+        "position": "Lock",
+        "club": "Leinster",
+        "caps": "50"
+      },
+      {
+        "name": "Pieter-Steph du Toit",
+        "position": "Loose forward",
+        "club": "Toyota Verblitz",
+        "caps": "95"
+      },
+      {
+        "name": "Siya Kolisi",
+        "position": "Loose forward",
+        "club": "Sharks",
+        "caps": "102"
+      },
+      {
+        "name": "Kwagga Smith",
+        "position": "Loose forward",
+        "club": "Shizuoka Blue Revs",
+        "caps": "62"
+      },
+      {
+        "name": "Marco van Staden",
+        "position": "Loose forward",
+        "club": "Bulls",
+        "caps": "32"
+      },
+      {
+        "name": "Jasper Wiese",
+        "position": "Loose forward",
+        "club": "Urayasu D-Rocks",
+        "caps": "42"
+      },
+      {
+        "name": "Cobus Reinach",
+        "position": "Scrum-half",
+        "club": "Stormers",
+        "caps": "49"
+      },
+      {
+        "name": "Morné van den Berg",
+        "position": "Scrum-half",
+        "club": "Lions",
+        "caps": "5"
+      },
+      {
+        "name": "Grant Williams",
+        "position": "Scrum-half",
+        "club": "Sharks",
+        "caps": "28"
+      },
+      {
+        "name": "Sacha Feinberg-Mngomezulu",
+        "position": "Fly-half",
+        "club": "Stormers",
+        "caps": "18"
+      },
+      {
+        "name": "Manie Libbok",
+        "position": "Fly-half",
+        "club": "Hanazono Kintetsu Liners",
+        "caps": "28"
+      },
+      {
+        "name": "Handré Pollard",
+        "position": "Fly-half",
+        "club": "Bulls",
+        "caps": "85"
+      },
+      {
+        "name": "Damian de Allende",
+        "position": "Centre",
+        "club": "Saitama Wild Knights",
+        "caps": "96"
+      },
+      {
+        "name": "André Esterhuizen",
+        "position": "Centre",
+        "club": "Sharks",
+        "caps": "28"
+      },
+      {
+        "name": "Ethan Hooker",
+        "position": "Centre",
+        "club": "Sharks",
+        "caps": "7"
+      },
+      {
+        "name": "Jesse Kriel",
+        "position": "Centre",
+        "club": "Yokohama Canon Eagles",
+        "caps": "87"
+      },
+      {
+        "name": "Kurt-Lee Arendse",
+        "position": "Wing",
+        "club": "Bulls",
+        "caps": "32"
+      },
+      {
+        "name": "Cheslin Kolbe",
+        "position": "Wing",
+        "club": "Tokyo Sungoliath",
+        "caps": "50"
+      },
+      {
+        "name": "Canan Moodie",
+        "position": "Wing",
+        "club": "Bulls",
+        "caps": "22"
+      },
+      {
+        "name": "Edwill van der Merwe",
+        "position": "Wing",
+        "club": "Sharks",
+        "caps": "5"
+      },
+      {
+        "name": "Damian Willemse",
+        "position": "Fullback",
+        "club": "Stormers",
+        "caps": "48"
+      }
+    ]
+  },
+  "New Zealand": {
+    "players": [
+      {
+        "name": "George Bell",
+        "position": "Hooker",
+        "club": "Canterbury",
+        "caps": "4"
+      },
+      {
+        "name": "Samisoni Taukei'aho",
+        "position": "Hooker",
+        "club": "Waikato",
+        "caps": "43"
+      },
+      {
+        "name": "Codie Taylor",
+        "position": "Hooker",
+        "club": "Canterbury",
+        "caps": "106"
+      },
+      {
+        "name": "George Bower",
+        "position": "Prop",
+        "club": "Otago",
+        "caps": "25"
+      },
+      {
+        "name": "Ethan de Groot",
+        "position": "Prop",
+        "club": "Southland",
+        "caps": "40"
+      },
+      {
+        "name": "Fletcher Newell",
+        "position": "Prop",
+        "club": "Canterbury",
+        "caps": "35"
+      },
+      {
+        "name": "Pasilio Tosi",
+        "position": "Prop",
+        "club": "Bay of Plenty",
+        "caps": "16"
+      },
+      {
+        "name": "Tamaiti Williams",
+        "position": "Prop",
+        "club": "Canterbury",
+        "caps": "27"
+      },
+      {
+        "name": "Scott Barrett",
+        "position": "Lock",
+        "club": "Taranaki",
+        "caps": "89"
+      },
+      {
+        "name": "Sam Darry",
+        "position": "Lock",
+        "club": "Canterbury",
+        "caps": "8"
+      },
+      {
+        "name": "Fabian Holland",
+        "position": "Lock",
+        "club": "Otago",
+        "caps": "12"
+      },
+      {
+        "name": "Josh Lord",
+        "position": "Lock",
+        "club": "Taranaki",
+        "caps": "12"
+      },
+      {
+        "name": "Du'Plessis Kirifi",
+        "position": "Loose forward",
+        "club": "Wellington",
+        "caps": "8"
+      },
+      {
+        "name": "Peter Lakai",
+        "position": "Loose forward",
+        "club": "Wellington",
+        "caps": "8"
+      },
+      {
+        "name": "Christian Lio-Willie",
+        "position": "Loose forward",
+        "club": "Otago",
+        "caps": "4"
+      },
+      {
+        "name": "Simon Parker",
+        "position": "Loose forward",
+        "club": "Northland",
+        "caps": "8"
+      },
+      {
+        "name": "Ardie Savea",
+        "position": "Loose forward",
+        "club": "Wellington",
+        "caps": "106"
+      },
+      {
+        "name": "Wallace Sititi",
+        "position": "Loose forward",
+        "club": "North Harbour",
+        "caps": "19"
+      },
+      {
+        "name": "Finlay Christie",
+        "position": "Half-back",
+        "club": "Tasman",
+        "caps": "28"
+      },
+      {
+        "name": "Cortez Ratima",
+        "position": "Half-back",
+        "club": "Waikato",
+        "caps": "21"
+      },
+      {
+        "name": "Cam Roigard",
+        "position": "Half-back",
+        "club": "Counties Manukau",
+        "caps": "17"
+      },
+      {
+        "name": "Beauden Barrett",
+        "position": "First five-eighth",
+        "club": "Taranaki",
+        "caps": "144"
+      },
+      {
+        "name": "Damian McKenzie",
+        "position": "First five-eighth",
+        "club": "Waikato",
+        "caps": "75"
+      },
+      {
+        "name": "Leicester Faingaʻanuku",
+        "position": "Centre",
+        "club": "Tasman",
+        "caps": "12"
+      },
+      {
+        "name": "Anton Lienert-Brown",
+        "position": "Centre",
+        "club": "Waikato",
+        "caps": "88"
+      },
+      {
+        "name": "Billy Proctor",
+        "position": "Centre",
+        "club": "Wellington",
+        "caps": "11"
+      },
+      {
+        "name": "Quinn Tupaea",
+        "position": "Centre",
+        "club": "Waikato",
+        "caps": "24"
+      },
+      {
+        "name": "Leroy Carter",
+        "position": "Wing",
+        "club": "Bay of Plenty",
+        "caps": "6"
+      },
+      {
+        "name": "Caleb Clarke",
+        "position": "Wing",
+        "club": "Auckland",
+        "caps": "33"
+      },
+      {
+        "name": "Rieko Ioane",
+        "position": "Wing",
+        "club": "Auckland",
+        "caps": "88"
+      },
+      {
+        "name": "Sevu Reece",
+        "position": "Wing",
+        "club": "Southland",
+        "caps": "37"
+      },
+      {
+        "name": "Will Jordan",
+        "position": "Fullback",
+        "club": "Tasman",
+        "caps": "54"
+      },
+      {
+        "name": "Ruben Love",
+        "position": "Fullback",
+        "club": "Wellington",
+        "caps": "5"
+      }
+    ]
+  },
+  "Ireland": {
+    "players": [
+      {
+        "name": "Rónan Kelleher",
+        "position": "Hooker",
+        "club": "Leinster",
+        "caps": "47"
+      },
+      {
+        "name": "Dan Sheehan",
+        "position": "Hooker",
+        "club": "Leinster",
+        "caps": "38"
+      },
+      {
+        "name": "Tom Stewart",
+        "position": "Hooker",
+        "club": "Ulster",
+        "caps": "5"
+      },
+      {
+        "name": "Finlay Bealham",
+        "position": "Prop",
+        "club": "Connacht",
+        "caps": "56"
+      },
+      {
+        "name": "Billy Bohan",
+        "position": "Prop",
+        "club": "Connacht",
+        "caps": "0"
+      },
+      {
+        "name": "Tom Clarkson",
+        "position": "Prop",
+        "club": "Leinster",
+        "caps": "13"
+      },
+      {
+        "name": "Tadhg Furlong",
+        "position": "Prop",
+        "club": "Leinster",
+        "caps": "85"
+      },
+      {
+        "name": "Jeremy Loughman",
+        "position": "Prop",
+        "club": "Munster",
+        "caps": "8"
+      },
+      {
+        "name": "Michael Milne",
+        "position": "Prop",
+        "club": "Munster",
+        "caps": "4"
+      },
+      {
+        "name": "Tom O'Toole",
+        "position": "Prop",
+        "club": "Ulster",
+        "caps": "20"
+      },
+      {
+        "name": "Tadhg Beirne",
+        "position": "Lock",
+        "club": "Munster",
+        "caps": "69"
+      },
+      {
+        "name": "Edwin Edogbo",
+        "position": "Lock",
+        "club": "Munster",
+        "caps": "1"
+      },
+      {
+        "name": "Cormac Izuchukwu",
+        "position": "Lock",
+        "club": "Ulster",
+        "caps": "4"
+      },
+      {
+        "name": "Joe McCarthy",
+        "position": "Lock",
+        "club": "Leinster",
+        "caps": "23"
+      },
+      {
+        "name": "James Ryan",
+        "position": "Lock",
+        "club": "Leinster",
+        "caps": "80"
+      },
+      {
+        "name": "Jack Conan",
+        "position": "Back row",
+        "club": "Leinster",
+        "caps": "58"
+      },
+      {
+        "name": "Caelan Doris",
+        "position": "Back row",
+        "club": "Leinster",
+        "caps": "59"
+      },
+      {
+        "name": "Cian Prendergast",
+        "position": "Back row",
+        "club": "Connacht",
+        "caps": "10"
+      },
+      {
+        "name": "Nick Timoney",
+        "position": "Back row",
+        "club": "Ulster",
+        "caps": "10"
+      },
+      {
+        "name": "Josh van der Flier",
+        "position": "Back row",
+        "club": "Leinster",
+        "caps": "78"
+      },
+      {
+        "name": "Bryn Ward",
+        "position": "Back row",
+        "club": "Ulster",
+        "caps": "0"
+      },
+      {
+        "name": "Craig Casey",
+        "position": "Scrum-half",
+        "club": "Munster",
+        "caps": "27"
+      },
+      {
+        "name": "Nathan Doak",
+        "position": "Scrum-half",
+        "club": "Ulster",
+        "caps": "1"
+      },
+      {
+        "name": "Jamison Gibson-Park",
+        "position": "Scrum-half",
+        "club": "Leinster",
+        "caps": "50"
+      },
+      {
+        "name": "Harry Byrne",
+        "position": "Fly-half",
+        "club": "Leinster",
+        "caps": "4"
+      },
+      {
+        "name": "Jack Crowley",
+        "position": "Fly-half",
+        "club": "Munster",
+        "caps": "34"
+      },
+      {
+        "name": "Ciarán Frawley",
+        "position": "Fly-half",
+        "club": "Leinster",
+        "caps": "11"
+      },
+      {
+        "name": "Sam Prendergast",
+        "position": "Fly-half",
+        "club": "Leinster",
+        "caps": "15"
+      },
+      {
+        "name": "Tom Farrell",
+        "position": "Centre",
+        "club": "Munster",
+        "caps": "3"
+      },
+      {
+        "name": "Stuart McCloskey",
+        "position": "Centre",
+        "club": "Ulster",
+        "caps": "27"
+      },
+      {
+        "name": "Jude Postlethwaite",
+        "position": "Centre",
+        "club": "Ulster",
+        "caps": "0"
+      },
+      {
+        "name": "Garry Ringrose",
+        "position": "Centre",
+        "club": "Leinster",
+        "caps": "73"
+      },
+      {
+        "name": "Robert Baloucoune",
+        "position": "Wing",
+        "club": "Ulster",
+        "caps": "7"
+      },
+      {
+        "name": "James Lowe",
+        "position": "Wing",
+        "club": "Leinster",
+        "caps": "45"
+      },
+      {
+        "name": "Tommy O'Brien",
+        "position": "Wing",
+        "club": "Leinster",
+        "caps": "8"
+      },
+      {
+        "name": "Jacob Stockdale",
+        "position": "Wing",
+        "club": "Ulster",
+        "caps": "42"
+      },
+      {
+        "name": "Jamie Osborne",
+        "position": "Fullback",
+        "club": "Leinster",
+        "caps": "14"
+      }
+    ]
+  },
+  "France": {
+    "players": [
+      {
+        "name": "Maxime Lamothe",
+        "position": "Hooker",
+        "club": "Bordeaux Bègles",
+        "caps": "3"
+      },
+      {
+        "name": "Julien Marchand",
+        "position": "Hooker",
+        "club": "Toulouse",
+        "caps": "53"
+      },
+      {
+        "name": "Peato Mauvaka",
+        "position": "Hooker",
+        "club": "Toulouse",
+        "caps": "46"
+      },
+      {
+        "name": "Dorian Aldegheri",
+        "position": "Prop",
+        "club": "Toulouse",
+        "caps": "28"
+      },
+      {
+        "name": "Cyril Baille",
+        "position": "Prop",
+        "club": "Toulouse",
+        "caps": "57"
+      },
+      {
+        "name": "Demba Bamba",
+        "position": "Prop",
+        "club": "Racing 92",
+        "caps": "31"
+      },
+      {
+        "name": "Georges-Henri Colombe",
+        "position": "Prop",
+        "club": "Toulouse",
+        "caps": "10"
+      },
+      {
+        "name": "Jean-Baptiste Gros",
+        "position": "Prop",
+        "club": "Toulon",
+        "caps": "45"
+      },
+      {
+        "name": "Régis Montagne",
+        "position": "Prop",
+        "club": "Clermont",
+        "caps": "7"
+      },
+      {
+        "name": "Rodrigue Neti",
+        "position": "Prop",
+        "club": "Toulouse",
+        "caps": "9"
+      },
+      {
+        "name": "Dany Priso",
+        "position": "Prop",
+        "club": "Toulon",
+        "caps": "18"
+      },
+      {
+        "name": "Tevita Tatafu",
+        "position": "Prop",
+        "club": "Bayonne",
+        "caps": "2"
+      },
+      {
+        "name": "Hugo Auradou",
+        "position": "Lock",
+        "club": "Pau",
+        "caps": "11"
+      },
+      {
+        "name": "Joshua Brennan",
+        "position": "Lock",
+        "club": "Toulouse",
+        "caps": "3"
+      },
+      {
+        "name": "Thibaud Flament",
+        "position": "Lock",
+        "club": "Toulouse",
+        "caps": "38"
+      },
+      {
+        "name": "Mickaël Guillard",
+        "position": "Lock",
+        "club": "Lyon",
+        "caps": "18"
+      },
+      {
+        "name": "Emmanuel Meafou",
+        "position": "Lock",
+        "club": "Toulouse",
+        "caps": "16"
+      },
+      {
+        "name": "Tom Staniforth",
+        "position": "Lock",
+        "club": "Castres",
+        "caps": "0"
+      },
+      {
+        "name": "Cameron Woki",
+        "position": "Lock",
+        "club": "Bordeaux Bègles",
+        "caps": "32"
+      },
+      {
+        "name": "Paul Boudehent",
+        "position": "Back row",
+        "club": "La Rochelle",
+        "caps": "21"
+      },
+      {
+        "name": "François Cros",
+        "position": "Back row",
+        "club": "Toulouse",
+        "caps": "44"
+      },
+      {
+        "name": "Alexandre Fischer",
+        "position": "Back row",
+        "club": "Bayonne",
+        "caps": "3"
+      },
+      {
+        "name": "Oscar Jégou",
+        "position": "Back row",
+        "club": "La Rochelle",
+        "caps": "13"
+      },
+      {
+        "name": "Anthony Jelonch",
+        "position": "Back row",
+        "club": "Toulouse",
+        "caps": "39"
+      },
+      {
+        "name": "Temo Matiu",
+        "position": "Back row",
+        "club": "Bordeaux Bègles",
+        "caps": "1"
+      },
+      {
+        "name": "Lenni Nouchi",
+        "position": "Back row",
+        "club": "Montpellier",
+        "caps": "6"
+      },
+      {
+        "name": "Charles Ollivon",
+        "position": "Back row",
+        "club": "Toulon",
+        "caps": "53"
+      },
+      {
+        "name": "Alexandre Roumat",
+        "position": "Back row",
+        "club": "Toulouse",
+        "caps": "10"
+      },
+      {
+        "name": "Thibault Daubagna",
+        "position": "Scrum-half",
+        "club": "Pau",
+        "caps": "2"
+      },
+      {
+        "name": "Antoine Dupont",
+        "position": "Scrum-half",
+        "club": "Toulouse",
+        "caps": "64"
+      },
+      {
+        "name": "Baptiste Serin",
+        "position": "Scrum-half",
+        "club": "Toulon",
+        "caps": "50"
+      },
+      {
+        "name": "Matthieu Jalibert",
+        "position": "Fly-half",
+        "club": "Bordeaux Bègles",
+        "caps": "39"
+      },
+      {
+        "name": "Ugo Seunes",
+        "position": "Fly-half",
+        "club": "Racing 92",
+        "caps": "0"
+      },
+      {
+        "name": "Pierre-Louis Barassi",
+        "position": "Centre",
+        "club": "Toulouse",
+        "caps": "13"
+      },
+      {
+        "name": "Fabien Brau-Boirie",
+        "position": "Centre",
+        "club": "Pau",
+        "caps": "2"
+      },
+      {
+        "name": "Nicolas Depoortère",
+        "position": "Centre",
+        "club": "Bordeaux Bègles",
+        "caps": "9"
+      },
+      {
+        "name": "Émilien Gailleton",
+        "position": "Centre",
+        "club": "Pau",
+        "caps": "13"
+      },
+      {
+        "name": "Kalvin Gourgues",
+        "position": "Centre",
+        "club": "Toulouse",
+        "caps": "2"
+      },
+      {
+        "name": "Yoram Moefana",
+        "position": "Centre",
+        "club": "Bordeaux Bègles",
+        "caps": "39"
+      },
+      {
+        "name": "Noah Nene",
+        "position": "Centre",
+        "club": "Stade Français",
+        "caps": "1"
+      },
+      {
+        "name": "Théo Attissogbe",
+        "position": "Wing",
+        "club": "Pau",
+        "caps": "13"
+      },
+      {
+        "name": "Louis Bielle-Biarrey",
+        "position": "Wing",
+        "club": "Bordeaux Bègles",
+        "caps": "27"
+      },
+      {
+        "name": "Gaël Dréan",
+        "position": "Wing",
+        "club": "Toulon",
+        "caps": "1"
+      },
+      {
+        "name": "Aaron Grandidier-Nkanang",
+        "position": "Wing",
+        "club": "Pau",
+        "caps": "0"
+      },
+      {
+        "name": "Grégoire Arfeuil",
+        "position": "Fullback",
+        "club": "Pau",
+        "caps": "0"
+      },
+      {
+        "name": "Romain Buros",
+        "position": "Fullback",
+        "club": "Bordeaux Bègles",
+        "caps": "1"
+      },
+      {
+        "name": "Thomas Ramos",
+        "position": "Fullback",
+        "club": "Toulouse",
+        "caps": "52"
+      }
+    ]
+  },
+  "Argentina": {
+    "players": [
+      {
+        "name": "Julián Montoya",
+        "position": "Hooker",
+        "club": "Pau",
+        "caps": "117"
+      },
+      {
+        "name": "Ignacio Ruiz",
+        "position": "Hooker",
+        "club": "Perpignan",
+        "caps": "27"
+      },
+      {
+        "name": "Francisco Coria Marchetti",
+        "position": "Prop",
+        "club": "Brive",
+        "caps": "8"
+      },
+      {
+        "name": "Pedro Delgado",
+        "position": "Prop",
+        "club": "Harlequins",
+        "caps": "9"
+      },
+      {
+        "name": "Thomas Gallo",
+        "position": "Prop",
+        "club": "Benetton",
+        "caps": "40"
+      },
+      {
+        "name": "Tomas Rapetti",
+        "position": "Prop",
+        "club": "Toulouse",
+        "caps": "3"
+      },
+      {
+        "name": "Mayco Vivas",
+        "position": "Prop",
+        "club": "Oyonnax",
+        "caps": "39"
+      },
+      {
+        "name": "Boris Wenger",
+        "position": "Prop",
+        "club": "Harlequins",
+        "caps": "6"
+      },
+      {
+        "name": "Matías Alemanno",
+        "position": "Lock",
+        "club": "Gloucester",
+        "caps": "99"
+      },
+      {
+        "name": "Efraín Elías",
+        "position": "Lock",
+        "club": "Toulouse",
+        "caps": "2"
+      },
+      {
+        "name": "Guido Petti",
+        "position": "Lock",
+        "club": "Harlequins",
+        "caps": "98"
+      },
+      {
+        "name": "Pedro Rubiolo",
+        "position": "Lock",
+        "club": "Bristol Bears",
+        "caps": "31"
+      },
+      {
+        "name": "Juan Martín González",
+        "position": "Back row",
+        "club": "Saracens",
+        "caps": "51"
+      },
+      {
+        "name": "Marcos Kremer",
+        "position": "Back row",
+        "club": "Clermont Auvergne",
+        "caps": "81"
+      },
+      {
+        "name": "Santiago Grondona",
+        "position": "Back row",
+        "club": "Bristol Bears",
+        "caps": "26"
+      },
+      {
+        "name": "Pablo Matera",
+        "position": "Back row",
+        "club": "Mie Honda Heat",
+        "caps": "121"
+      },
+      {
+        "name": "Juan Bautista Pedemonte",
+        "position": "Back row",
+        "club": "Vannes",
+        "caps": "2"
+      },
+      {
+        "name": "Joaquín Oviedo",
+        "position": "Back row",
+        "club": "Perpignan",
+        "caps": "22"
+      },
+      {
+        "name": "Simon Benitez Cruz",
+        "position": "Scrum-half",
+        "club": "Newcastle Falcons",
+        "caps": "10"
+      },
+      {
+        "name": "Gonzalo Bertranou",
+        "position": "Scrum-half",
+        "club": "",
+        "caps": "68"
+      },
+      {
+        "name": "Agustín Moyano",
+        "position": "Scrum-half",
+        "club": "Western Force",
+        "caps": "8"
+      },
+      {
+        "name": "Santiago Carreras",
+        "position": "Fly-half",
+        "club": "Bath",
+        "caps": "63"
+      },
+      {
+        "name": "Gerónimo Prisciantelli",
+        "position": "Fly-half",
+        "club": "Racing 92",
+        "caps": "4"
+      },
+      {
+        "name": "Nicolás Roger",
+        "position": "Fly-half",
+        "club": "",
+        "caps": "3"
+      },
+      {
+        "name": "Santiago Chocobares",
+        "position": "Centre",
+        "club": "Toulouse",
+        "caps": "35"
+      },
+      {
+        "name": "Matías Moroni",
+        "position": "Centre",
+        "club": "Bristol Bears",
+        "caps": "94"
+      },
+      {
+        "name": "Justo Piccardo",
+        "position": "Centre",
+        "club": "Montpellier",
+        "caps": "11"
+      },
+      {
+        "name": "Mateo Carreras",
+        "position": "Wing",
+        "club": "Bayonne",
+        "caps": "33"
+      },
+      {
+        "name": "Bautista Delguy",
+        "position": "Wing",
+        "club": "Clermont Auvergne",
+        "caps": "39"
+      },
+      {
+        "name": "Rodrigo Isgró",
+        "position": "Wing",
+        "club": "Harlequins",
+        "caps": "16"
+      },
+      {
+        "name": "Ignacio Mendy",
+        "position": "Wing",
+        "club": "Benetton",
+        "caps": "4"
+      },
+      {
+        "name": "Benjamín Elizalde",
+        "position": "Fullback",
+        "club": "Bristol Bears",
+        "caps": "4"
+      },
+      {
+        "name": "Juan Cruz Mallía",
+        "position": "Fullback",
+        "club": "Toulouse",
+        "caps": "51"
+      }
+    ]
+  },
+  "England": {
+    "players": [
+      {
+        "name": "Jamie George",
+        "position": "Hooker",
+        "club": "Saracens",
+        "caps": "110"
+      },
+      {
+        "name": "Luke Cowan-Dickie",
+        "position": "Hooker",
+        "club": "Sale Sharks",
+        "caps": "58"
+      },
+      {
+        "name": "Theo Dan",
+        "position": "Hooker",
+        "club": "Saracens",
+        "caps": "20"
+      },
+      {
+        "name": "Ellis Genge",
+        "position": "Prop",
+        "club": "Bristol Bears",
+        "caps": "80"
+      },
+      {
+        "name": "Joe Heyes",
+        "position": "Prop",
+        "club": "Leicester Tigers",
+        "caps": "22"
+      },
+      {
+        "name": "Bevan Rodd",
+        "position": "Prop",
+        "club": "Sale Sharks",
+        "caps": "15"
+      },
+      {
+        "name": "Trevor Davison",
+        "position": "Prop",
+        "club": "Northampton Saints",
+        "caps": "8"
+      },
+      {
+        "name": "Emmanuel Iyogun",
+        "position": "Prop",
+        "club": "Northampton Saints",
+        "caps": "0"
+      },
+      {
+        "name": "Vilikesa Sela",
+        "position": "Prop",
+        "club": "Bath",
+        "caps": "0"
+      },
+      {
+        "name": "Maro Itoje",
+        "position": "Lock",
+        "club": "Saracens",
+        "caps": "102"
+      },
+      {
+        "name": "Ollie Chessum",
+        "position": "Lock",
+        "club": "Leicester Tigers",
+        "caps": "35"
+      },
+      {
+        "name": "Alex Coles",
+        "position": "Lock",
+        "club": "Northampton Saints",
+        "caps": "19"
+      },
+      {
+        "name": "Arthur Clark",
+        "position": "Lock",
+        "club": "Gloucester",
+        "caps": "1"
+      },
+      {
+        "name": "Tom Curry",
+        "position": "Back row",
+        "club": "Sale Sharks",
+        "caps": "68"
+      },
+      {
+        "name": "Ben Earl",
+        "position": "Back row",
+        "club": "Saracens",
+        "caps": "51"
+      },
+      {
+        "name": "Sam Underhill",
+        "position": "Back row",
+        "club": "Bath",
+        "caps": "50"
+      },
+      {
+        "name": "Chandler Cunningham-South",
+        "position": "Back row",
+        "club": "Harlequins",
+        "caps": "22"
+      },
+      {
+        "name": "Guy Pepper",
+        "position": "Back row",
+        "club": "Bath",
+        "caps": "12"
+      },
+      {
+        "name": "Henry Pollock",
+        "position": "Back row",
+        "club": "Northampton Saints",
+        "caps": "10"
+      },
+      {
+        "name": "Greg Fisilau",
+        "position": "Back row",
+        "club": "Exeter Chiefs",
+        "caps": "0"
+      },
+      {
+        "name": "Alex Mitchell",
+        "position": "Scrum-half",
+        "club": "Northampton Saints",
+        "caps": "30"
+      },
+      {
+        "name": "Jack van Poortvliet",
+        "position": "Scrum-half",
+        "club": "Leicester Tigers",
+        "caps": "24"
+      },
+      {
+        "name": "Ben Spencer",
+        "position": "Scrum-half",
+        "club": "Bath",
+        "caps": "18"
+      },
+      {
+        "name": "George Ford",
+        "position": "Fly-half",
+        "club": "Sale Sharks",
+        "caps": "108"
+      },
+      {
+        "name": "Marcus Smith",
+        "position": "Fly-half",
+        "club": "Harlequins",
+        "caps": "50"
+      },
+      {
+        "name": "Fin Smith",
+        "position": "Fly-half",
+        "club": "Northampton Saints",
+        "caps": "16"
+      },
+      {
+        "name": "Henry Slade",
+        "position": "Centre",
+        "club": "Exeter Chiefs",
+        "caps": "74"
+      },
+      {
+        "name": "Ollie Lawrence",
+        "position": "Centre",
+        "club": "Bath",
+        "caps": "38"
+      },
+      {
+        "name": "Fraser Dingwall",
+        "position": "Centre",
+        "club": "Northampton Saints",
+        "caps": "10"
+      },
+      {
+        "name": "Seb Atkinson",
+        "position": "Centre",
+        "club": "Gloucester",
+        "caps": "4"
+      },
+      {
+        "name": "Max Ojomoh",
+        "position": "Centre",
+        "club": "Bath",
+        "caps": "2"
+      },
+      {
+        "name": "Tommy Freeman",
+        "position": "Wing",
+        "club": "Northampton Saints",
+        "caps": "28"
+      },
+      {
+        "name": "Henry Arundell",
+        "position": "Wing",
+        "club": "Bath",
+        "caps": "14"
+      },
+      {
+        "name": "Immanuel Feyi-Waboso",
+        "position": "Wing",
+        "club": "Exeter Chiefs",
+        "caps": "13"
+      },
+      {
+        "name": "Tom Roebuck",
+        "position": "Wing",
+        "club": "Sale Sharks",
+        "caps": "12"
+      },
+      {
+        "name": "Cadan Murley",
+        "position": "Wing",
+        "club": "Harlequins",
+        "caps": "6"
+      },
+      {
+        "name": "Elliot Daly",
+        "position": "Fullback",
+        "club": "Saracens",
+        "caps": "76"
+      },
+      {
+        "name": "Freddie Steward",
+        "position": "Fullback",
+        "club": "Leicester Tigers",
+        "caps": "44"
+      },
+      {
+        "name": "George Furbank",
+        "position": "Fullback",
+        "club": "Northampton Saints",
+        "caps": "14"
+      }
+    ]
+  },
+  "Scotland": {
+    "players": [
+      {
+        "name": "Ewan Ashman",
+        "position": "Hooker",
+        "club": "Edinburgh",
+        "caps": "34"
+      },
+      {
+        "name": "Dave Cherry",
+        "position": "Hooker",
+        "club": "Vannes",
+        "caps": "18"
+      },
+      {
+        "name": "Gregor Hiddleston",
+        "position": "Hooker",
+        "club": "Glasgow Warriors",
+        "caps": "0"
+      },
+      {
+        "name": "George Turner",
+        "position": "Hooker",
+        "club": "Harlequins",
+        "caps": "54"
+      },
+      {
+        "name": "Zander Fagerson",
+        "position": "Prop",
+        "club": "Glasgow Warriors",
+        "caps": "80"
+      },
+      {
+        "name": "Nathan McBeth",
+        "position": "Prop",
+        "club": "Glasgow Warriors",
+        "caps": "8"
+      },
+      {
+        "name": "Elliot Millar-Mills",
+        "position": "Prop",
+        "club": "Northampton Saints",
+        "caps": "14"
+      },
+      {
+        "name": "D'Arcy Rae",
+        "position": "Prop",
+        "club": "Edinburgh",
+        "caps": "6"
+      },
+      {
+        "name": "Pierre Schoeman",
+        "position": "Prop",
+        "club": "Edinburgh",
+        "caps": "48"
+      },
+      {
+        "name": "Rory Sutherland",
+        "position": "Prop",
+        "club": "Glasgow Warriors",
+        "caps": "47"
+      },
+      {
+        "name": "Gregor Brown",
+        "position": "Lock",
+        "club": "Glasgow Warriors",
+        "caps": "16"
+      },
+      {
+        "name": "Alex Craig",
+        "position": "Lock",
+        "club": "Glasgow Warriors",
+        "caps": "6"
+      },
+      {
+        "name": "Scott Cummings",
+        "position": "Lock",
+        "club": "Glasgow Warriors",
+        "caps": "49"
+      },
+      {
+        "name": "Grant Gilchrist",
+        "position": "Lock",
+        "club": "Edinburgh",
+        "caps": "86"
+      },
+      {
+        "name": "Jonny Gray",
+        "position": "Lock",
+        "club": "Bordeaux",
+        "caps": "81"
+      },
+      {
+        "name": "Max Williamson",
+        "position": "Lock",
+        "club": "Glasgow Warriors",
+        "caps": "12"
+      },
+      {
+        "name": "Josh Bayliss",
+        "position": "Back row",
+        "club": "Bath",
+        "caps": "16"
+      },
+      {
+        "name": "Magnus Bradbury",
+        "position": "Back row",
+        "club": "Edinburgh",
+        "caps": "21"
+      },
+      {
+        "name": "Rory Darge",
+        "position": "Back row",
+        "club": "Glasgow Warriors",
+        "caps": "38"
+      },
+      {
+        "name": "Jack Dempsey",
+        "position": "Back row",
+        "club": "Glasgow Warriors",
+        "caps": "32"
+      },
+      {
+        "name": "Freddy Douglas",
+        "position": "Back row",
+        "club": "Edinburgh",
+        "caps": "1"
+      },
+      {
+        "name": "Matt Fagerson",
+        "position": "Back row",
+        "club": "Glasgow Warriors",
+        "caps": "63"
+      },
+      {
+        "name": "Liam McConnell",
+        "position": "Back row",
+        "club": "Edinburgh",
+        "caps": "1"
+      },
+      {
+        "name": "Jamie Ritchie",
+        "position": "Back row",
+        "club": "Perpignan",
+        "caps": "61"
+      },
+      {
+        "name": "Jamie Dobie",
+        "position": "Scrum-half",
+        "club": "Glasgow Warriors",
+        "caps": "19"
+      },
+      {
+        "name": "George Horne",
+        "position": "Scrum-half",
+        "club": "Glasgow Warriors",
+        "caps": "44"
+      },
+      {
+        "name": "Gus Warr",
+        "position": "Scrum-half",
+        "club": "Sale Sharks",
+        "caps": "2"
+      },
+      {
+        "name": "Ben White",
+        "position": "Scrum-half",
+        "club": "Toulon",
+        "caps": "35"
+      },
+      {
+        "name": "Fergus Burke",
+        "position": "Fly-half",
+        "club": "Saracens",
+        "caps": "3"
+      },
+      {
+        "name": "Adam Hastings",
+        "position": "Fly-half",
+        "club": "Glasgow Warriors",
+        "caps": "36"
+      },
+      {
+        "name": "Finn Russell",
+        "position": "Fly-half",
+        "club": "Bath",
+        "caps": "93"
+      },
+      {
+        "name": "Rory Hutchinson",
+        "position": "Centre",
+        "club": "Northampton Saints",
+        "caps": "11"
+      },
+      {
+        "name": "Huw Jones",
+        "position": "Centre",
+        "club": "Glasgow Warriors",
+        "caps": "62"
+      },
+      {
+        "name": "Tom Jordan",
+        "position": "Centre",
+        "club": "Bristol Bears",
+        "caps": "16"
+      },
+      {
+        "name": "Stafford McDowall",
+        "position": "Centre",
+        "club": "Glasgow Warriors",
+        "caps": "16"
+      },
+      {
+        "name": "Sione Tuipulotu",
+        "position": "Centre",
+        "club": "Glasgow Warriors",
+        "caps": "37"
+      },
+      {
+        "name": "Darcy Graham",
+        "position": "Wing",
+        "club": "Edinburgh",
+        "caps": "53"
+      },
+      {
+        "name": "Kyle Rowe",
+        "position": "Wing",
+        "club": "Glasgow Warriors",
+        "caps": "17"
+      },
+      {
+        "name": "Kyle Steyn",
+        "position": "Wing",
+        "club": "Glasgow Warriors",
+        "caps": "32"
+      },
+      {
+        "name": "Duhan van der Merwe",
+        "position": "Wing",
+        "club": "Edinburgh",
+        "caps": "53"
+      },
+      {
+        "name": "Blair Kinghorn",
+        "position": "Fullback",
+        "club": "Toulouse",
+        "caps": "64"
+      },
+      {
+        "name": "Ollie Smith",
+        "position": "Fullback",
+        "club": "Glasgow Warriors",
+        "caps": "12"
+      }
+    ]
+  },
+  "Australia": {
+    "players": [
+      {
+        "name": "Matt Faessler",
+        "position": "Hooker",
+        "club": "Queensland Reds",
+        "caps": "18"
+      },
+      {
+        "name": "Josh Nasser",
+        "position": "Hooker",
+        "club": "Queensland Reds",
+        "caps": "12"
+      },
+      {
+        "name": "Billy Pollard",
+        "position": "Hooker",
+        "club": "ACT Brumbies",
+        "caps": "20"
+      },
+      {
+        "name": "Allan Alaalatoa",
+        "position": "Prop",
+        "club": "NSW Waratahs",
+        "caps": "88"
+      },
+      {
+        "name": "Angus Bell",
+        "position": "Prop",
+        "club": "NSW Waratahs",
+        "caps": "50"
+      },
+      {
+        "name": "Zane Nonggorr",
+        "position": "Prop",
+        "club": "Queensland Reds",
+        "caps": "19"
+      },
+      {
+        "name": "Tom Robertson",
+        "position": "Prop",
+        "club": "Western Force",
+        "caps": "39"
+      },
+      {
+        "name": "Aidan Ross",
+        "position": "Prop",
+        "club": "Queensland Reds",
+        "caps": "3"
+      },
+      {
+        "name": "Taniela Tupou",
+        "position": "Prop",
+        "club": "NSW Waratahs",
+        "caps": "69"
+      },
+      {
+        "name": "Josh Canham",
+        "position": "Lock",
+        "club": "Queensland Reds",
+        "caps": "2"
+      },
+      {
+        "name": "Nick Frost",
+        "position": "Lock",
+        "club": "ACT Brumbies",
+        "caps": "38"
+      },
+      {
+        "name": "Lukhan Salakaia-Loto",
+        "position": "Lock",
+        "club": "Queensland Reds",
+        "caps": "45"
+      },
+      {
+        "name": "Darcy Swain",
+        "position": "Lock",
+        "club": "Western Force",
+        "caps": "17"
+      },
+      {
+        "name": "Jeremy Williams",
+        "position": "Lock",
+        "club": "Western Force",
+        "caps": "25"
+      },
+      {
+        "name": "Nick Champion de Crespigny",
+        "position": "Back row",
+        "club": "Western Force",
+        "caps": "4"
+      },
+      {
+        "name": "Tom Hooper",
+        "position": "Back row",
+        "club": "Exeter Chiefs",
+        "caps": "22"
+      },
+      {
+        "name": "Fraser McReight",
+        "position": "Back row",
+        "club": "Queensland Reds",
+        "caps": "39"
+      },
+      {
+        "name": "Pete Samu",
+        "position": "Back row",
+        "club": "NSW Waratahs",
+        "caps": "34"
+      },
+      {
+        "name": "Carlo Tizzano",
+        "position": "Back row",
+        "club": "Western Force",
+        "caps": "14"
+      },
+      {
+        "name": "Rob Valetini",
+        "position": "Back row",
+        "club": "ACT Brumbies",
+        "caps": "62"
+      },
+      {
+        "name": "Harry Wilson",
+        "position": "Back row",
+        "club": "Queensland Reds",
+        "caps": "36"
+      },
+      {
+        "name": "Jake Gordon",
+        "position": "Scrum-half",
+        "club": "NSW Waratahs",
+        "caps": "37"
+      },
+      {
+        "name": "Ryan Lonergan",
+        "position": "Scrum-half",
+        "club": "ACT Brumbies",
+        "caps": "6"
+      },
+      {
+        "name": "Kalani Thomas",
+        "position": "Scrum-half",
+        "club": "Queensland Reds",
+        "caps": "1"
+      },
+      {
+        "name": "Tane Edmed",
+        "position": "Fly-half",
+        "club": "NSW Waratahs",
+        "caps": "9"
+      },
+      {
+        "name": "Carter Gordon",
+        "position": "Fly-half",
+        "club": "Queensland Reds",
+        "caps": "9"
+      },
+      {
+        "name": "Josh Flook",
+        "position": "Centre",
+        "club": "Queensland Reds",
+        "caps": "6"
+      },
+      {
+        "name": "Len Ikitau",
+        "position": "Centre",
+        "club": "Exeter Chiefs",
+        "caps": "51"
+      },
+      {
+        "name": "Hunter Paisami",
+        "position": "Centre",
+        "club": "Queensland Reds",
+        "caps": "35"
+      },
+      {
+        "name": "Hamish Stewart",
+        "position": "Centre",
+        "club": "Western Force",
+        "caps": "4"
+      },
+      {
+        "name": "Joseph Sua'ali'i",
+        "position": "Centre",
+        "club": "NSW Waratahs",
+        "caps": "18"
+      },
+      {
+        "name": "Filipo Daugunu",
+        "position": "Wing",
+        "club": "Queensland Reds",
+        "caps": "21"
+      },
+      {
+        "name": "Max Jorgensen",
+        "position": "Wing",
+        "club": "NSW Waratahs",
+        "caps": "20"
+      },
+      {
+        "name": "Dylan Pietsch",
+        "position": "Wing",
+        "club": "Western Force",
+        "caps": "9"
+      },
+      {
+        "name": "Harry Potter",
+        "position": "Wing",
+        "club": "Western Force",
+        "caps": "11"
+      },
+      {
+        "name": "Corey Toole",
+        "position": "Wing",
+        "club": "ACT Brumbies",
+        "caps": "6"
+      },
+      {
+        "name": "Andrew Kellaway",
+        "position": "Fullback",
+        "club": "NSW Waratahs",
+        "caps": "49"
+      }
+    ]
+  },
+  "Fiji": {
+    "players": [
+      {
+        "name": "Tevita Ikanivere",
+        "position": "Hooker",
+        "club": "Honda Heat",
+        "caps": "31"
+      },
+      {
+        "name": "Kavaia Tagivetaua",
+        "position": "Hooker",
+        "club": "Toyota Jido Shokki",
+        "caps": "1"
+      },
+      {
+        "name": "Zuriel Togiatama",
+        "position": "Hooker",
+        "club": "Fijian Drua",
+        "caps": "11"
+      },
+      {
+        "name": "Mesake Doge",
+        "position": "Prop",
+        "club": "Fijian Drua",
+        "caps": "26"
+      },
+      {
+        "name": "Haereiti Hetet",
+        "position": "Prop",
+        "club": "Fijian Drua",
+        "caps": "24"
+      },
+      {
+        "name": "Tim Hoyt",
+        "position": "Prop",
+        "club": "Worcester Warriors",
+        "caps": "2"
+      },
+      {
+        "name": "Eroni Mawi",
+        "position": "Prop",
+        "club": "Saracens",
+        "caps": "46"
+      },
+      {
+        "name": "Atunaisa Sokobale",
+        "position": "Prop",
+        "club": "Castres",
+        "caps": "2"
+      },
+      {
+        "name": "Samu Tawake",
+        "position": "Prop",
+        "club": "Fijian Drua",
+        "caps": "18"
+      },
+      {
+        "name": "Temo Mayanavanua",
+        "position": "Lock",
+        "club": "Fijian Drua",
+        "caps": "33"
+      },
+      {
+        "name": "Isoa Nasilasila",
+        "position": "Lock",
+        "club": "Fijian Drua",
+        "caps": "29"
+      },
+      {
+        "name": "Setariki Turagacoke",
+        "position": "Lock",
+        "club": "Stade Français",
+        "caps": "3"
+      },
+      {
+        "name": "Mesake Vocevoce",
+        "position": "Lock",
+        "club": "Fijian Drua",
+        "caps": "16"
+      },
+      {
+        "name": "Elia Canakaivata",
+        "position": "Back row",
+        "club": "Fijian Drua",
+        "caps": "19"
+      },
+      {
+        "name": "Viliame Mata",
+        "position": "Back row",
+        "club": "Bristol Bears",
+        "caps": "37"
+      },
+      {
+        "name": "Motikai Murray",
+        "position": "Back row",
+        "club": "Fijian Drua",
+        "caps": "5"
+      },
+      {
+        "name": "Kitione Salawa Jr.",
+        "position": "Back row",
+        "club": "Fijian Drua",
+        "caps": "12"
+      },
+      {
+        "name": "Pita Gus Sowakula",
+        "position": "Back row",
+        "club": "Clermont",
+        "caps": "3"
+      },
+      {
+        "name": "Lekima Tagitagivalu",
+        "position": "Back row",
+        "club": "Racing 92",
+        "caps": "11"
+      },
+      {
+        "name": "Simione Kuruvoli",
+        "position": "Scrum-half",
+        "club": "Fijian Drua",
+        "caps": "24"
+      },
+      {
+        "name": "Philip Baselala",
+        "position": "Scrum-half",
+        "club": "Fijian Drua",
+        "caps": "4"
+      },
+      {
+        "name": "Sam Wye",
+        "position": "Scrum-half",
+        "club": "Counties Manukau",
+        "caps": "6"
+      },
+      {
+        "name": "Isaiah Armstrong-Ravula",
+        "position": "Fly-half",
+        "club": "Manawatu",
+        "caps": "17"
+      },
+      {
+        "name": "Caleb Muntz",
+        "position": "Fly-half",
+        "club": "Provence",
+        "caps": "21"
+      },
+      {
+        "name": "Vilimoni Botitu",
+        "position": "Centre",
+        "club": "Castres",
+        "caps": "17"
+      },
+      {
+        "name": "Iosefo Masi",
+        "position": "Centre",
+        "club": "Lyon",
+        "caps": "9"
+      },
+      {
+        "name": "Sireli Maqala",
+        "position": "Centre",
+        "club": "Bayonne",
+        "caps": "16"
+      },
+      {
+        "name": "Josua Tuisova",
+        "position": "Centre",
+        "club": "Racing",
+        "caps": "32"
+      },
+      {
+        "name": "Ponepati Loganimasi",
+        "position": "Wing",
+        "club": "Fijian Drua",
+        "caps": "8"
+      },
+      {
+        "name": "Joji Nasova",
+        "position": "Wing",
+        "club": "Fijian Drua",
+        "caps": "3"
+      },
+      {
+        "name": "Seta Tuicuvu",
+        "position": "Wing",
+        "club": "Toulon",
+        "caps": "12"
+      },
+      {
+        "name": "Kalaveti Ravouvou",
+        "position": "Wing",
+        "club": "Bristol Bears",
+        "caps": "15"
+      },
+      {
+        "name": "Selestino Ravutaumada",
+        "position": "Wing",
+        "club": "Racing",
+        "caps": "10"
+      },
+      {
+        "name": "Jiuta Wainiqolo",
+        "position": "Wing",
+        "club": "Lyon",
+        "caps": "18"
+      },
+      {
+        "name": "Salesi Rayasi",
+        "position": "Fullback",
+        "club": "Bordeaux Bègles",
+        "caps": "4"
+      }
+    ]
+  },
+  "Italy": {
+    "players": [
+      {
+        "name": "Tommaso Di Bartolomeo",
+        "position": "Hooker",
+        "club": "Zebre Parma",
+        "caps": "9"
+      },
+      {
+        "name": "Pablo Dimcheff",
+        "position": "Hooker",
+        "club": "Colomiers",
+        "caps": "4"
+      },
+      {
+        "name": "Giacomo Nicotera",
+        "position": "Hooker",
+        "club": "Stade Français",
+        "caps": "40"
+      },
+      {
+        "name": "Simone Ferrari",
+        "position": "Prop",
+        "club": "Benetton",
+        "caps": "73"
+      },
+      {
+        "name": "Danilo Fischetti",
+        "position": "Prop",
+        "club": "Northampton Saints",
+        "caps": "62"
+      },
+      {
+        "name": "Muhamed Hasa",
+        "position": "Prop",
+        "club": "Zebre Parma",
+        "caps": "7"
+      },
+      {
+        "name": "Mirco Spagnolo",
+        "position": "Prop",
+        "club": "Benetton",
+        "caps": "23"
+      },
+      {
+        "name": "Giosuè Zilocchi",
+        "position": "Prop",
+        "club": "Benetton",
+        "caps": "26"
+      },
+      {
+        "name": "Niccolò Cannone",
+        "position": "Lock",
+        "club": "Benetton",
+        "caps": "62"
+      },
+      {
+        "name": "Riccardo Favretto",
+        "position": "Lock",
+        "club": "Benetton",
+        "caps": "12"
+      },
+      {
+        "name": "Federico Ruzza",
+        "position": "Lock",
+        "club": "Benetton",
+        "caps": "71"
+      },
+      {
+        "name": "Andrea Zambonin",
+        "position": "Lock",
+        "club": "Exeter Chiefs",
+        "caps": "18"
+      },
+      {
+        "name": "Lorenzo Cannone",
+        "position": "Back row",
+        "club": "Benetton",
+        "caps": "37"
+      },
+      {
+        "name": "Alessandro Izekor",
+        "position": "Back row",
+        "club": "Benetton",
+        "caps": "8"
+      },
+      {
+        "name": "Michele Lamaro",
+        "position": "Back row",
+        "club": "Benetton",
+        "caps": "53"
+      },
+      {
+        "name": "Samuele Locatelli",
+        "position": "Back row",
+        "club": "Zebre Parma",
+        "caps": "0"
+      },
+      {
+        "name": "David Odiase",
+        "position": "Back row",
+        "club": "Zebre Parma",
+        "caps": "4"
+      },
+      {
+        "name": "Manuel Zuliani",
+        "position": "Back row",
+        "club": "Benetton",
+        "caps": "42"
+      },
+      {
+        "name": "Alessandro Fusco",
+        "position": "Scrum-half",
+        "club": "Zebre Parma",
+        "caps": "24"
+      },
+      {
+        "name": "Alessandro Garbisi",
+        "position": "Scrum-half",
+        "club": "Benetton",
+        "caps": "24"
+      },
+      {
+        "name": "Stephen Varney",
+        "position": "Scrum-half",
+        "club": "Exeter Chiefs",
+        "caps": "36"
+      },
+      {
+        "name": "Giacomo Da Re",
+        "position": "Fly-half",
+        "club": "Zebre Parma",
+        "caps": "6"
+      },
+      {
+        "name": "Paolo Garbisi",
+        "position": "Fly-half",
+        "club": "Toulon",
+        "caps": "53"
+      },
+      {
+        "name": "Ignacio Brex",
+        "position": "Centre",
+        "club": "Toulon",
+        "caps": "51"
+      },
+      {
+        "name": "Leonardo Marin",
+        "position": "Centre",
+        "club": "Benetton",
+        "caps": "21"
+      },
+      {
+        "name": "Damiano Mazza",
+        "position": "Centre",
+        "club": "Zebre Parma",
+        "caps": "0"
+      },
+      {
+        "name": "Tommaso Menoncello",
+        "position": "Centre",
+        "club": "Benetton",
+        "caps": "38"
+      },
+      {
+        "name": "Paolo Odogwu",
+        "position": "Centre",
+        "club": "Benetton",
+        "caps": "8"
+      },
+      {
+        "name": "Monty Ioane",
+        "position": "Wing",
+        "club": "Lyon",
+        "caps": "46"
+      },
+      {
+        "name": "Louis Lynagh",
+        "position": "Wing",
+        "club": "Benetton",
+        "caps": "13"
+      },
+      {
+        "name": "Matt Gallagher",
+        "position": "Fullback",
+        "club": "Benetton",
+        "caps": "3"
+      },
+      {
+        "name": "Lorenzo Pani",
+        "position": "Fullback",
+        "club": "Zebre Parma",
+        "caps": "11"
+      }
+    ]
+  },
+  "Wales": {
+    "players": [
+      {
+        "name": "Liam Belcher",
+        "position": "Hooker",
+        "club": "Cardiff",
+        "caps": "5"
+      },
+      {
+        "name": "Ryan Elias",
+        "position": "Hooker",
+        "club": "Scarlets",
+        "caps": "48"
+      },
+      {
+        "name": "Dewi Lake",
+        "position": "Hooker",
+        "club": "Ospreys",
+        "caps": "31"
+      },
+      {
+        "name": "Evan Lloyd",
+        "position": "Hooker",
+        "club": "Cardiff",
+        "caps": "8"
+      },
+      {
+        "name": "Keiron Assiratti",
+        "position": "Prop",
+        "club": "Cardiff",
+        "caps": "19"
+      },
+      {
+        "name": "Rhys Barratt",
+        "position": "Prop",
+        "club": "Cardiff",
+        "caps": "0"
+      },
+      {
+        "name": "Rhys Carré",
+        "position": "Prop",
+        "club": "Saracens",
+        "caps": "28"
+      },
+      {
+        "name": "Dillon Lewis",
+        "position": "Prop",
+        "club": "Dragons",
+        "caps": "57"
+      },
+      {
+        "name": "Nicky Smith",
+        "position": "Prop",
+        "club": "Leicester Tigers",
+        "caps": "63"
+      },
+      {
+        "name": "Gareth Thomas",
+        "position": "Prop",
+        "club": "Ospreys",
+        "caps": "44"
+      },
+      {
+        "name": "Sam Wainwright",
+        "position": "Prop",
+        "club": "Cardiff",
+        "caps": "4"
+      },
+      {
+        "name": "Ben Warren",
+        "position": "Prop",
+        "club": "Ospreys",
+        "caps": "0"
+      },
+      {
+        "name": "Adam Beard",
+        "position": "Lock",
+        "club": "Montpellier",
+        "caps": "65"
+      },
+      {
+        "name": "Ben Carter",
+        "position": "Lock",
+        "club": "Dragons",
+        "caps": "19"
+      },
+      {
+        "name": "Dafydd Jenkins",
+        "position": "Lock",
+        "club": "Exeter Chiefs",
+        "caps": "31"
+      },
+      {
+        "name": "Freddie Thomas",
+        "position": "Lock",
+        "club": "Gloucester",
+        "caps": "8"
+      },
+      {
+        "name": "Teddy Williams",
+        "position": "Lock",
+        "club": "Cardiff",
+        "caps": "8"
+      },
+      {
+        "name": "James Botham",
+        "position": "Back row",
+        "club": "Cardiff",
+        "caps": "21"
+      },
+      {
+        "name": "Olly Cracknell",
+        "position": "Back row",
+        "club": "Leicester Tigers",
+        "caps": "5"
+      },
+      {
+        "name": "Kane James",
+        "position": "Back row",
+        "club": "Exeter Chiefs",
+        "caps": "0"
+      },
+      {
+        "name": "Harrison Keddie",
+        "position": "Back row",
+        "club": "Dragons",
+        "caps": "0"
+      },
+      {
+        "name": "Alex Mann",
+        "position": "Back row",
+        "club": "Cardiff",
+        "caps": "16"
+      },
+      {
+        "name": "Jac Morgan",
+        "position": "Back row",
+        "club": "Ospreys",
+        "caps": "24"
+      },
+      {
+        "name": "Taine Plumtree",
+        "position": "Back row",
+        "club": "Scarlets",
+        "caps": "14"
+      },
+      {
+        "name": "Tommy Reffell",
+        "position": "Back row",
+        "club": "Leicester Tigers",
+        "caps": "29"
+      },
+      {
+        "name": "Aaron Wainwright",
+        "position": "Back row",
+        "club": "Dragons",
+        "caps": "67"
+      },
+      {
+        "name": "Ryan Woodman",
+        "position": "Back row",
+        "club": "Dragons",
+        "caps": "0"
+      },
+      {
+        "name": "Ellis Bevan",
+        "position": "Scrum-half",
+        "club": "Cardiff",
+        "caps": "6"
+      },
+      {
+        "name": "Kieran Hardy",
+        "position": "Scrum-half",
+        "club": "Ospreys",
+        "caps": "31"
+      },
+      {
+        "name": "Reuben Morgan-Williams",
+        "position": "Scrum-half",
+        "club": "Ospreys",
+        "caps": "2"
+      },
+      {
+        "name": "Tomos Williams",
+        "position": "Scrum-half",
+        "club": "Gloucester",
+        "caps": "72"
+      },
+      {
+        "name": "Sam Costelow",
+        "position": "Fly-half",
+        "club": "Scarlets",
+        "caps": "20"
+      },
+      {
+        "name": "Dan Edwards",
+        "position": "Fly-half",
+        "club": "Ospreys",
+        "caps": "11"
+      },
+      {
+        "name": "Jarrod Evans",
+        "position": "Fly-half",
+        "club": "Harlequins",
+        "caps": "17"
+      },
+      {
+        "name": "Bryn Bradley",
+        "position": "Centre",
+        "club": "Harlequins",
+        "caps": "0"
+      },
+      {
+        "name": "Mason Grady",
+        "position": "Centre",
+        "club": "Cardiff",
+        "caps": "17"
+      },
+      {
+        "name": "Joe Hawkins",
+        "position": "Centre",
+        "club": "Scarlets",
+        "caps": "11"
+      },
+      {
+        "name": "Louie Hennessey",
+        "position": "Centre",
+        "club": "Bath",
+        "caps": "1"
+      },
+      {
+        "name": "Eddie James",
+        "position": "Centre",
+        "club": "Scarlets",
+        "caps": "9"
+      },
+      {
+        "name": "Max Llewellyn",
+        "position": "Centre",
+        "club": "Gloucester Rugby",
+        "caps": "11"
+      },
+      {
+        "name": "Joe Roberts",
+        "position": "Centre",
+        "club": "Scarlets",
+        "caps": "7"
+      },
+      {
+        "name": "Ben Thomas",
+        "position": "Centre",
+        "club": "Cardiff",
+        "caps": "18"
+      },
+      {
+        "name": "Josh Adams",
+        "position": "Wing",
+        "club": "Cardiff",
+        "caps": "70"
+      },
+      {
+        "name": "Gabriel Hamer-Webb",
+        "position": "Wing",
+        "club": "Leicester Tigers",
+        "caps": "1"
+      },
+      {
+        "name": "Ellis Mee",
+        "position": "Wing",
+        "club": "Scarlets",
+        "caps": "8"
+      },
+      {
+        "name": "Louis Rees-Zammit",
+        "position": "Fullback",
+        "club": "Bristol Bears",
+        "caps": "40"
+      },
+      {
+        "name": "Blair Murray",
+        "position": "Fullback",
+        "club": "Scarlets",
+        "caps": "16"
+      },
+      {
+        "name": "Tom Rogers",
+        "position": "Fullback",
+        "club": "Scarlets",
+        "caps": "13"
+      }
+    ]
+  },
+  "Japan": {
+    "players": [
+      {
+        "name": "Shodai Hirao",
+        "position": "Hooker",
+        "club": "Tokyo Sungoliath",
+        "caps": "2"
+      },
+      {
+        "name": "Shoma Sagawa",
+        "position": "Hooker",
+        "club": "Sagamihara DynaBoars",
+        "caps": "0"
+      },
+      {
+        "name": "Kenji Sato",
+        "position": "Hooker",
+        "club": "Saitama Wild Knights",
+        "caps": "9"
+      },
+      {
+        "name": "Sho Furuhata",
+        "position": "Prop",
+        "club": "Saitama Wild Knights",
+        "caps": "1"
+      },
+      {
+        "name": "Ryosuke Iwaihara",
+        "position": "Prop",
+        "club": "Yokohama Canon Eagles",
+        "caps": "5"
+      },
+      {
+        "name": "Sanshiro Kihara",
+        "position": "Prop",
+        "club": "Tokyo Sungoliath",
+        "caps": "0"
+      },
+      {
+        "name": "Kenta Kobayashi",
+        "position": "Prop",
+        "club": "Tokyo Sungoliath",
+        "caps": "9"
+      },
+      {
+        "name": "Shuhei Takeuchi",
+        "position": "Prop",
+        "club": "Tokyo Sungoliath",
+        "caps": "24"
+      },
+      {
+        "name": "Keijiro Tamefusa",
+        "position": "Prop",
+        "club": "Kubota Spears",
+        "caps": "20"
+      },
+      {
+        "name": "Jack Cornelsen",
+        "position": "Lock",
+        "club": "Saitama Wild Knights",
+        "caps": "29"
+      },
+      {
+        "name": "Warner Dearns",
+        "position": "Lock",
+        "club": "Toshiba Brave Lupus Tokyo",
+        "caps": "32"
+      },
+      {
+        "name": "Harry Hockings",
+        "position": "Lock",
+        "club": "Tokyo Sungoliath",
+        "caps": "2"
+      },
+      {
+        "name": "Shohei Ito",
+        "position": "Lock",
+        "club": "Toshiba Brave Lupus Tokyo",
+        "caps": "0"
+      },
+      {
+        "name": "Tyler Paul",
+        "position": "Lock",
+        "club": "Kubota Spears",
+        "caps": "4"
+      },
+      {
+        "name": "Epineri Uluiviti",
+        "position": "Lock",
+        "club": "Sagamihara DynaBoars",
+        "caps": "11"
+      },
+      {
+        "name": "Tiennan Costley",
+        "position": "Back row",
+        "club": "Kobe Steelers",
+        "caps": "11"
+      },
+      {
+        "name": "Ben Gunter",
+        "position": "Back row",
+        "club": "Saitama Wild Knights",
+        "caps": "17"
+      },
+      {
+        "name": "Michael Leitch",
+        "position": "Back row",
+        "club": "Toshiba Brave Lupus Tokyo",
+        "caps": "92"
+      },
+      {
+        "name": "Faulua Makisi",
+        "position": "Back row",
+        "club": "Kubota Spears",
+        "caps": "23"
+      },
+      {
+        "name": "Kanji Shimokawa",
+        "position": "Back row",
+        "club": "Tokyo Sungoliath",
+        "caps": "23"
+      },
+      {
+        "name": "David Van Zeeland",
+        "position": "Back row",
+        "club": "Kubota Spears",
+        "caps": "0"
+      },
+      {
+        "name": "Shu Yamamoto",
+        "position": "Back row",
+        "club": "Black Rams Tokyo",
+        "caps": "0"
+      },
+      {
+        "name": "Asahi Doei",
+        "position": "Scrum-half",
+        "club": "Yokohama Canon Eagles",
+        "caps": "0"
+      },
+      {
+        "name": "Shinobu Fujiwara",
+        "position": "Scrum-half",
+        "club": "Kubota Spears",
+        "caps": "19"
+      },
+      {
+        "name": "Kenta Fukuda",
+        "position": "Scrum-half",
+        "club": "Tokyo Sungoliath",
+        "caps": "8"
+      },
+      {
+        "name": "Naoto Saitō",
+        "position": "Scrum-half",
+        "club": "Toulouse",
+        "caps": "27"
+      },
+      {
+        "name": "Sam Greene",
+        "position": "Fly-half",
+        "club": "Shizuoka Blue Revs",
+        "caps": "6"
+      },
+      {
+        "name": "Kotaro Ito",
+        "position": "Fly-half",
+        "club": "Black Rams Tokyo",
+        "caps": "0"
+      },
+      {
+        "name": "Shinya Komura",
+        "position": "Fly-half",
+        "club": "Toyota Verblitz",
+        "caps": "3"
+      },
+      {
+        "name": "Lee Seung-sin",
+        "position": "Fly-half",
+        "club": "Kobe Steelers",
+        "caps": "29"
+      },
+      {
+        "name": "Yuya Hirose",
+        "position": "Centre",
+        "club": "Kubota Spears Funabashi Tokyo Bay",
+        "caps": "5"
+      },
+      {
+        "name": "Yuki Ikeda",
+        "position": "Centre",
+        "club": "Black Rams Tokyo",
+        "caps": "2"
+      },
+      {
+        "name": "Charlie Lawrence",
+        "position": "Centre",
+        "club": "Mitsubishi Sagamihara DynaBoars",
+        "caps": "9"
+      },
+      {
+        "name": "Dylan Riley",
+        "position": "Centre",
+        "club": "Saitama Wild Knights",
+        "caps": "38"
+      },
+      {
+        "name": "Kippei Ishida",
+        "position": "Wing",
+        "club": "Yokohama Canon Eagles",
+        "caps": "9"
+      },
+      {
+        "name": "Tomoki Osada",
+        "position": "Wing",
+        "club": "Saitama Wild Knights",
+        "caps": "26"
+      },
+      {
+        "name": "Kazuma Ueda",
+        "position": "Wing",
+        "club": "Kobe Steelers",
+        "caps": "2"
+      },
+      {
+        "name": "Yoshitaka Yazaki",
+        "position": "Fullback",
+        "club": "Waseda University",
+        "caps": "9"
+      }
+    ]
+  },
+  "Georgia": {
+    "players": [
+      {
+        "name": "Vano Karkadze",
+        "position": "Hooker",
+        "club": "Oyonnax",
+        "caps": "26"
+      },
+      {
+        "name": "Nikoloz Sutidze",
+        "position": "Hooker",
+        "club": "La Rochelle",
+        "caps": "1"
+      },
+      {
+        "name": "Luka Nioradze",
+        "position": "Hooker",
+        "club": "Aurillac",
+        "caps": "6"
+      },
+      {
+        "name": "Giorgi Akhaladze",
+        "position": "Prop",
+        "club": "ASM Clermont",
+        "caps": "15"
+      },
+      {
+        "name": "Irakli Aptsiauri",
+        "position": "Prop",
+        "club": "Lyon",
+        "caps": "20"
+      },
+      {
+        "name": "Luka Goginava",
+        "position": "Prop",
+        "club": "Stade Montois",
+        "caps": "2"
+      },
+      {
+        "name": "Mamuka Mstoyani",
+        "position": "Prop",
+        "club": "Agen",
+        "caps": "0"
+      },
+      {
+        "name": "Alexsandre Kuntelia",
+        "position": "Prop",
+        "club": "La Rochelle",
+        "caps": "3"
+      },
+      {
+        "name": "Giorgi Melikidze",
+        "position": "Prop",
+        "club": "Stade Français",
+        "caps": "26"
+      },
+      {
+        "name": "Mikheil Babunashvili",
+        "position": "Lock",
+        "club": "Black Lion",
+        "caps": "22"
+      },
+      {
+        "name": "Temur Tsulukidze",
+        "position": "Lock",
+        "club": "Oyonnax Espoirs",
+        "caps": "0"
+      },
+      {
+        "name": "Giorgi Javakhia",
+        "position": "Lock",
+        "club": "Toulon",
+        "caps": "23"
+      },
+      {
+        "name": "Davit Lagvilava",
+        "position": "Lock",
+        "club": "Perpignan",
+        "caps": "0"
+      },
+      {
+        "name": "Gagui Margvelashvili",
+        "position": "Lock",
+        "club": "Racing 92",
+        "caps": "0"
+      },
+      {
+        "name": "Luka Ivanishvili",
+        "position": "Back row",
+        "club": "Bristol Bears",
+        "caps": "25"
+      },
+      {
+        "name": "Ilia Spanderashvili",
+        "position": "Back row",
+        "club": "Valence Romans",
+        "caps": "17"
+      },
+      {
+        "name": "Beka Saghinadze",
+        "position": "Back row",
+        "club": "Lyon",
+        "caps": "51"
+      },
+      {
+        "name": "Tornike Jalagonia",
+        "position": "Back row",
+        "club": "Provence",
+        "caps": "34"
+      },
+      {
+        "name": "Andro Dvali",
+        "position": "Back row",
+        "club": "Perpignan",
+        "caps": "0"
+      },
+      {
+        "name": "Ioane Yashaghashvili",
+        "position": "Back row",
+        "club": "Mont-de-Marsan",
+        "caps": "1"
+      },
+      {
+        "name": "Gela Aprasidze",
+        "position": "Scrum-half",
+        "club": "Perpignan",
+        "caps": "63"
+      },
+      {
+        "name": "Vasil Lobzhanidze",
+        "position": "Scrum-half",
+        "club": "Oyonnax",
+        "caps": "99"
+      },
+      {
+        "name": "Giorgi Spanderashvili",
+        "position": "Scrum-half",
+        "club": "Black Lion",
+        "caps": "0"
+      },
+      {
+        "name": "Tedo Abzhandadze",
+        "position": "Fly-half",
+        "club": "Aurillac",
+        "caps": "57"
+      },
+      {
+        "name": "Luka Matkava",
+        "position": "Fly-half",
+        "club": "Oyonnax",
+        "caps": "31"
+      },
+      {
+        "name": "Giorgi Kveseladze",
+        "position": "Centre",
+        "club": "Grenoble",
+        "caps": "71"
+      },
+      {
+        "name": "Georges Shvelidze",
+        "position": "Centre",
+        "club": "Brive",
+        "caps": "5"
+      },
+      {
+        "name": "Tornike Kakhoidze",
+        "position": "Centre",
+        "club": "Black Lion",
+        "caps": "17"
+      },
+      {
+        "name": "Demur Tapladze",
+        "position": "Centre",
+        "club": "Black Lion",
+        "caps": "45"
+      },
+      {
+        "name": "Davit Barbakadze",
+        "position": "Centre",
+        "club": "Lyon",
+        "caps": "0"
+      },
+      {
+        "name": "Akaki Tabutsadze",
+        "position": "Wing",
+        "club": "Black Lion",
+        "caps": "53"
+      },
+      {
+        "name": "Nikoloz Rekhviashvili",
+        "position": "Wing",
+        "club": "RC Kochebi",
+        "caps": "0"
+      },
+      {
+        "name": "Dachi Papunashvili",
+        "position": "Fullback",
+        "club": "Aurillac",
+        "caps": "4"
+      },
+      {
+        "name": "Otar Metreveli",
+        "position": "Fullback",
+        "club": "Black Lion",
+        "caps": "0"
+      }
+    ]
+  },
+  "Portugal": {
+    "players": [
+      {
+        "name": "Luka Begic",
+        "position": "Hooker",
+        "club": "Mont-de-Marsan",
+        "caps": "17"
+      },
+      {
+        "name": "Maixent da Costa",
+        "position": "Hooker",
+        "club": "Albi",
+        "caps": "0"
+      },
+      {
+        "name": "Luis Lopes",
+        "position": "Hooker",
+        "club": "Direito",
+        "caps": "2"
+      },
+      {
+        "name": "Nuno Mascarenhas",
+        "position": "Hooker",
+        "club": "Cascais",
+        "caps": "8"
+      },
+      {
+        "name": "Pedro Santiago Lopes",
+        "position": "Hooker",
+        "club": "Cascais",
+        "caps": "6"
+      },
+      {
+        "name": "Diego Pinheiro Ruiz",
+        "position": "Hooker",
+        "club": "Provence",
+        "caps": "13"
+      },
+      {
+        "name": "Pedro Vicente",
+        "position": "Hooker",
+        "club": "Agronomia",
+        "caps": "9"
+      },
+      {
+        "name": "Anthony Alves",
+        "position": "Prop",
+        "club": "Mont-de-Marsan",
+        "caps": "34"
+      },
+      {
+        "name": "David Costa",
+        "position": "Prop",
+        "club": "Direito",
+        "caps": "37"
+      },
+      {
+        "name": "Abel da Cunha",
+        "position": "Prop",
+        "club": "Tarbes",
+        "caps": "14"
+      },
+      {
+        "name": "José Lavos",
+        "position": "Prop",
+        "club": "Cascais",
+        "caps": "1"
+      },
+      {
+        "name": "António Prim",
+        "position": "Prop",
+        "club": "Direito",
+        "caps": "14"
+      },
+      {
+        "name": "Martim Souto",
+        "position": "Prop",
+        "club": "Aurillac",
+        "caps": "1"
+      },
+      {
+        "name": "Cody Thomas",
+        "position": "Prop",
+        "club": "Grenoble",
+        "caps": "8"
+      },
+      {
+        "name": "Martim Belo",
+        "position": "Lock",
+        "club": "Cascais",
+        "caps": "17"
+      },
+      {
+        "name": "Guilherme Costa",
+        "position": "Lock",
+        "club": "Técnico",
+        "caps": "2"
+      },
+      {
+        "name": "Pedro Ferreira",
+        "position": "Lock",
+        "club": "Direito",
+        "caps": "2"
+      },
+      {
+        "name": "José Madeira",
+        "position": "Lock",
+        "club": "Grenoble",
+        "caps": "43"
+      },
+      {
+        "name": "Duarte Nunes",
+        "position": "Lock",
+        "club": "Direito",
+        "caps": "2"
+      },
+      {
+        "name": "Duarte Torgal",
+        "position": "Lock",
+        "club": "Direito",
+        "caps": "15"
+      },
+      {
+        "name": "Francisco Almeida",
+        "position": "Back row",
+        "club": "CDUL",
+        "caps": "4"
+      },
+      {
+        "name": "Vasco Baptista",
+        "position": "Back row",
+        "club": "Belenenses",
+        "caps": "20"
+      },
+      {
+        "name": "André da Cunha",
+        "position": "Back row",
+        "club": "Belenenses",
+        "caps": "3"
+      },
+      {
+        "name": "Nicolas Martins",
+        "position": "Back row",
+        "club": "Colomiers",
+        "caps": "27"
+      },
+      {
+        "name": "Sabata Mokhachane",
+        "position": "Back row",
+        "club": "São Miguel",
+        "caps": "0"
+      },
+      {
+        "name": "David Wallis",
+        "position": "Back row",
+        "club": "Belenenses",
+        "caps": "34"
+      },
+      {
+        "name": "Tomas Amado",
+        "position": "Scrum-half",
+        "club": "Agronomia",
+        "caps": "3"
+      },
+      {
+        "name": "Tomás Batista",
+        "position": "Scrum-half",
+        "club": "Lousã",
+        "caps": "0"
+      },
+      {
+        "name": "Hugo Camacho",
+        "position": "Scrum-half",
+        "club": "Béziers",
+        "caps": "14"
+      },
+      {
+        "name": "António Campos",
+        "position": "Scrum-half",
+        "club": "Benfica",
+        "caps": "4"
+      },
+      {
+        "name": "Pedro Lucas",
+        "position": "Scrum-half",
+        "club": "Técnico",
+        "caps": "22"
+      },
+      {
+        "name": "Samuel Marques",
+        "position": "Scrum-half",
+        "club": "Béziers",
+        "caps": "26"
+      },
+      {
+        "name": "Hugo Aubry",
+        "position": "Fly-half",
+        "club": "Béziers",
+        "caps": "11"
+      },
+      {
+        "name": "Tomas Marques",
+        "position": "Fly-half",
+        "club": "",
+        "caps": "0"
+      },
+      {
+        "name": "Tomás Appleton",
+        "position": "Centre",
+        "club": "CDUL",
+        "caps": "79"
+      },
+      {
+        "name": "Martim Faro",
+        "position": "Centre",
+        "club": "CDUL",
+        "caps": "1"
+      },
+      {
+        "name": "Guilherme Vasconcelos",
+        "position": "Centre",
+        "club": "Benfica",
+        "caps": "3"
+      },
+      {
+        "name": "Rodrigo Marta",
+        "position": "Wing",
+        "club": "Colomiers",
+        "caps": "43"
+      },
+      {
+        "name": "Vincent Pinto",
+        "position": "Wing",
+        "club": "Colomiers",
+        "caps": "21"
+      },
+      {
+        "name": "Raffaele Storti",
+        "position": "Wing",
+        "club": "Grenoble",
+        "caps": "33"
+      },
+      {
+        "name": "Alfredo Almeida",
+        "position": "Fullback",
+        "club": "Cascais",
+        "caps": "0"
+      },
+      {
+        "name": "Simão Bento",
+        "position": "Fullback",
+        "club": "Mont-de-Marsan",
+        "caps": "24"
+      },
+      {
+        "name": "Nuno Sousa Guedes",
+        "position": "Fullback",
+        "club": "CDUP",
+        "caps": "41"
+      },
+      {
+        "name": "Manuel Cardoso Pinto",
+        "position": "Fullback",
+        "club": "Agronomia",
+        "caps": "41"
+      },
+      {
+        "name": "Manuel Vareiro",
+        "position": "Fullback",
+        "club": "Provence",
+        "caps": "9"
+      }
+    ]
+  },
+  "Uruguay": {
+    "players": [
+      {
+        "name": "Germán Kessler",
+        "position": "Hooker",
+        "club": "Rouen",
+        "caps": "80"
+      },
+      {
+        "name": "Joaquín Myszka",
+        "position": "Hooker",
+        "club": "Peñarol",
+        "caps": "6"
+      },
+      {
+        "name": "Sebastián Pérez",
+        "position": "Hooker",
+        "club": "Peñarol",
+        "caps": "0"
+      },
+      {
+        "name": "Santiago Cagnone",
+        "position": "Prop",
+        "club": "Peñarol",
+        "caps": "0"
+      },
+      {
+        "name": "Ignacio Péculo",
+        "position": "Prop",
+        "club": "Chicago Hounds",
+        "caps": "33"
+      },
+      {
+        "name": "Mateo Perillo",
+        "position": "Prop",
+        "club": "Peñarol",
+        "caps": "8"
+      },
+      {
+        "name": "Reinaldo Piussi",
+        "position": "Prop",
+        "club": "Unattached",
+        "caps": "16"
+      },
+      {
+        "name": "Francisco Suárez",
+        "position": "Prop",
+        "club": "Peñarol",
+        "caps": "7"
+      },
+      {
+        "name": "Felipe Aliaga",
+        "position": "Lock",
+        "club": "Peñarol",
+        "caps": "27"
+      },
+      {
+        "name": "Ignacio Dotti",
+        "position": "Lock",
+        "club": "Unattached",
+        "caps": "75"
+      },
+      {
+        "name": "Manuel Leindekar",
+        "position": "Lock",
+        "club": "Oyonnax",
+        "caps": "47"
+      },
+      {
+        "name": "Manuel Ardao",
+        "position": "Back row",
+        "club": "Unattached",
+        "caps": "41"
+      },
+      {
+        "name": "Lucas Bianchi",
+        "position": "Back row",
+        "club": "Peñarol",
+        "caps": "27"
+      },
+      {
+        "name": "Santiago Civetta",
+        "position": "Back row",
+        "club": "Peñarol",
+        "caps": "50"
+      },
+      {
+        "name": "Carlos Deus",
+        "position": "Back row",
+        "club": "Peñarol",
+        "caps": "19"
+      },
+      {
+        "name": "Manuel Diana",
+        "position": "Back row",
+        "club": "Peñarol",
+        "caps": "62"
+      },
+      {
+        "name": "Manuel Rosmarino",
+        "position": "Back row",
+        "club": "Peñarol",
+        "caps": "2"
+      },
+      {
+        "name": "Santiago Álvarez",
+        "position": "Scrum-half",
+        "club": "Peñarol",
+        "caps": "19"
+      },
+      {
+        "name": "Ícaro Amarillo",
+        "position": "Fly-half",
+        "club": "Peñarol",
+        "caps": "7"
+      },
+      {
+        "name": "Jean Cotarmanac'h",
+        "position": "Fly-half",
+        "club": "Vannes",
+        "caps": "2"
+      },
+      {
+        "name": "Felipe Etcheverry",
+        "position": "Fly-half",
+        "club": "Peñarol",
+        "caps": "38"
+      },
+      {
+        "name": "Juan Manuel Alonso",
+        "position": "Centre",
+        "club": "Peñarol",
+        "caps": "21"
+      },
+      {
+        "name": "Joaquín Suárez",
+        "position": "Centre",
+        "club": "Peñarol",
+        "caps": "9"
+      },
+      {
+        "name": "Andrés Vilaseca",
+        "position": "Centre",
+        "club": "Peñarol",
+        "caps": "100"
+      },
+      {
+        "name": "Bautista Basso",
+        "position": "Wing",
+        "club": "Peñarol",
+        "caps": "18"
+      },
+      {
+        "name": "Justo Ferrario",
+        "position": "Wing",
+        "club": "Peñarol",
+        "caps": "1"
+      },
+      {
+        "name": "Francisco Gonzalez Capdevila",
+        "position": "Fullback",
+        "club": "Pampas",
+        "caps": "2"
+      },
+      {
+        "name": "Juan Gonzalez",
+        "position": "Fullback",
+        "club": "Worcester Warriors",
+        "caps": "10"
+      }
+    ]
+  },
+  "USA": {
+    "players": [
+      {
+        "name": "Kaleb Geiger",
+        "position": "Hooker",
+        "club": "New England Free Jacks",
+        "caps": "10"
+      },
+      {
+        "name": "Sean McNulty",
+        "position": "Hooker",
+        "club": "Unattached",
+        "caps": "6"
+      },
+      {
+        "name": "Mike Sosene-Feagai",
+        "position": "Hooker",
+        "club": "CA Legion",
+        "caps": "14"
+      },
+      {
+        "name": "David Ainuʻu",
+        "position": "Prop",
+        "club": "Toulouse",
+        "caps": "23"
+      },
+      {
+        "name": "Pono Davis",
+        "position": "Prop",
+        "club": "Unattached",
+        "caps": "13"
+      },
+      {
+        "name": "Jack Iscaro",
+        "position": "Prop",
+        "club": "Stade Français",
+        "caps": "15"
+      },
+      {
+        "name": "Tonga Kofe",
+        "position": "Prop",
+        "club": "Leicester Tigers",
+        "caps": "6"
+      },
+      {
+        "name": "Ezekiel Lindenmuth",
+        "position": "Prop",
+        "club": "Unattached",
+        "caps": "7"
+      },
+      {
+        "name": "Maliu Niuafe",
+        "position": "Prop",
+        "club": "CA Legion",
+        "caps": "3"
+      },
+      {
+        "name": "Payton Talea",
+        "position": "Prop",
+        "club": "Unattached",
+        "caps": "7"
+      },
+      {
+        "name": "Jason Damm",
+        "position": "Lock",
+        "club": "CA Legion",
+        "caps": "15"
+      },
+      {
+        "name": "Brandon Harvey",
+        "position": "Lock",
+        "club": "Unattached",
+        "caps": "1"
+      },
+      {
+        "name": "Vili Helu",
+        "position": "Lock",
+        "club": "Unattached",
+        "caps": "23"
+      },
+      {
+        "name": "Tevita Naqali",
+        "position": "Lock",
+        "club": "Old Glory DC",
+        "caps": "9"
+      },
+      {
+        "name": "Rick Rose",
+        "position": "Lock",
+        "club": "Unattached",
+        "caps": "0"
+      },
+      {
+        "name": "Makeen Alikhan",
+        "position": "Back row",
+        "club": "Anthem RC",
+        "caps": "7"
+      },
+      {
+        "name": "Cory Daniel",
+        "position": "Back row",
+        "club": "Old Glory DC",
+        "caps": "17"
+      },
+      {
+        "name": "Nafi Ma'afu",
+        "position": "Back row",
+        "club": "Montauban",
+        "caps": "2"
+      },
+      {
+        "name": "Christian Poidevin",
+        "position": "Back row",
+        "club": "Unattached",
+        "caps": "6"
+      },
+      {
+        "name": "Marno Redelinghuys",
+        "position": "Back row",
+        "club": "Unattached",
+        "caps": "9"
+      },
+      {
+        "name": "Paddy Ryan",
+        "position": "Back row",
+        "club": "Unattached",
+        "caps": "10"
+      },
+      {
+        "name": "Michael Baska",
+        "position": "Scrum-half",
+        "club": "Chicago Hounds",
+        "caps": "6"
+      },
+      {
+        "name": "Ruben de Haas",
+        "position": "Scrum-half",
+        "club": "Unattached",
+        "caps": "45"
+      },
+      {
+        "name": "Ethan McVeigh",
+        "position": "Scrum-half",
+        "club": "Unattached",
+        "caps": "7"
+      },
+      {
+        "name": "Luke Carty",
+        "position": "Fly-half",
+        "club": "Unattached",
+        "caps": "27"
+      },
+      {
+        "name": "Christopher Hilsenbeck",
+        "position": "Fly-half",
+        "club": "Chicago Hounds",
+        "caps": "5"
+      },
+      {
+        "name": "Dominic Besag",
+        "position": "Centre",
+        "club": "Saint Mary's College",
+        "caps": "15"
+      },
+      {
+        "name": "Tommaso Boni",
+        "position": "Centre",
+        "club": "Unattached",
+        "caps": "11"
+      },
+      {
+        "name": "Tavite Lopeti",
+        "position": "Centre",
+        "club": "Unattached",
+        "caps": "26"
+      },
+      {
+        "name": "Erich Storti",
+        "position": "Centre",
+        "club": "Anthem RC",
+        "caps": "8"
+      },
+      {
+        "name": "Malacchi Esdale",
+        "position": "Wing",
+        "club": "Seattle Seawolves",
+        "caps": "0"
+      },
+      {
+        "name": "Toby Fricker",
+        "position": "Wing",
+        "club": "Bristol Bears",
+        "caps": "10"
+      },
+      {
+        "name": "Lauina Futi",
+        "position": "Wing",
+        "club": "Seattle Seawolves",
+        "caps": "6"
+      },
+      {
+        "name": "Rufus McLean",
+        "position": "Wing",
+        "club": "Unattached",
+        "caps": "6"
+      },
+      {
+        "name": "Mark O'Keeffe",
+        "position": "Wing",
+        "club": "Chicago Hounds",
+        "caps": "4"
+      },
+      {
+        "name": "Mitch Wilson",
+        "position": "Fullback",
+        "club": "Anthem RC",
+        "caps": "17"
+      }
+    ]
+  },
+  "Spain": {
+    "players": [
+      {
+        "name": "Álvaro García",
+        "position": "Hooker",
+        "club": "Stade Français",
+        "caps": "18"
+      },
+      {
+        "name": "Santiago Ovejero",
+        "position": "Hooker",
+        "club": "Aparejadores",
+        "caps": "25"
+      },
+      {
+        "name": "Joaquín Domínguez",
+        "position": "Prop",
+        "club": "Belenenses",
+        "caps": "19"
+      },
+      {
+        "name": "Raúl Calzón",
+        "position": "Prop",
+        "club": "Valladolid",
+        "caps": "6"
+      },
+      {
+        "name": "Thierry Futeu",
+        "position": "Prop",
+        "club": "Liceo Francés",
+        "caps": "45"
+      },
+      {
+        "name": "Joel Merkler",
+        "position": "Prop",
+        "club": "Toulouse",
+        "caps": "11"
+      },
+      {
+        "name": "Hugo Pirlet",
+        "position": "Prop",
+        "club": "Biarritz Olympique",
+        "caps": "6"
+      },
+      {
+        "name": "Lucas Santamaría",
+        "position": "Prop",
+        "club": "Liceo Francés",
+        "caps": "19"
+      },
+      {
+        "name": "Bernardo Vasquez",
+        "position": "Prop",
+        "club": "Aparejadores",
+        "caps": "8"
+      },
+      {
+        "name": "Jon Zabala",
+        "position": "Prop",
+        "club": "Pau",
+        "caps": "31"
+      },
+      {
+        "name": "Matthew Foulds",
+        "position": "Lock",
+        "club": "Santboiana",
+        "caps": "40"
+      },
+      {
+        "name": "Pablo Guirao",
+        "position": "Lock",
+        "club": "Santboiana",
+        "caps": "38"
+      },
+      {
+        "name": "Ignacio Piñeiro",
+        "position": "Lock",
+        "club": "Grenoble",
+        "caps": "18"
+      },
+      {
+        "name": "Antonio Suárez",
+        "position": "Lock",
+        "club": "Alcobendas",
+        "caps": "1"
+      },
+      {
+        "name": "Imanol Urraza",
+        "position": "Lock",
+        "club": "Aparejadores",
+        "caps": "10"
+      },
+      {
+        "name": "Manex Ariceta",
+        "position": "Back row",
+        "club": "Bayonne",
+        "caps": "7"
+      },
+      {
+        "name": "Vicente Boronat",
+        "position": "Back row",
+        "club": "Aparejadores",
+        "caps": "10"
+      },
+      {
+        "name": "Ekain Imaz",
+        "position": "Back row",
+        "club": "Biarritz",
+        "caps": "20"
+      },
+      {
+        "name": "Raphaël Nieto",
+        "position": "Back row",
+        "club": "Stade Niortais",
+        "caps": "16"
+      },
+      {
+        "name": "Mario Pichardie",
+        "position": "Back row",
+        "club": "Bourgoin-Jallieu",
+        "caps": "22"
+      },
+      {
+        "name": "Alex Saleta",
+        "position": "Back row",
+        "club": "Valladolid",
+        "caps": "10"
+      },
+      {
+        "name": "Matheo Triki",
+        "position": "Back row",
+        "club": "El Salvador",
+        "caps": "11"
+      },
+      {
+        "name": "Kerman Aurrekoetxea",
+        "position": "Scrum-half",
+        "club": "Biarritz Olympique",
+        "caps": "18"
+      },
+      {
+        "name": "Estanislao Bay",
+        "position": "Scrum-half",
+        "club": "Seville",
+        "caps": "29"
+      },
+      {
+        "name": "Nicolás Infer",
+        "position": "Scrum-half",
+        "club": "Cisneros",
+        "caps": "2"
+      },
+      {
+        "name": "Gonzalo López-Bontempo",
+        "position": "Fly-half",
+        "club": "Massy",
+        "caps": "18"
+      },
+      {
+        "name": "Lucien Richardis",
+        "position": "Fly-half",
+        "club": "Toulouse",
+        "caps": "4"
+      },
+      {
+        "name": "Gonzalo Vinuesa",
+        "position": "Fly-half",
+        "club": "Cisneros",
+        "caps": "27"
+      },
+      {
+        "name": "Samuel Ezeala",
+        "position": "Centre",
+        "club": "Stade Français",
+        "caps": "1"
+      },
+      {
+        "name": "Yago Fernández",
+        "position": "Centre",
+        "club": "Alcobendas",
+        "caps": "1"
+      },
+      {
+        "name": "Álvar Gimeno",
+        "position": "Centre",
+        "club": "Valencia",
+        "caps": "48"
+      },
+      {
+        "name": "Iñaki Mateu",
+        "position": "Centre",
+        "club": "Alcobendas",
+        "caps": "31"
+      },
+      {
+        "name": "Pau Aira",
+        "position": "Wing",
+        "club": "Barcelona",
+        "caps": "9"
+      },
+      {
+        "name": "Martiniano Cian",
+        "position": "Wing",
+        "club": "Valladolid",
+        "caps": "21"
+      },
+      {
+        "name": "Egoitz García",
+        "position": "Wing",
+        "club": "Ordizia",
+        "caps": "0"
+      },
+      {
+        "name": "Alejandro Laforga",
+        "position": "Wing",
+        "club": "Cisneros",
+        "caps": "2"
+      },
+      {
+        "name": "J. W. Bell",
+        "position": "Fullback",
+        "club": "Harlequins RC",
+        "caps": "30"
+      },
+      {
+        "name": "Alberto Carmona",
+        "position": "Fullback",
+        "club": "Colomiers",
+        "caps": "18"
+      },
+      {
+        "name": "Beltrán Ortega",
+        "position": "Fullback",
+        "club": "Valladolid",
+        "caps": "0"
+      }
+    ]
+  },
+  "Chile": {
+    "players": [
+      {
+        "name": "Augusto Böhme",
+        "position": "Hooker",
+        "club": "Unattached",
+        "caps": "41"
+      },
+      {
+        "name": "Jorge Delgado",
+        "position": "Hooker",
+        "club": "Selknam",
+        "caps": "1"
+      },
+      {
+        "name": "Benjamín Moreno",
+        "position": "Hooker",
+        "club": "",
+        "caps": "0"
+      },
+      {
+        "name": "Norman Aguayo",
+        "position": "Prop",
+        "club": "Selknam",
+        "caps": "6"
+      },
+      {
+        "name": "Javier Carrasco",
+        "position": "Prop",
+        "club": "Selknam",
+        "caps": "39"
+      },
+      {
+        "name": "Baltazar Gurruchaga",
+        "position": "Prop",
+        "club": "Selknam",
+        "caps": "0"
+      },
+      {
+        "name": "Iñaki Gurruchaga",
+        "position": "Prop",
+        "club": "Vannes",
+        "caps": "30"
+      },
+      {
+        "name": "Salvador Lues",
+        "position": "Prop",
+        "club": "Selknam",
+        "caps": "31"
+      },
+      {
+        "name": "Emiliano Shae",
+        "position": "Prop",
+        "club": "Selknam",
+        "caps": "0"
+      },
+      {
+        "name": "Santiago Pedrero",
+        "position": "Lock",
+        "club": "Selknam",
+        "caps": "28"
+      },
+      {
+        "name": "Bruno Sáez",
+        "position": "Lock",
+        "club": "Selknam",
+        "caps": "10"
+      },
+      {
+        "name": "Augusto Villanueva",
+        "position": "Lock",
+        "club": "Selknam",
+        "caps": "2"
+      },
+      {
+        "name": "Alfonso Escobar",
+        "position": "Back row",
+        "club": "Selknam",
+        "caps": "39"
+      },
+      {
+        "name": "Raimundo Martínez",
+        "position": "Back row",
+        "club": "Selknam",
+        "caps": "32"
+      },
+      {
+        "name": "Joaquin Milesi",
+        "position": "Back row",
+        "club": "Selknam",
+        "caps": "8"
+      },
+      {
+        "name": "Clemente Saavedra",
+        "position": "Back row",
+        "club": "Selknam",
+        "caps": "41"
+      },
+      {
+        "name": "Ernesto Tchimino",
+        "position": "Back row",
+        "club": "Selknam",
+        "caps": "10"
+      },
+      {
+        "name": "Santiago Valenzuela",
+        "position": "Back row",
+        "club": "Selknam",
+        "caps": "1"
+      },
+      {
+        "name": "Lucas Berti",
+        "position": "Scrum-half",
+        "club": "Montpellier",
+        "caps": "10"
+      },
+      {
+        "name": "Juan Sebastián Bianchi",
+        "position": "Scrum-half",
+        "club": "Selknam",
+        "caps": "1"
+      },
+      {
+        "name": "Rodrigo Fernández",
+        "position": "Fly-half",
+        "club": "Colorno",
+        "caps": "37"
+      },
+      {
+        "name": "Juan Cruz Reyes",
+        "position": "Fly-half",
+        "club": "Selknam",
+        "caps": "10"
+      },
+      {
+        "name": "Tomás Salas",
+        "position": "Fly-half",
+        "club": "Selknam",
+        "caps": "8"
+      },
+      {
+        "name": "Rodrigo Araya",
+        "position": "Centre",
+        "club": "",
+        "caps": "0"
+      },
+      {
+        "name": "Matías Garafulic",
+        "position": "Centre",
+        "club": "Selknam",
+        "caps": "27"
+      },
+      {
+        "name": "Domingo Saavedra",
+        "position": "Centre",
+        "club": "Selknam",
+        "caps": "42"
+      },
+      {
+        "name": "Santiago Videla",
+        "position": "Centre",
+        "club": "Unattached",
+        "caps": "46"
+      },
+      {
+        "name": "Clemente Armstrong",
+        "position": "Wing",
+        "club": "Selknam",
+        "caps": "3"
+      },
+      {
+        "name": "Cristóbal Game Jiménez",
+        "position": "Wing",
+        "club": "Selknam",
+        "caps": "11"
+      },
+      {
+        "name": "Federico Kennedy",
+        "position": "Wing",
+        "club": "Selknam",
+        "caps": "0"
+      },
+      {
+        "name": "Nicolás Saab",
+        "position": "Wing",
+        "club": "Selknam",
+        "caps": "9"
+      },
+      {
+        "name": "Felipe Méndez",
+        "position": "Fullback",
+        "club": "Selknam",
+        "caps": "0"
+      }
+    ]
+  },
+  "Tonga": {
+    "players": [
+      {
+        "name": "Sam Moli",
+        "position": "Hooker",
+        "club": "Tasman",
+        "caps": "22"
+      },
+      {
+        "name": "Sosefo Sakalia",
+        "position": "Hooker",
+        "club": "",
+        "caps": "24"
+      },
+      {
+        "name": "Siegfried Fisiʻihoi",
+        "position": "Prop",
+        "club": "Massy",
+        "caps": "32"
+      },
+      {
+        "name": "Phil Kite",
+        "position": "Prop",
+        "club": "Colomiers",
+        "caps": "3"
+      },
+      {
+        "name": "Fatongia Paea",
+        "position": "Prop",
+        "club": "Auckland",
+        "caps": "1"
+      },
+      {
+        "name": "Ben Tameifuna",
+        "position": "Prop",
+        "club": "Bordeaux Bègles",
+        "caps": "43"
+      },
+      {
+        "name": "Siate Tokolahi",
+        "position": "Prop",
+        "club": "Pau",
+        "caps": "5"
+      },
+      {
+        "name": "Tupou Afungia",
+        "position": "Lock",
+        "club": "Unattached",
+        "caps": "10"
+      },
+      {
+        "name": "Viliami Napa'a",
+        "position": "Lock",
+        "club": "",
+        "caps": "0"
+      },
+      {
+        "name": "Harison Mataele",
+        "position": "Lock",
+        "club": "Unattached",
+        "caps": "15"
+      },
+      {
+        "name": "Sitaleki Timani",
+        "position": "Lock",
+        "club": "Carcassonne",
+        "caps": "1"
+      },
+      {
+        "name": "Veikoso Poloniati",
+        "position": "Lock",
+        "club": "Unattached",
+        "caps": "6"
+      },
+      {
+        "name": "Lotu Inisi",
+        "position": "Back row",
+        "club": "Takapuna",
+        "caps": "13"
+      },
+      {
+        "name": "Fotu Lokotui",
+        "position": "Back row",
+        "club": "Niort",
+        "caps": "21"
+      },
+      {
+        "name": "Siosiua Moala",
+        "position": "Back row",
+        "club": "Poverty Bay",
+        "caps": "7"
+      },
+      {
+        "name": "Semisi Paea",
+        "position": "Back row",
+        "club": "Bay of Plenty",
+        "caps": "10"
+      },
+      {
+        "name": "Aisea Halo",
+        "position": "Scrum-half",
+        "club": "Counties Manukau",
+        "caps": "12"
+      },
+      {
+        "name": "Siaosi Nginingini",
+        "position": "Scrum-half",
+        "club": "North Harbour",
+        "caps": "3"
+      },
+      {
+        "name": "Sonatane Takulua",
+        "position": "Scrum-half",
+        "club": "Carcassonne",
+        "caps": "62"
+      },
+      {
+        "name": "William Havili",
+        "position": "Fly-half",
+        "club": "Tasman",
+        "caps": "16"
+      },
+      {
+        "name": "Patrick Pellegrini",
+        "position": "Fly-half",
+        "club": "Moana Pasifika",
+        "caps": "16"
+      },
+      {
+        "name": "Tima Faingaʻanuku",
+        "position": "Centre",
+        "club": "North Harbour",
+        "caps": "10"
+      },
+      {
+        "name": "Solomone Kata",
+        "position": "Centre",
+        "club": "Leicester Tigers",
+        "caps": "15"
+      },
+      {
+        "name": "Ofa Manuofetoa",
+        "position": "Centre",
+        "club": "Aurillac",
+        "caps": "0"
+      },
+      {
+        "name": "Taniela Filimone",
+        "position": "Wing",
+        "club": "Manawatu",
+        "caps": "4"
+      },
+      {
+        "name": "Fine Inisi",
+        "position": "Wing",
+        "club": "Dragons",
+        "caps": "17"
+      },
+      {
+        "name": "John Tapueluelu",
+        "position": "Wing",
+        "club": "",
+        "caps": "10"
+      },
+      {
+        "name": "Anzelo Tuitavuki",
+        "position": "Wing",
+        "club": "Colomiers",
+        "caps": "8"
+      },
+      {
+        "name": "Josiah Unga",
+        "position": "Fullback",
+        "club": "Auckland Marist",
+        "caps": "6"
+      }
+    ]
+  },
+  "Samoa": {
+    "players": [
+      {
+        "name": "Sama Malolo",
+        "position": "Hooker",
+        "club": "Perpignan",
+        "caps": "14"
+      },
+      {
+        "name": "Mills Sanerivi",
+        "position": "Hooker",
+        "club": "Moana Pasifika",
+        "caps": "2"
+      },
+      {
+        "name": "Luteru Tolai",
+        "position": "Hooker",
+        "club": "Biarritz",
+        "caps": "11"
+      },
+      {
+        "name": "Jarred Adams",
+        "position": "Prop",
+        "club": "",
+        "caps": "6"
+      },
+      {
+        "name": "Michael Alaalatoa",
+        "position": "Prop",
+        "club": "Clermont",
+        "caps": "26"
+      },
+      {
+        "name": "Titi Lamositele",
+        "position": "Prop",
+        "club": "Harlequins",
+        "caps": "3"
+      },
+      {
+        "name": "Scott Sio",
+        "position": "Prop",
+        "club": "Exeter Chiefs",
+        "caps": "1"
+      },
+      {
+        "name": "Tietie Tuimauga",
+        "position": "Prop",
+        "club": "Saracens",
+        "caps": "9"
+      },
+      {
+        "name": "Michael Curry",
+        "position": "Lock",
+        "club": "Moana Pasifika",
+        "caps": "15"
+      },
+      {
+        "name": "Theo McFarland",
+        "position": "Lock",
+        "club": "Saracens",
+        "caps": "23"
+      },
+      {
+        "name": "Ben Nee-Nee",
+        "position": "Lock",
+        "club": "Kamaishi Seawaves",
+        "caps": "17"
+      },
+      {
+        "name": "Miracle Faiʻilagi",
+        "position": "Back row",
+        "club": "Moana Pasifika",
+        "caps": "5"
+      },
+      {
+        "name": "Niko Jones",
+        "position": "Back row",
+        "club": "Waitemata",
+        "caps": "2"
+      },
+      {
+        "name": "Iakopo Mapu",
+        "position": "Back row",
+        "club": "Stade Français",
+        "caps": "14"
+      },
+      {
+        "name": "Alamanda Motuga",
+        "position": "Back row",
+        "club": "Moana Pasifika",
+        "caps": "13"
+      },
+      {
+        "name": "Abraham Papali'i",
+        "position": "Back row",
+        "club": "Castres Olympique",
+        "caps": "4"
+      },
+      {
+        "name": "Taleni Seu",
+        "position": "Back row",
+        "club": "Toyota Jido Shokki",
+        "caps": "15"
+      },
+      {
+        "name": "Joel Lam",
+        "position": "Scrum-half",
+        "club": "",
+        "caps": "3"
+      },
+      {
+        "name": "Jonathan Taumateine",
+        "position": "Scrum-half",
+        "club": "Moana Pasifika",
+        "caps": "18"
+      },
+      {
+        "name": "Connor Tupai",
+        "position": "Scrum-half",
+        "club": "Unattached",
+        "caps": "7"
+      },
+      {
+        "name": "Rodney Iona",
+        "position": "Fly-half",
+        "club": "Seattle Seawolves",
+        "caps": "16"
+      },
+      {
+        "name": "Jacob Umaga",
+        "position": "Fly-half",
+        "club": "Benetton",
+        "caps": "3"
+      },
+      {
+        "name": "Lalomilo Lalomilo",
+        "position": "Centre",
+        "club": "Moana Pasifika",
+        "caps": "6"
+      },
+      {
+        "name": "Tumua Manu",
+        "position": "Centre",
+        "club": "Pau",
+        "caps": "13"
+      },
+      {
+        "name": "Melani Nanai",
+        "position": "Centre",
+        "club": "Capilano",
+        "caps": "8"
+      },
+      {
+        "name": "Faletoi Peni",
+        "position": "Centre",
+        "club": "Southland",
+        "caps": "2"
+      },
+      {
+        "name": "Va'a Apelu Maliko",
+        "position": "Wing",
+        "club": "Suresnes",
+        "caps": "2"
+      },
+      {
+        "name": "Latrell Smiler-Ah Kiong",
+        "position": "Wing",
+        "club": "Western Sydney Two Blues",
+        "caps": "5"
+      },
+      {
+        "name": "Tuna Tuitama",
+        "position": "Wing",
+        "club": "Moana Pasifika",
+        "caps": "9"
+      },
+      {
+        "name": "Duncan Paia'aua",
+        "position": "Fullback",
+        "club": "Perpignan",
+        "caps": "13"
+      }
+    ]
+  },
+  "Belgium": {
+    "players": [
+      {
+        "name": "Alexandre Raynier",
+        "position": "Hooker",
+        "club": "Auch",
+        "caps": "21"
+      },
+      {
+        "name": "Vincent Tauzia",
+        "position": "Hooker",
+        "club": "",
+        "caps": "13"
+      },
+      {
+        "name": "Charlesty Berguet",
+        "position": "Prop",
+        "club": "Vannes",
+        "caps": "13"
+      },
+      {
+        "name": "Jean-Baptiste de Clercq",
+        "position": "Prop",
+        "club": "Albi",
+        "caps": "17"
+      },
+      {
+        "name": "Maxime Jadot",
+        "position": "Prop",
+        "club": "",
+        "caps": "56"
+      },
+      {
+        "name": "Basile van Parys",
+        "position": "Prop",
+        "club": "",
+        "caps": "14"
+      },
+      {
+        "name": "Seppe Verelst",
+        "position": "Prop",
+        "club": "",
+        "caps": "6"
+      },
+      {
+        "name": "Bruno Vliegen",
+        "position": "Prop",
+        "club": "Olympique Marcquois",
+        "caps": "17"
+      },
+      {
+        "name": "Gillian Benoy",
+        "position": "Lock",
+        "club": "Béziers",
+        "caps": "31"
+      },
+      {
+        "name": "Maurice Fromont",
+        "position": "Lock",
+        "club": "",
+        "caps": "9"
+      },
+      {
+        "name": "Maximilien Hendrickx",
+        "position": "Lock",
+        "club": "Suresnes",
+        "caps": "27"
+      },
+      {
+        "name": "Jérémie Brasseur",
+        "position": "Back row",
+        "club": "Orléans",
+        "caps": "14"
+      },
+      {
+        "name": "Toon Deceuninck",
+        "position": "Back row",
+        "club": "Auch",
+        "caps": "24"
+      },
+      {
+        "name": "Jean-Maurice Decubber",
+        "position": "Back row",
+        "club": "Angoulême",
+        "caps": "20"
+      },
+      {
+        "name": "Felipe Geraghty",
+        "position": "Back row",
+        "club": "",
+        "caps": "7"
+      },
+      {
+        "name": "Lucas Rassinfosse",
+        "position": "Back row",
+        "club": "",
+        "caps": "14"
+      },
+      {
+        "name": "William Van Bost",
+        "position": "Back row",
+        "club": "Béziers",
+        "caps": "14"
+      },
+      {
+        "name": "Julien Berger",
+        "position": "Scrum-half",
+        "club": "",
+        "caps": "65"
+      },
+      {
+        "name": "Isaac Montoisy",
+        "position": "Scrum-half",
+        "club": "",
+        "caps": "19"
+      },
+      {
+        "name": "Timothé Rifon",
+        "position": "Scrum-half",
+        "club": "",
+        "caps": "13"
+      },
+      {
+        "name": "Hugo De Francq",
+        "position": "Fly-half",
+        "club": "Agronomia",
+        "caps": "20"
+      },
+      {
+        "name": "Matias Remue",
+        "position": "Fly-half",
+        "club": "Toulouse Espoirs",
+        "caps": "13"
+      },
+      {
+        "name": "Florian Remue",
+        "position": "Centre",
+        "club": "Valence d’Agen",
+        "caps": "27"
+      },
+      {
+        "name": "Jens Torfs",
+        "position": "Centre",
+        "club": "",
+        "caps": "39"
+      },
+      {
+        "name": "Maxime Vacquier",
+        "position": "Centre",
+        "club": "Béziers",
+        "caps": "7"
+      },
+      {
+        "name": "Robin Wedlake",
+        "position": "Centre",
+        "club": "Camborne",
+        "caps": "0"
+      },
+      {
+        "name": "Dazzy Cornez",
+        "position": "Wing",
+        "club": "Aubenas",
+        "caps": "25"
+      },
+      {
+        "name": "Lucas Michiels",
+        "position": "Wing",
+        "club": "Alcobendas",
+        "caps": "4"
+      },
+      {
+        "name": "Ervin Muric",
+        "position": "Wing",
+        "club": "Olympique Marcquois",
+        "caps": "19"
+      },
+      {
+        "name": "Thomas Wallraf",
+        "position": "Wing",
+        "club": "",
+        "caps": "32"
+      },
+      {
+        "name": "Siméon Soenen",
+        "position": "Fullback",
+        "club": "Albi",
+        "caps": "15"
+      }
+    ]
+  },
+  "Romania": {
+    "players": [
+      {
+        "name": "Ștefan Buruiană",
+        "position": "Hooker",
+        "club": "Castres Olympique",
+        "caps": "12"
+      },
+      {
+        "name": "Tudor Butnariu",
+        "position": "Hooker",
+        "club": "Timișoara",
+        "caps": "23"
+      },
+      {
+        "name": "Ovidiu Cojocaru",
+        "position": "Hooker",
+        "club": "Baia Mare",
+        "caps": "39"
+      },
+      {
+        "name": "Robert Irimescu",
+        "position": "Hooker",
+        "club": "West Harbour",
+        "caps": "13"
+      },
+      {
+        "name": "Vasile Balan",
+        "position": "Prop",
+        "club": "Steaua București",
+        "caps": "28"
+      },
+      {
+        "name": "Thomas Crețu",
+        "position": "Prop",
+        "club": "Dax",
+        "caps": "12"
+      },
+      {
+        "name": "Gheorghe Gajion",
+        "position": "Prop",
+        "club": "Stade Montois",
+        "caps": "20"
+      },
+      {
+        "name": "Iulian Harțig",
+        "position": "Prop",
+        "club": "Dinamo București",
+        "caps": "28"
+      },
+      {
+        "name": "Cosmin Manole",
+        "position": "Prop",
+        "club": "Dinamo București",
+        "caps": "11"
+      },
+      {
+        "name": "Alexandru Savin",
+        "position": "Prop",
+        "club": "Rapid",
+        "caps": "47"
+      },
+      {
+        "name": "Joji Sikote",
+        "position": "Prop",
+        "club": "Timișoara",
+        "caps": "1"
+      },
+      {
+        "name": "Marius Antonescu",
+        "position": "Lock",
+        "club": "Narbonne",
+        "caps": "52"
+      },
+      {
+        "name": "Ionuț Donici",
+        "position": "Lock",
+        "club": "Steaua București",
+        "caps": "0"
+      },
+      {
+        "name": "Nicolaas Immelman",
+        "position": "Lock",
+        "club": "Baia Mare",
+        "caps": "13"
+      },
+      {
+        "name": "Andrei Mahu",
+        "position": "Lock",
+        "club": "Massy",
+        "caps": "18"
+      },
+      {
+        "name": "David Trăușan",
+        "position": "Lock",
+        "club": "Timișoara",
+        "caps": "0"
+      },
+      {
+        "name": "Matthew Tweddle",
+        "position": "Lock",
+        "club": "Steaua București",
+        "caps": "7"
+      },
+      {
+        "name": "Kemal Altinok",
+        "position": "Back row",
+        "club": "Timișoara",
+        "caps": "6"
+      },
+      {
+        "name": "Cristi Boboc",
+        "position": "Back row",
+        "club": "Steaua București",
+        "caps": "23"
+      },
+      {
+        "name": "Cristi Chirică",
+        "position": "Back row",
+        "club": "Dinamo București",
+        "caps": "23"
+      },
+      {
+        "name": "Adrian Mitu",
+        "position": "Back row",
+        "club": "Soyaux Angoulême",
+        "caps": "11"
+      },
+      {
+        "name": "Vlad Neculau",
+        "position": "Back row",
+        "club": "Timișoara",
+        "caps": "28"
+      },
+      {
+        "name": "Dragoș Ser",
+        "position": "Back row",
+        "club": "Timișoara",
+        "caps": "24"
+      },
+      {
+        "name": "Alin Conache",
+        "position": "Scrum-half",
+        "club": "Steaua București",
+        "caps": "28"
+      },
+      {
+        "name": "Gabriel Rupanu",
+        "position": "Scrum-half",
+        "club": "Timișoara",
+        "caps": "41"
+      },
+      {
+        "name": "Toma Mîrzac",
+        "position": "Scrum-half",
+        "club": "Baia Mare",
+        "caps": "1"
+      },
+      {
+        "name": "Dănuț Jipa",
+        "position": "Fly-half",
+        "club": "Rapid",
+        "caps": "0"
+      },
+      {
+        "name": "Hinckley Vaovasa",
+        "position": "Fly-half",
+        "club": "Dinamo București",
+        "caps": "34"
+      },
+      {
+        "name": "Alexandru Bucur",
+        "position": "Centre",
+        "club": "Timișoara",
+        "caps": "19"
+      },
+      {
+        "name": "Mihai Graure",
+        "position": "Centre",
+        "club": "Dinamo București",
+        "caps": "15"
+      },
+      {
+        "name": "Gabriel Pop",
+        "position": "Centre",
+        "club": "Rapid",
+        "caps": "11"
+      },
+      {
+        "name": "Atila Septar",
+        "position": "Centre",
+        "club": "Nissa",
+        "caps": "8"
+      },
+      {
+        "name": "Jason Tomane",
+        "position": "Centre",
+        "club": "Baia Mare",
+        "caps": "28"
+      },
+      {
+        "name": "Tevita Manumua",
+        "position": "Wing",
+        "club": "Timișoara",
+        "caps": "22"
+      },
+      {
+        "name": "Nicholas Onutu",
+        "position": "Wing",
+        "club": "",
+        "caps": "31"
+      },
+      {
+        "name": "Fonovai Tangimana",
+        "position": "Wing",
+        "club": "Dinamo București",
+        "caps": "36"
+      },
+      {
+        "name": "Iliesa Tiqe",
+        "position": "Wing",
+        "club": "Timișoara",
+        "caps": "3"
+      },
+      {
+        "name": "Ovidiu Neagu",
+        "position": "Fullback",
+        "club": "Timișoara",
+        "caps": "8"
+      },
+      {
+        "name": "Paul Popoaia",
+        "position": "Fullback",
+        "club": "Baia Mare",
+        "caps": "21"
+      }
+    ]
+  },
+  "Hong Kong China": {
+    "players": [
+      {
+        "name": "Harry Baron",
+        "position": "Hooker",
+        "club": "Hong Kong Scottish",
+        "caps": "1"
+      },
+      {
+        "name": "Calum Scott",
+        "position": "Hooker",
+        "club": "Hong Kong Football Club",
+        "caps": "9"
+      },
+      {
+        "name": "Rory Cinnamond",
+        "position": "Prop",
+        "club": "",
+        "caps": "10"
+      },
+      {
+        "name": "Zacceus Cinnamond",
+        "position": "Prop",
+        "club": "",
+        "caps": "18"
+      },
+      {
+        "name": "Sunia Fameitau",
+        "position": "Prop",
+        "club": "",
+        "caps": "5"
+      },
+      {
+        "name": "James Holmes",
+        "position": "Prop",
+        "club": "Hong Kong Football Club",
+        "caps": "3"
+      },
+      {
+        "name": "Callum McFeat Smith",
+        "position": "Prop",
+        "club": "Hong Kong Football Club",
+        "caps": "7"
+      },
+      {
+        "name": "Faizal Solomona-Penesa",
+        "position": "Prop",
+        "club": "Hong Kong Scottish",
+        "caps": "21"
+      },
+      {
+        "name": "Dana Fourie",
+        "position": "Lock",
+        "club": "",
+        "caps": "0"
+      },
+      {
+        "name": "Max Murphy",
+        "position": "Lock",
+        "club": "Hong Kong Football Club",
+        "caps": "1"
+      },
+      {
+        "name": "Kyle Sullivan",
+        "position": "Lock",
+        "club": "USRC Tigers",
+        "caps": "29"
+      },
+      {
+        "name": "Jack Bartlett",
+        "position": "Back row",
+        "club": "Hong Kong Football Club",
+        "caps": "1"
+      },
+      {
+        "name": "Lachlan Doheny",
+        "position": "Back row",
+        "club": "Hong Kong Football Club",
+        "caps": "0"
+      },
+      {
+        "name": "c",
+        "position": "Back row",
+        "club": "Hong Kong Football Club",
+        "caps": "20"
+      },
+      {
+        "name": "Pierce MacKinlay-West",
+        "position": "Back row",
+        "club": "Hong Kong Football Club",
+        "caps": "15"
+      },
+      {
+        "name": "Tyler McNutt",
+        "position": "Back row",
+        "club": "Hong Kong Football Club",
+        "caps": "11"
+      },
+      {
+        "name": "James Sawyer",
+        "position": "Back row",
+        "club": "Valley RFC",
+        "caps": "16"
+      },
+      {
+        "name": "Brendon Nell",
+        "position": "Scrum-half",
+        "club": "",
+        "caps": "1"
+      },
+      {
+        "name": "Chui Wai Lap Eric",
+        "position": "Scrum-half",
+        "club": "Kowloon",
+        "caps": "1"
+      },
+      {
+        "name": "Joe Barker",
+        "position": "Fly-half",
+        "club": "Kowloon",
+        "caps": "4"
+      },
+      {
+        "name": "Gregor McNeish",
+        "position": "Fly-half",
+        "club": "Hong Kong Scottish",
+        "caps": "11"
+      },
+      {
+        "name": "Jack Abbott",
+        "position": "Centre",
+        "club": "Hong Kong Football Club",
+        "caps": "1"
+      },
+      {
+        "name": "Benjamin Axten-Burrett",
+        "position": "Centre",
+        "club": "Hong Kong Football Club",
+        "caps": "23"
+      },
+      {
+        "name": "Isaac Campbell-Wu",
+        "position": "Centre",
+        "club": "Valley RFC",
+        "caps": "0"
+      },
+      {
+        "name": "Thomas Hill",
+        "position": "Centre",
+        "club": "Hong Kong Football Club",
+        "caps": "17"
+      },
+      {
+        "name": "James Rivers",
+        "position": "Lock",
+        "club": "Hong Kong Scottish",
+        "caps": "0"
+      },
+      {
+        "name": "Guy Spanton",
+        "position": "Centre",
+        "club": "",
+        "caps": "9"
+      },
+      {
+        "name": "Murray Brechin",
+        "position": "Wing",
+        "club": "Kowloon",
+        "caps": "3"
+      },
+      {
+        "name": "Charlie Higson-Smith",
+        "position": "Wing",
+        "club": "Hong Kong Football Club",
+        "caps": "17"
+      },
+      {
+        "name": "Dylan McCann",
+        "position": "Wing",
+        "club": "Hong Kong Football Club",
+        "caps": "1"
+      },
+      {
+        "name": "Elliott Quinton",
+        "position": "Wing",
+        "club": "Hong Kong Scottish",
+        "caps": "0"
+      },
+      {
+        "name": "Marcus Ramage",
+        "position": "Wing",
+        "club": "Hong Kong Scottish",
+        "caps": "6"
+      },
+      {
+        "name": "Penetana Smith",
+        "position": "Fullback",
+        "club": "Hong Kong Football Club",
+        "caps": "0"
+      },
+      {
+        "name": "Matt Worley",
+        "position": "Fullback",
+        "club": "Hong Kong Football Club",
+        "caps": "16"
+      }
+    ]
+  },
+  "Zimbabwe": {
+    "players": [
+      {
+        "name": "Liam Larkan",
+        "position": "Hooker",
+        "club": "Pirates Club Johannesburg",
+        "caps": "8"
+      },
+      {
+        "name": "Matthew Mandioma",
+        "position": "Hooker",
+        "club": "Old Hararians",
+        "caps": "52"
+      },
+      {
+        "name": "Bryan Chiang",
+        "position": "Hooker",
+        "club": "Broughton Park RFC",
+        "caps": "4"
+      },
+      {
+        "name": "Bornwell Gwinji",
+        "position": "Prop",
+        "club": "Gernika RT",
+        "caps": "15"
+      },
+      {
+        "name": "Cleopas Kundiona",
+        "position": "Prop",
+        "club": "Northampton Saints",
+        "caps": "15"
+      },
+      {
+        "name": "Victor Mupunga",
+        "position": "Prop",
+        "club": "Union Sportive Bressane",
+        "caps": "9"
+      },
+      {
+        "name": "Brian Makamure",
+        "position": "Prop",
+        "club": "Old Hararians",
+        "caps": ""
+      },
+      {
+        "name": "Tyran Fagan",
+        "position": "Prop",
+        "club": "Gernika RT",
+        "caps": "12"
+      },
+      {
+        "name": "Zvikomborero Chimoto",
+        "position": "Prop",
+        "club": "Old Hararians",
+        "caps": "6"
+      },
+      {
+        "name": "Kudakwashe Nyakufaringwa",
+        "position": "Lock",
+        "club": "Budowlani Lublin",
+        "caps": "7"
+      },
+      {
+        "name": "Simba Siraha",
+        "position": "Lock",
+        "club": "Gernika RT",
+        "caps": "6"
+      },
+      {
+        "name": "Tadiwanashe Gwashu",
+        "position": "Lock",
+        "club": "Harare Sports Club",
+        "caps": "6"
+      },
+      {
+        "name": "Brian Nyaude",
+        "position": "Lock",
+        "club": "Old Hararians",
+        "caps": "15"
+      },
+      {
+        "name": "Godfrey Muzanargwo",
+        "position": "Back row",
+        "club": "Valke",
+        "caps": "9"
+      },
+      {
+        "name": "Aiden Burnett",
+        "position": "Back row",
+        "club": "Old Hararians",
+        "caps": "32"
+      },
+      {
+        "name": "Jason Fraser",
+        "position": "Back row",
+        "club": "Nevers",
+        "caps": "3"
+      },
+      {
+        "name": "Dylan Utete",
+        "position": "Back row",
+        "club": "Okman Rugby",
+        "caps": "5"
+      },
+      {
+        "name": "Tinotenda Mavesere",
+        "position": "Back row",
+        "club": "Sharks",
+        "caps": "7"
+      },
+      {
+        "name": "Keegan Joubert",
+        "position": "Scrum-half",
+        "club": "Durbell RFC",
+        "caps": "6"
+      },
+      {
+        "name": "Hilton Mudariki",
+        "position": "Scrum-half",
+        "club": "Old Hararians",
+        "caps": "53"
+      },
+      {
+        "name": "Tyrone Gombe",
+        "position": "Scrum-half",
+        "club": "Western Province",
+        "caps": "3"
+      },
+      {
+        "name": "Ian Prior",
+        "position": "Fly-half",
+        "club": "Associates Rugby Club",
+        "caps": "4"
+      },
+      {
+        "name": "Lenience Tambwera",
+        "position": "Fly-half",
+        "club": "Harare Sports Club",
+        "caps": "36"
+      },
+      {
+        "name": "Bruce Houston",
+        "position": "Fly-half",
+        "club": "Union Sportive Bressane",
+        "caps": "0"
+      },
+      {
+        "name": "Brandon Mudzekenyedzi",
+        "position": "Centre",
+        "club": "Okman Rugby",
+        "caps": "9"
+      },
+      {
+        "name": "Kudzai Mashawi",
+        "position": "Centre",
+        "club": "Harare Sports Club",
+        "caps": "23"
+      },
+      {
+        "name": "Dion Khumalo",
+        "position": "Centre",
+        "club": "Old Hararians",
+        "caps": "9"
+      },
+      {
+        "name": "Matthew McNab",
+        "position": "Wing",
+        "club": "Doncaster Knights",
+        "caps": "11"
+      },
+      {
+        "name": "Edward Sigauke",
+        "position": "Wing",
+        "club": "Varsity College Rugby Club",
+        "caps": "6"
+      },
+      {
+        "name": "Trevor Gurwe",
+        "position": "Wing",
+        "club": "Old Georgians",
+        "caps": "7"
+      },
+      {
+        "name": "Takudzwa Musingwini",
+        "position": "Wing",
+        "club": "Iowa Central Community College Rugby",
+        "caps": "8"
+      },
+      {
+        "name": "Tapiwa Mafura",
+        "position": "Fullback",
+        "club": "Lions",
+        "caps": "7"
+      }
+    ]
+  },
+  "Canada": {
+    "players": [
+      {
+        "name": "Austin Creighton",
+        "position": "Hooker",
+        "club": "James Bay",
+        "caps": "3"
+      },
+      {
+        "name": "Dewald Kotze",
+        "position": "Hooker",
+        "club": "Seattle Seawolves",
+        "caps": "13"
+      },
+      {
+        "name": "Jeffrey Young",
+        "position": "Hooker",
+        "club": "Dings Crusaders",
+        "caps": "0"
+      },
+      {
+        "name": "Cole Keith",
+        "position": "Prop",
+        "club": "New England Free Jacks",
+        "caps": "47"
+      },
+      {
+        "name": "Sam Miller",
+        "position": "Prop",
+        "club": "Southern Districts",
+        "caps": "4"
+      },
+      {
+        "name": "Emerson Prior",
+        "position": "Prop",
+        "club": "Utah Warriors",
+        "caps": "8"
+      },
+      {
+        "name": "Kyle Steeves",
+        "position": "Prop",
+        "club": "New England Free Jacks",
+        "caps": "5"
+      },
+      {
+        "name": "Matt Tierney",
+        "position": "Prop",
+        "club": "",
+        "caps": "31"
+      },
+      {
+        "name": "Bryce Worden",
+        "position": "Prop",
+        "club": "",
+        "caps": "0"
+      },
+      {
+        "name": "Callum Botchar",
+        "position": "Lock",
+        "club": "New Orleans Gold",
+        "caps": "10"
+      },
+      {
+        "name": "Ryan Cozens",
+        "position": "Lock",
+        "club": "Cardiff Metropolitan University",
+        "caps": "0"
+      },
+      {
+        "name": "Izzak Kelly",
+        "position": "Lock",
+        "club": "Capilano",
+        "caps": "12"
+      },
+      {
+        "name": "Barnaby Waddell",
+        "position": "Lock",
+        "club": "Bridgend Ravens",
+        "caps": "2"
+      },
+      {
+        "name": "Mason Flesch",
+        "position": "Back row",
+        "club": "Chicago Hounds",
+        "caps": "20"
+      },
+      {
+        "name": "Matthew Oworu",
+        "position": "Back row",
+        "club": "Chicago Hounds",
+        "caps": "17"
+      },
+      {
+        "name": "Sion Parry",
+        "position": "Back row",
+        "club": "Ebbw Vale",
+        "caps": "16"
+      },
+      {
+        "name": "Lucas Rumball",
+        "position": "Back row",
+        "club": "Chicago Hounds",
+        "caps": "72"
+      },
+      {
+        "name": "Piers von Dadelszen",
+        "position": "Back row",
+        "club": "New England Free Jacks",
+        "caps": "13"
+      },
+      {
+        "name": "Brock Gallagher",
+        "position": "Scrum-half",
+        "club": "Seattle Seawolves",
+        "caps": "12"
+      },
+      {
+        "name": "Jason Higgins",
+        "position": "Scrum-half",
+        "club": "Chicago Hounds",
+        "caps": "27"
+      },
+      {
+        "name": "James Naylor",
+        "position": "Scrum-half",
+        "club": "Rotherham Titans",
+        "caps": "1"
+      },
+      {
+        "name": "Peter Nelson",
+        "position": "Fly-half",
+        "club": "Dungannon",
+        "caps": "35"
+      },
+      {
+        "name": "Robbie Povey",
+        "position": "Fly-half",
+        "club": "Rotherham Titans",
+        "caps": "24"
+      },
+      {
+        "name": "Noah Flesch",
+        "position": "Centre",
+        "club": "Chicago Hounds",
+        "caps": "11"
+      },
+      {
+        "name": "Spencer Jones",
+        "position": "Centre",
+        "club": "Utah Warriors",
+        "caps": "16"
+      },
+      {
+        "name": "Josh McIndoe",
+        "position": "Centre",
+        "club": "",
+        "caps": "0"
+      },
+      {
+        "name": "Talon McMullin",
+        "position": "Centre",
+        "club": "UBC Thunderbirds",
+        "caps": "8"
+      },
+      {
+        "name": "Kyle Tremblay",
+        "position": "Centre",
+        "club": "Westshore",
+        "caps": "4"
+      },
+      {
+        "name": "Nic Benn",
+        "position": "Wing",
+        "club": "Utah Warriors",
+        "caps": "13"
+      },
+      {
+        "name": "Morgan Di Nardo",
+        "position": "Wing",
+        "club": "Victoria Vikes",
+        "caps": "1"
+      },
+      {
+        "name": "Josiah Morra",
+        "position": "Wing",
+        "club": "New England Free Jacks",
+        "caps": "13"
+      },
+      {
+        "name": "Jack Shaw",
+        "position": "Wing",
+        "club": "RFCLA",
+        "caps": "2"
+      },
+      {
+        "name": "Cooper Coats",
+        "position": "Fullback",
+        "club": "New Orleans Gold",
+        "caps": "21"
+      }
+    ]
+  },
+  "Namibia": {
+    "players": [
+      {
+        "name": "Armand Combrinck",
+        "position": "Hooker",
+        "club": "",
+        "caps": "7"
+      },
+      {
+        "name": "Louis van der Westhuizen",
+        "position": "Hooker",
+        "club": "Cheetahs",
+        "caps": "42"
+      },
+      {
+        "name": "Torsten van Jaarsveld",
+        "position": "Hooker",
+        "club": "Stade Montois",
+        "caps": "29"
+      },
+      {
+        "name": "Otja Auala",
+        "position": "Prop",
+        "club": "University of Namibia",
+        "caps": "6"
+      },
+      {
+        "name": "Joshua Bester",
+        "position": "Prop",
+        "club": "",
+        "caps": "0"
+      },
+      {
+        "name": "Aranos Coetzee",
+        "position": "Prop",
+        "club": "Cheetahs",
+        "caps": "42"
+      },
+      {
+        "name": "Gianluca Savoldelli",
+        "position": "Prop",
+        "club": "",
+        "caps": "2"
+      },
+      {
+        "name": "Haitembu Shikufa",
+        "position": "Prop",
+        "club": "Leopards",
+        "caps": "16"
+      },
+      {
+        "name": "Tiaan de Klerk",
+        "position": "Lock",
+        "club": "Pumas",
+        "caps": "6"
+      },
+      {
+        "name": "Max Katjijeko",
+        "position": "Lock",
+        "club": "CSA Steaua București",
+        "caps": "37"
+      },
+      {
+        "name": "Adriaan Ludick",
+        "position": "Lock",
+        "club": "CSA Steaua București",
+        "caps": "20"
+      },
+      {
+        "name": "Johan Retief",
+        "position": "Lock",
+        "club": "Krasny Yar",
+        "caps": "36"
+      },
+      {
+        "name": "Adriaan Booysen",
+        "position": "Back row",
+        "club": "",
+        "caps": "30"
+      },
+      {
+        "name": "Wian Conradie",
+        "position": "Back row",
+        "club": "New England Free Jacks",
+        "caps": "38"
+      },
+      {
+        "name": "Prince ǃGaoseb",
+        "position": "Back row",
+        "club": "CSA Steaua București",
+        "caps": "25"
+      },
+      {
+        "name": "Riaan Grové",
+        "position": "Back row",
+        "club": "",
+        "caps": "2"
+      },
+      {
+        "name": "Johan Luttig",
+        "position": "Back row",
+        "club": "",
+        "caps": "5"
+      },
+      {
+        "name": "AJ Kearns",
+        "position": "Scrum-half",
+        "club": "University of Namibia",
+        "caps": "9"
+      },
+      {
+        "name": "TC Kisting",
+        "position": "Scrum-half",
+        "club": "Dinamo București",
+        "caps": "23"
+      },
+      {
+        "name": "Jacques Theron",
+        "position": "Scrum-half",
+        "club": "",
+        "caps": "14"
+      },
+      {
+        "name": "Cliven Loubser",
+        "position": "Fly-half",
+        "club": "Anthem RC",
+        "caps": "35"
+      },
+      {
+        "name": "André van den Berg",
+        "position": "Fly-half",
+        "club": "",
+        "caps": "14"
+      },
+      {
+        "name": "Danco Burger",
+        "position": "Centre",
+        "club": "",
+        "caps": "21"
+      },
+      {
+        "name": "Johan Deysel",
+        "position": "Centre",
+        "club": "",
+        "caps": "42"
+      },
+      {
+        "name": "Divan Rossouw",
+        "position": "Centre",
+        "club": "Seattle Seawolves",
+        "caps": "12"
+      },
+      {
+        "name": "J. C. Greyling",
+        "position": "Wing",
+        "club": "",
+        "caps": "53"
+      },
+      {
+        "name": "Jürgen Meyer",
+        "position": "Wing",
+        "club": "",
+        "caps": "6"
+      },
+      {
+        "name": "Jay-Cee Nel",
+        "position": "Wing",
+        "club": "Pumas",
+        "caps": "6"
+      },
+      {
+        "name": "Danie van der Merwe",
+        "position": "Wing",
+        "club": "",
+        "caps": "5"
+      },
+      {
+        "name": "Aston Mukwiilongo",
+        "position": "Fullback",
+        "club": "",
+        "caps": "2"
+      }
+    ]
+  }
+}
