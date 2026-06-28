@@ -1,0 +1,7442 @@
+[
+  {
+    "team": "Australia",
+    "player": "Matt Faessler",
+    "status": "no_image",
+    "wikipedia_title": "Matt Faessler",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Josh Nasser",
+    "status": "no_image",
+    "wikipedia_title": "Josh Nasser",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Billy Pollard",
+    "status": "no_image",
+    "wikipedia_title": "Billy Pollard",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Allan Alaalatoa",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Allan_Alaalatoa.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Angus Bell",
+    "status": "no_image",
+    "wikipedia_title": "Angus Bell",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Zane Nonggorr",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Zane_Nonggorr.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Tom Robertson",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Tom_Robertson.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Aidan Ross",
+    "status": "no_image",
+    "wikipedia_title": "Aidan Ross",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Taniela Tupou",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Taniela_Tupou.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Josh Canham",
+    "status": "no_image",
+    "wikipedia_title": "Josh Canham",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Nick Frost",
+    "status": "no_image",
+    "wikipedia_title": "Nick Frost (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Lukhan Salakaia-Loto",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Lukhan_Salakaia-Loto.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Darcy Swain",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Darcy_Swain.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Jeremy Williams",
+    "status": "no_image",
+    "wikipedia_title": "Jeremy Williams (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Nick Champion de Crespigny",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Nick_Champion_de_Crespigny.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Tom Hooper",
+    "status": "no_image",
+    "wikipedia_title": "Tom Hooper (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Fraser McReight",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Fraser_McReight.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Pete Samu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Pete_Samu.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Carlo Tizzano",
+    "status": "no_image",
+    "wikipedia_title": "Carlo Tizzano",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Rob Valetini",
+    "status": "no_image",
+    "wikipedia_title": "Rob Valetini",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Harry Wilson",
+    "status": "no_image",
+    "wikipedia_title": "Harry Wilson (rugby union, born 1999)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Jake Gordon",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Jake_Gordon.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Ryan Lonergan",
+    "status": "no_image",
+    "wikipedia_title": "Ryan Lonergan",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Kalani Thomas",
+    "status": "no_image",
+    "wikipedia_title": "Kalani Thomas",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Tane Edmed",
+    "status": "no_image",
+    "wikipedia_title": "Tane Edmed",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Carter Gordon",
+    "status": "no_image",
+    "wikipedia_title": "Carter Gordon",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Josh Flook",
+    "status": "no_image",
+    "wikipedia_title": "Josh Flook",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Len Ikitau",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Len_Ikitau.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Hunter Paisami",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Hunter_Paisami.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Hamish Stewart",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Hamish_Stewart.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Joseph Sua'ali'i",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Joseph_Sua_ali_i.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Filipo Daugunu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Filipo_Daugunu.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Max Jorgensen",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Dylan Pietsch",
+    "status": "no_image",
+    "wikipedia_title": "Dylan Pietsch",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Harry Potter",
+    "status": "no_image",
+    "wikipedia_title": "Harry Potter (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Australia",
+    "player": "Corey Toole",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Corey_Toole.jpg"
+  },
+  {
+    "team": "Australia",
+    "player": "Andrew Kellaway",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Australia/Andrew_Kellaway.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Ștefan Buruiană",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Tudor Butnariu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Tudor_Butnariu.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Ovidiu Cojocaru",
+    "status": "no_image",
+    "wikipedia_title": "Ovidiu Cojocaru",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Robert Irimescu",
+    "status": "no_image",
+    "wikipedia_title": "Robert Irimescu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Vasile Balan",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Vasile_Balan.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Thomas Crețu",
+    "status": "no_image",
+    "wikipedia_title": "Thomas Crețu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Gheorghe Gajion",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Gheorghe_Gajion.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Iulian Harțig",
+    "status": "no_image",
+    "wikipedia_title": "Iulian Hartig",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Cosmin Manole",
+    "status": "no_image",
+    "wikipedia_title": "Cosmin Manole",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Alexandru Savin",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Alexandru_Savin.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Joji Sikote",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Marius Antonescu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Marius_Antonescu.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Ionuț Donici",
+    "status": "no_image",
+    "wikipedia_title": "Romania national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Nicolaas Immelman",
+    "status": "no_image",
+    "wikipedia_title": "Nicolaas Immelman",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Andrei Mahu",
+    "status": "no_image",
+    "wikipedia_title": "Andrei Mahu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "David Trăușan",
+    "status": "no_image",
+    "wikipedia_title": "Romania national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Matthew Tweddle",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Matthew_Tweddle.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Kemal Altinok",
+    "status": "no_image",
+    "wikipedia_title": "2024 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Cristi Boboc",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Cristi_Boboc.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Cristi Chirică",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Cristi_Chiric_.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Adrian Mitu",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Vlad Neculau",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Vlad_Neculau.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Dragoș Ser",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Drago__Ser.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Alin Conache",
+    "status": "no_image",
+    "wikipedia_title": "Alin Conache",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Gabriel Rupanu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Gabriel_Rupanu.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Toma Mîrzac",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Dănuț Jipa",
+    "status": "no_image",
+    "wikipedia_title": "Romania national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Hinckley Vaovasa",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Hinckley_Vaovasa.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Alexandru Bucur",
+    "status": "no_image",
+    "wikipedia_title": "Alexandru Bucur",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Mihai Graure",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Mihai_Graure.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Gabriel Pop",
+    "status": "no_image",
+    "wikipedia_title": "Gabriel Pop",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Atila Septar",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Atila_Septar.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Jason Tomane",
+    "status": "no_image",
+    "wikipedia_title": "Jason Tomane",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Tevita Manumua",
+    "status": "no_image",
+    "wikipedia_title": "Tevita Manumua",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Nicholas Onutu",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Fonovai Tangimana",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Romania/Fonovai_Tangimana.jpg"
+  },
+  {
+    "team": "Romania",
+    "player": "Iliesa Tiqe",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Ovidiu Neagu",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Romania",
+    "player": "Paul Popoaia",
+    "status": "no_image",
+    "wikipedia_title": "Paul Popoaia",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Maxime Lamothe",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Maxime_Lamothe.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Julien Marchand",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Julien_Marchand.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Peato Mauvaka",
+    "status": "found",
+    "wikipedia_title": "Peato Mauvaka",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PeatoMauvaka2022.png",
+    "saved_path": "photos/France/Peato_Mauvaka.png"
+  },
+  {
+    "team": "France",
+    "player": "Dorian Aldegheri",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Dorian_Aldegheri.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Cyril Baille",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Cyril_Baille.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Demba Bamba",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Demba_Bamba.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Georges-Henri Colombe",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Georges-Henri_Colombe.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Jean-Baptiste Gros",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Jean-Baptiste_Gros.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Régis Montagne",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/R_gis_Montagne.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Rodrigue Neti",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Rodrigue_Neti.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Dany Priso",
+    "status": "found",
+    "wikipedia_title": "Dany Priso",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DanyPriso2022.png/500px-DanyPriso2022.png",
+    "saved_path": "photos/France/Dany_Priso.png"
+  },
+  {
+    "team": "France",
+    "player": "Tevita Tatafu",
+    "status": "no_image",
+    "wikipedia_title": "Tevita Tatafu (rugby union, born 2002)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Hugo Auradou",
+    "status": "no_image",
+    "wikipedia_title": "Hugo Auradou",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Joshua Brennan",
+    "status": "no_image",
+    "wikipedia_title": "Joshua Brennan",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Thibaud Flament",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Thibaud_Flament.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Mickaël Guillard",
+    "status": "no_image",
+    "wikipedia_title": "Mickaël Guillard",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Emmanuel Meafou",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Emmanuel_Meafou.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Tom Staniforth",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Tom_Staniforth.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Cameron Woki",
+    "status": "found",
+    "wikipedia_title": "Cameron Woki",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/CameronWoki2022Renault.png/500px-CameronWoki2022Renault.png",
+    "saved_path": "photos/France/Cameron_Woki.png"
+  },
+  {
+    "team": "France",
+    "player": "Paul Boudehent",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Paul_Boudehent.jpg"
+  },
+  {
+    "team": "France",
+    "player": "François Cros",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Fran_ois_Cros.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Alexandre Fischer",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Oscar Jégou",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Anthony Jelonch",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Temo Matiu",
+    "status": "no_image",
+    "wikipedia_title": "Temo Matiu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Lenni Nouchi",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Lenni_Nouchi.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Charles Ollivon",
+    "status": "found",
+    "wikipedia_title": "Charles Ollivon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CharlesOllivon2022.png/500px-CharlesOllivon2022.png",
+    "saved_path": "photos/France/Charles_Ollivon.png"
+  },
+  {
+    "team": "France",
+    "player": "Alexandre Roumat",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Alexandre_Roumat.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Thibault Daubagna",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Thibault_Daubagna.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Antoine Dupont",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Antoine_Dupont.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Baptiste Serin",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Baptiste_Serin.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Matthieu Jalibert",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Matthieu_Jalibert.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Ugo Seunes",
+    "status": "no_image",
+    "wikipedia_title": "List of 2025–26 Rugby Pro D2 transfers",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Pierre-Louis Barassi",
+    "status": "found",
+    "wikipedia_title": "Pierre-Louis Barassi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/PierreLouisBarassi2022.png/500px-PierreLouisBarassi2022.png",
+    "saved_path": "photos/France/Pierre-Louis_Barassi.png"
+  },
+  {
+    "team": "France",
+    "player": "Fabien Brau-Boirie",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Fabien_Brau-Boirie.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Nicolas Depoortère",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Nicolas_Depoort_re.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Émilien Gailleton",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/_milien_Gailleton.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Kalvin Gourgues",
+    "status": "no_image",
+    "wikipedia_title": "Kalvin Gourgues",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Yoram Moefana",
+    "status": "found",
+    "wikipedia_title": "Yoram Moefana",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/YoramMoefana2022.png",
+    "saved_path": "photos/France/Yoram_Moefana.png"
+  },
+  {
+    "team": "France",
+    "player": "Noah Nene",
+    "status": "no_image",
+    "wikipedia_title": "Noah Nene",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "France",
+    "player": "Théo Attissogbe",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Th_o_Attissogbe.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Louis Bielle-Biarrey",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Louis_Bielle-Biarrey.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Gaël Dréan",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Ga_l_Dr_an.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Aaron Grandidier-Nkanang",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Aaron_Grandidier-Nkanang.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Grégoire Arfeuil",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Gr_goire_Arfeuil.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Romain Buros",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Romain_Buros.jpg"
+  },
+  {
+    "team": "France",
+    "player": "Thomas Ramos",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/France/Thomas_Ramos.jpg"
+  },
+  {
+    "team": "Canada",
+    "player": "Austin Creighton",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Canada/Austin_Creighton.jpg"
+  },
+  {
+    "team": "Canada",
+    "player": "Dewald Kotze",
+    "status": "no_image",
+    "wikipedia_title": "Dewald Kotze",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Jeffrey Young",
+    "status": "no_image",
+    "wikipedia_title": "Jeffrey Young",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Cole Keith",
+    "status": "no_image",
+    "wikipedia_title": "Cole Keith",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Sam Miller",
+    "status": "no_image",
+    "wikipedia_title": "Desiree Miller (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Emerson Prior",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Kyle Steeves",
+    "status": "no_image",
+    "wikipedia_title": "Kyle Steeves",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Matt Tierney",
+    "status": "no_image",
+    "wikipedia_title": "Matt Tierney (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Bryce Worden",
+    "status": "found",
+    "wikipedia_title": "Canada national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rugby_Canada_logo.svg/500px-Rugby_Canada_logo.svg.png",
+    "saved_path": "photos/Canada/Bryce_Worden.png"
+  },
+  {
+    "team": "Canada",
+    "player": "Callum Botchar",
+    "status": "no_image",
+    "wikipedia_title": "Callum Botchar",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Ryan Cozens",
+    "status": "found",
+    "wikipedia_title": "Canada national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rugby_Canada_logo.svg/500px-Rugby_Canada_logo.svg.png",
+    "saved_path": "photos/Canada/Ryan_Cozens.png"
+  },
+  {
+    "team": "Canada",
+    "player": "Izzak Kelly",
+    "status": "no_image",
+    "wikipedia_title": "Izzak Kelly",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Barnaby Waddell",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Mason Flesch",
+    "status": "no_image",
+    "wikipedia_title": "Mason Flesch",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Matthew Oworu",
+    "status": "no_image",
+    "wikipedia_title": "Matt Oworu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Sion Parry",
+    "status": "no_image",
+    "wikipedia_title": "Siôn Parry",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Lucas Rumball",
+    "status": "no_image",
+    "wikipedia_title": "Lucas Rumball",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Piers von Dadelszen",
+    "status": "no_image",
+    "wikipedia_title": "Piers von Dadelszen",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Brock Gallagher",
+    "status": "no_image",
+    "wikipedia_title": "List of England women's national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Jason Higgins",
+    "status": "no_image",
+    "wikipedia_title": "List of Hurricanes (rugby union) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "James Naylor",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Peter Nelson",
+    "status": "no_image",
+    "wikipedia_title": "Peter Nelson (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Robbie Povey",
+    "status": "no_image",
+    "wikipedia_title": "Robbie Povey",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Noah Flesch",
+    "status": "no_image",
+    "wikipedia_title": "List of Canada national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Spencer Jones",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Canada/Spencer_Jones.jpg"
+  },
+  {
+    "team": "Canada",
+    "player": "Josh McIndoe",
+    "status": "no_image",
+    "wikipedia_title": "List of Scotland national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Talon McMullin",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Canada/Talon_McMullin.jpg"
+  },
+  {
+    "team": "Canada",
+    "player": "Kyle Tremblay",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Nic Benn",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Canada/Nic_Benn.jpg"
+  },
+  {
+    "team": "Canada",
+    "player": "Morgan Di Nardo",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Josiah Morra",
+    "status": "no_image",
+    "wikipedia_title": "Josiah Morra",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Canada",
+    "player": "Jack Shaw",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Canada/Jack_Shaw.jpg"
+  },
+  {
+    "team": "Canada",
+    "player": "Cooper Coats",
+    "status": "no_image",
+    "wikipedia_title": "Cooper Coats",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Rónan Kelleher",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/R_nan_Kelleher.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Dan Sheehan",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Dan_Sheehan.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Tom Stewart",
+    "status": "no_image",
+    "wikipedia_title": "Tom Stewart (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Finlay Bealham",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Finlay_Bealham.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Billy Bohan",
+    "status": "no_image",
+    "wikipedia_title": "Billy Bohan",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Tom Clarkson",
+    "status": "no_image",
+    "wikipedia_title": "Tom Clarkson (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Tadhg Furlong",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Tadhg_Furlong.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Jeremy Loughman",
+    "status": "no_image",
+    "wikipedia_title": "Jeremy Loughman",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Michael Milne",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Michael_Milne.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Tom O'Toole",
+    "status": "found",
+    "wikipedia_title": "Tom O'Toole (rugby union)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Tom_O%27Toole_2023.png/500px-Tom_O%27Toole_2023.png",
+    "saved_path": "photos/Ireland/Tom_O_Toole.png"
+  },
+  {
+    "team": "Ireland",
+    "player": "Tadhg Beirne",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Tadhg_Beirne.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Edwin Edogbo",
+    "status": "no_image",
+    "wikipedia_title": "Edwin Edogbo",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Cormac Izuchukwu",
+    "status": "no_image",
+    "wikipedia_title": "Cormac Izuchukwu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Joe McCarthy",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Joe_McCarthy.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "James Ryan",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/James_Ryan.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Jack Conan",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Jack_Conan.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Caelan Doris",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Caelan_Doris.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Cian Prendergast",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Cian_Prendergast.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Nick Timoney",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Nick_Timoney.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Josh van der Flier",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Josh_van_der_Flier.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Bryn Ward",
+    "status": "no_image",
+    "wikipedia_title": "Bryn Ward",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Craig Casey",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Craig_Casey.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Nathan Doak",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Nathan_Doak.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Jamison Gibson-Park",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Jamison_Gibson-Park.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Harry Byrne",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Harry_Byrne.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Jack Crowley",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Jack_Crowley.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Ciarán Frawley",
+    "status": "no_image",
+    "wikipedia_title": "Ciarán Frawley",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Sam Prendergast",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Sam_Prendergast.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Tom Farrell",
+    "status": "no_image",
+    "wikipedia_title": "Tom Farrell (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Stuart McCloskey",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Stuart_McCloskey.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Jude Postlethwaite",
+    "status": "no_image",
+    "wikipedia_title": "Jude Postlethwaite",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Garry Ringrose",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Garry_Ringrose.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Robert Baloucoune",
+    "status": "no_image",
+    "wikipedia_title": "Robert Baloucoune",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "James Lowe",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/James_Lowe.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Tommy O'Brien",
+    "status": "no_image",
+    "wikipedia_title": "Tommy O'Brien (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Ireland",
+    "player": "Jacob Stockdale",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Ireland/Jacob_Stockdale.jpg"
+  },
+  {
+    "team": "Ireland",
+    "player": "Jamie Osborne",
+    "status": "no_image",
+    "wikipedia_title": "Jamie Osborne (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "New Zealand",
+    "player": "George Bell",
+    "status": "no_image",
+    "wikipedia_title": "George Bell (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "New Zealand",
+    "player": "Samisoni Taukei'aho",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Samisoni_Taukei_aho.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Codie Taylor",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Codie_Taylor.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "George Bower",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/George_Bower.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Ethan de Groot",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Ethan_de_Groot.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Fletcher Newell",
+    "status": "no_image",
+    "wikipedia_title": "Fletcher Newell",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "New Zealand",
+    "player": "Pasilio Tosi",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Pasilio_Tosi.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Tamaiti Williams",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Tamaiti_Williams.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Scott Barrett",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Scott_Barrett.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Sam Darry",
+    "status": "no_image",
+    "wikipedia_title": "Sam Darry",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "New Zealand",
+    "player": "Fabian Holland",
+    "status": "no_image",
+    "wikipedia_title": "Fabian Holland (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "New Zealand",
+    "player": "Josh Lord",
+    "status": "no_image",
+    "wikipedia_title": "Josh Lord (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "New Zealand",
+    "player": "Du'Plessis Kirifi",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Du_Plessis_Kirifi.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Peter Lakai",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Peter_Lakai.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Christian Lio-Willie",
+    "status": "no_image",
+    "wikipedia_title": "Christian Lio-Willie",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "New Zealand",
+    "player": "Simon Parker",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Simon_Parker.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Ardie Savea",
+    "status": "found",
+    "wikipedia_title": "Ardie Savea",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ardie_Savea_2023.png/500px-Ardie_Savea_2023.png",
+    "saved_path": "photos/New_Zealand/Ardie_Savea.png"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Wallace Sititi",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Wallace_Sititi.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Finlay Christie",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Finlay_Christie.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Cortez Ratima",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Cortez_Ratima.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Cam Roigard",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Cam_Roigard.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Beauden Barrett",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Beauden_Barrett.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Damian McKenzie",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Damian_McKenzie.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Leicester Faingaʻanuku",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Leicester_Fainga_anuku.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Anton Lienert-Brown",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Anton_Lienert-Brown.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Billy Proctor",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Billy_Proctor.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Quinn Tupaea",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Quinn_Tupaea.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Leroy Carter",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Leroy_Carter.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Caleb Clarke",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Caleb_Clarke.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Rieko Ioane",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Rieko_Ioane.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Sevu Reece",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Sevu_Reece.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Will Jordan",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Will_Jordan.jpg"
+  },
+  {
+    "team": "New Zealand",
+    "player": "Ruben Love",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/New_Zealand/Ruben_Love.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Johan Grobbelaar",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Johan_Grobbelaar.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Malcolm Marx",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Malcolm_Marx.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Jan-Hendrik Wessels",
+    "status": "no_image",
+    "wikipedia_title": "Jan-Hendrik Wessels",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Thomas du Toit",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Thomas_du_Toit.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Wilco Louw",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Wilco_Louw.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Ox Nché",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Ox_Nch_.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Asenathi Ntlabakanye",
+    "status": "error: error decoding response body: expected value at line 1 column 1",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Zachary Porthen",
+    "status": "no_image",
+    "wikipedia_title": "Zachary Porthen",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Gerhard Steenekamp",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Gerhard_Steenekamp.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Boan Venter",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Boan_Venter.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Lood de Jager",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Lood_de_Jager.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Ben-Jason Dixon",
+    "status": "no_image",
+    "wikipedia_title": "Ben-Jason Dixon",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Eben Etzebeth",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Eben_Etzebeth.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Jean Kleyn",
+    "status": "no_image",
+    "wikipedia_title": "Jean Kleyn",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Franco Mostert",
+    "status": "no_image",
+    "wikipedia_title": "Franco Mostert",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Ruan Nortjé",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Ruan_Nortj_.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "RG Snyman",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/RG_Snyman.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Pieter-Steph du Toit",
+    "status": "found",
+    "wikipedia_title": "Pieter-Steph du Toit",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Rugby_world_cup_final_PSDT_2023.png",
+    "saved_path": "photos/South_Africa/Pieter-Steph_du_Toit.png"
+  },
+  {
+    "team": "South Africa",
+    "player": "Siya Kolisi",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Siya_Kolisi.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Kwagga Smith",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Kwagga_Smith.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Marco van Staden",
+    "status": "no_image",
+    "wikipedia_title": "Marco van Staden",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Jasper Wiese",
+    "status": "no_image",
+    "wikipedia_title": "Jasper Wiese",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Cobus Reinach",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Cobus_Reinach.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Morné van den Berg",
+    "status": "no_image",
+    "wikipedia_title": "Morné van den Berg",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Grant Williams",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Grant_Williams.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Sacha Feinberg-Mngomezulu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Sacha_Feinberg-Mngomezulu.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Manie Libbok",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Manie_Libbok.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Handré Pollard",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Handr__Pollard.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Damian de Allende",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Damian_de_Allende.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "André Esterhuizen",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Andr__Esterhuizen.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Ethan Hooker",
+    "status": "no_image",
+    "wikipedia_title": "Ethan Hooker",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Jesse Kriel",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Jesse_Kriel.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Kurt-Lee Arendse",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Kurt-Lee_Arendse.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Cheslin Kolbe",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Cheslin_Kolbe.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Canan Moodie",
+    "status": "no_image",
+    "wikipedia_title": "Canan Moodie",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "South Africa",
+    "player": "Edwill van der Merwe",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Edwill_van_der_Merwe.jpg"
+  },
+  {
+    "team": "South Africa",
+    "player": "Damian Willemse",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/South_Africa/Damian_Willemse.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Ewan Ashman",
+    "status": "no_image",
+    "wikipedia_title": "Ewan Ashman",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Dave Cherry",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Dave_Cherry.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Gregor Hiddleston",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Gregor_Hiddleston.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "George Turner",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/George_Turner.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Zander Fagerson",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Zander_Fagerson.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Nathan McBeth",
+    "status": "no_image",
+    "wikipedia_title": "Nathan McBeth",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Elliot Millar-Mills",
+    "status": "no_image",
+    "wikipedia_title": "Elliot Millar Mills",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "D'Arcy Rae",
+    "status": "no_image",
+    "wikipedia_title": "D'Arcy Rae",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Pierre Schoeman",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Pierre_Schoeman.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Rory Sutherland",
+    "status": "no_image",
+    "wikipedia_title": "Rory Sutherland (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Gregor Brown",
+    "status": "no_image",
+    "wikipedia_title": "Gregor Brown",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Alex Craig",
+    "status": "no_image",
+    "wikipedia_title": "Alex Craig (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Scott Cummings",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Scott_Cummings.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Grant Gilchrist",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Grant_Gilchrist.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Jonny Gray",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Jonny_Gray.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Max Williamson",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Max_Williamson.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Josh Bayliss",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Josh_Bayliss.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Magnus Bradbury",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Magnus_Bradbury.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Rory Darge",
+    "status": "no_image",
+    "wikipedia_title": "Rory Darge",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Jack Dempsey",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Jack_Dempsey.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Freddy Douglas",
+    "status": "no_image",
+    "wikipedia_title": "Freddy Douglas",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Matt Fagerson",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Matt_Fagerson.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Liam McConnell",
+    "status": "no_image",
+    "wikipedia_title": "Liam McConnell",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Jamie Ritchie",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Jamie_Ritchie.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Jamie Dobie",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Jamie_Dobie.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "George Horne",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/George_Horne.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Gus Warr",
+    "status": "no_image",
+    "wikipedia_title": "Gus Warr",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Ben White",
+    "status": "no_image",
+    "wikipedia_title": "Benjamin White",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Fergus Burke",
+    "status": "no_image",
+    "wikipedia_title": "Fergus Burke",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Adam Hastings",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Adam_Hastings.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Finn Russell",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Finn_Russell.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Rory Hutchinson",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Rory_Hutchinson.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Huw Jones",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Huw_Jones.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Tom Jordan",
+    "status": "no_image",
+    "wikipedia_title": "Tom Jordan (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Stafford McDowall",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Stafford_McDowall.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Sione Tuipulotu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Sione_Tuipulotu.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Darcy Graham",
+    "status": "no_image",
+    "wikipedia_title": "Darcy Graham",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Kyle Rowe",
+    "status": "no_image",
+    "wikipedia_title": "Kyle Rowe",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Scotland",
+    "player": "Kyle Steyn",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Kyle_Steyn.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Duhan van der Merwe",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Duhan_van_der_Merwe.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Blair Kinghorn",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Scotland/Blair_Kinghorn.jpg"
+  },
+  {
+    "team": "Scotland",
+    "player": "Ollie Smith",
+    "status": "no_image",
+    "wikipedia_title": "Ollie Smith (rugby union, born 2000)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Sam Moli",
+    "status": "no_image",
+    "wikipedia_title": "Sam Moli",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Sosefo Sakalia",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Tonga/Sosefo_Sakalia.jpg"
+  },
+  {
+    "team": "Tonga",
+    "player": "Siegfried Fisiʻihoi",
+    "status": "no_image",
+    "wikipedia_title": "Siegfried Fisiʻihoi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Phil Kite",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Tonga/Phil_Kite.jpg"
+  },
+  {
+    "team": "Tonga",
+    "player": "Fatongia Paea",
+    "status": "no_image",
+    "wikipedia_title": "Fatongia Paea",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Ben Tameifuna",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Tonga/Ben_Tameifuna.jpg"
+  },
+  {
+    "team": "Tonga",
+    "player": "Siate Tokolahi",
+    "status": "no_image",
+    "wikipedia_title": "Siate Tokolahi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Tupou Afungia",
+    "status": "no_image",
+    "wikipedia_title": "Tupou Afungia",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Viliami Napa'a",
+    "status": "no_image",
+    "wikipedia_title": "Viliami Napa'a",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Harison Mataele",
+    "status": "no_image",
+    "wikipedia_title": "Harison Mataele",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Sitaleki Timani",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Tonga/Sitaleki_Timani.jpg"
+  },
+  {
+    "team": "Tonga",
+    "player": "Veikoso Poloniati",
+    "status": "no_image",
+    "wikipedia_title": "Veikoso Poloniati",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Lotu Inisi",
+    "status": "no_image",
+    "wikipedia_title": "Lotu Inisi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Fotu Lokotui",
+    "status": "no_image",
+    "wikipedia_title": "Fotu Lokotui",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Siosiua Moala",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Semisi Paea",
+    "status": "no_image",
+    "wikipedia_title": "Semisi Paea",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Aisea Halo",
+    "status": "no_image",
+    "wikipedia_title": "Aisea Halo",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Siaosi Nginingini",
+    "status": "no_image",
+    "wikipedia_title": "Siaosi Nginingini",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Sonatane Takulua",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Tonga/Sonatane_Takulua.jpg"
+  },
+  {
+    "team": "Tonga",
+    "player": "William Havili",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Tonga/William_Havili.jpg"
+  },
+  {
+    "team": "Tonga",
+    "player": "Patrick Pellegrini",
+    "status": "no_image",
+    "wikipedia_title": "Patrick Pellegrini",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Tima Faingaʻanuku",
+    "status": "no_image",
+    "wikipedia_title": "Tima Faingaʻanuku",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Solomone Kata",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Tonga/Solomone_Kata.jpg"
+  },
+  {
+    "team": "Tonga",
+    "player": "Ofa Manuofetoa",
+    "status": "found",
+    "wikipedia_title": "Stade Aurillacois Cantal Auvergne",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Stade_Aurillacois_Logo.svg/500px-Stade_Aurillacois_Logo.svg.png",
+    "saved_path": "photos/Tonga/Ofa_Manuofetoa.png"
+  },
+  {
+    "team": "Tonga",
+    "player": "Taniela Filimone",
+    "status": "no_image",
+    "wikipedia_title": "Taniela Filimone",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Fine Inisi",
+    "status": "no_image",
+    "wikipedia_title": "Fine Inisi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "John Tapueluelu",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Anzelo Tuitavuki",
+    "status": "no_image",
+    "wikipedia_title": "Anzelo Tuitavuki",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Tonga",
+    "player": "Josiah Unga",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Tonga/Josiah_Unga.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Vano Karkadze",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Vano_Karkadze.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Nikoloz Sutidze",
+    "status": "no_image",
+    "wikipedia_title": "Nikoloz Sutidze",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Luka Nioradze",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Luka_Nioradze.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Giorgi Akhaladze",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Irakli Aptsiauri",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Irakli_Aptsiauri.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Luka Goginava",
+    "status": "no_image",
+    "wikipedia_title": "Luka Goginava",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Mamuka Mstoyani",
+    "status": "found",
+    "wikipedia_title": "Georgia national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Georgian_RU_logo_2023.png/500px-Georgian_RU_logo_2023.png",
+    "saved_path": "photos/Georgia/Mamuka_Mstoyani.png"
+  },
+  {
+    "team": "Georgia",
+    "player": "Alexsandre Kuntelia",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Alexsandre_Kuntelia.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Giorgi Melikidze",
+    "status": "no_image",
+    "wikipedia_title": "Giorgi Melikidze",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Mikheil Babunashvili",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Mikheil_Babunashvili.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Temur Tsulukidze",
+    "status": "found",
+    "wikipedia_title": "Georgia national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Georgian_RU_logo_2023.png/500px-Georgian_RU_logo_2023.png",
+    "saved_path": "photos/Georgia/Temur_Tsulukidze.png"
+  },
+  {
+    "team": "Georgia",
+    "player": "Giorgi Javakhia",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Giorgi_Javakhia.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Davit Lagvilava",
+    "status": "found",
+    "wikipedia_title": "Georgia national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Georgian_RU_logo_2023.png/500px-Georgian_RU_logo_2023.png",
+    "saved_path": "photos/Georgia/Davit_Lagvilava.png"
+  },
+  {
+    "team": "Georgia",
+    "player": "Gagui Margvelashvili",
+    "status": "found",
+    "wikipedia_title": "Georgia national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Georgian_RU_logo_2023.png/500px-Georgian_RU_logo_2023.png",
+    "saved_path": "photos/Georgia/Gagui_Margvelashvili.png"
+  },
+  {
+    "team": "Georgia",
+    "player": "Luka Ivanishvili",
+    "status": "no_image",
+    "wikipedia_title": "Luka Ivanishvili",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Ilia Spanderashvili",
+    "status": "no_image",
+    "wikipedia_title": "Ilia Spanderashvili",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Beka Saghinadze",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Tornike Jalagonia",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Tornike_Jalagonia.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Andro Dvali",
+    "status": "found",
+    "wikipedia_title": "Georgia national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Georgian_RU_logo_2023.png/500px-Georgian_RU_logo_2023.png",
+    "saved_path": "photos/Georgia/Andro_Dvali.png"
+  },
+  {
+    "team": "Georgia",
+    "player": "Ioane Yashaghashvili",
+    "status": "found",
+    "wikipedia_title": "Georgia national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Georgian_RU_logo_2023.png/500px-Georgian_RU_logo_2023.png",
+    "saved_path": "photos/Georgia/Ioane_Yashaghashvili.png"
+  },
+  {
+    "team": "Georgia",
+    "player": "Gela Aprasidze",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Gela_Aprasidze.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Vasil Lobzhanidze",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Vasil_Lobzhanidze.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Giorgi Spanderashvili",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Tedo Abzhandadze",
+    "status": "no_image",
+    "wikipedia_title": "Tedo Abzhandadze",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Luka Matkava",
+    "status": "no_image",
+    "wikipedia_title": "Luka Matkava",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Giorgi Kveseladze",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Giorgi_Kveseladze.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Georges Shvelidze",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Tornike Kakhoidze",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Tornike_Kakhoidze.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Demur Tapladze",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Demur_Tapladze.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Davit Barbakadze",
+    "status": "found",
+    "wikipedia_title": "Georgia national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Georgian_RU_logo_2023.png/500px-Georgian_RU_logo_2023.png",
+    "saved_path": "photos/Georgia/Davit_Barbakadze.png"
+  },
+  {
+    "team": "Georgia",
+    "player": "Akaki Tabutsadze",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Georgia/Akaki_Tabutsadze.jpg"
+  },
+  {
+    "team": "Georgia",
+    "player": "Nikoloz Rekhviashvili",
+    "status": "found",
+    "wikipedia_title": "Georgia national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Georgian_RU_logo_2023.png/500px-Georgian_RU_logo_2023.png",
+    "saved_path": "photos/Georgia/Nikoloz_Rekhviashvili.png"
+  },
+  {
+    "team": "Georgia",
+    "player": "Dachi Papunashvili",
+    "status": "no_image",
+    "wikipedia_title": "Dachi Papunashvili",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Georgia",
+    "player": "Otar Metreveli",
+    "status": "found",
+    "wikipedia_title": "Georgia national rugby union team",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Georgian_RU_logo_2023.png/500px-Georgian_RU_logo_2023.png",
+    "saved_path": "photos/Georgia/Otar_Metreveli.png"
+  },
+  {
+    "team": "Chile",
+    "player": "Augusto Böhme",
+    "status": "no_image",
+    "wikipedia_title": "Augusto Böhme",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Jorge Delgado",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Benjamín Moreno",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Norman Aguayo",
+    "status": "no_image",
+    "wikipedia_title": "2024 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Javier Carrasco",
+    "status": "no_image",
+    "wikipedia_title": "Javier Carrasco",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Baltazar Gurruchaga",
+    "status": "no_image",
+    "wikipedia_title": "2021 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Iñaki Gurruchaga",
+    "status": "no_image",
+    "wikipedia_title": "Iñaki Gurruchaga",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Salvador Lues",
+    "status": "no_image",
+    "wikipedia_title": "Salvador Lues",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Emiliano Shae",
+    "status": "no_image",
+    "wikipedia_title": "Chile national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Santiago Pedrero",
+    "status": "no_image",
+    "wikipedia_title": "Santiago Pedrero",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Bruno Sáez",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Augusto Villanueva",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Alfonso Escobar",
+    "status": "no_image",
+    "wikipedia_title": "Alfonso Escobar",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Raimundo Martínez",
+    "status": "no_image",
+    "wikipedia_title": "Raimundo Martínez",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Joaquin Milesi",
+    "status": "no_image",
+    "wikipedia_title": "2024 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Clemente Saavedra",
+    "status": "no_image",
+    "wikipedia_title": "Clemente Saavedra",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Ernesto Tchimino",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Santiago Valenzuela",
+    "status": "no_image",
+    "wikipedia_title": "Shalaya Valenzuela",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Lucas Berti",
+    "status": "no_image",
+    "wikipedia_title": "Selknam (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Juan Sebastián Bianchi",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Rodrigo Fernández",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Chile/Rodrigo_Fern_ndez.jpg"
+  },
+  {
+    "team": "Chile",
+    "player": "Juan Cruz Reyes",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Tomás Salas",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Rodrigo Araya",
+    "status": "no_image",
+    "wikipedia_title": "Chile national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Matías Garafulic",
+    "status": "no_image",
+    "wikipedia_title": "Matías Garafulic",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Domingo Saavedra",
+    "status": "no_image",
+    "wikipedia_title": "Domingo Saavedra",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Santiago Videla",
+    "status": "no_image",
+    "wikipedia_title": "Santiago Videla",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Clemente Armstrong",
+    "status": "no_image",
+    "wikipedia_title": "2024 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Cristóbal Game Jiménez",
+    "status": "no_image",
+    "wikipedia_title": "Cristóbal Game Jiménez",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Federico Kennedy",
+    "status": "no_image",
+    "wikipedia_title": "2025–26 United Rugby Championship",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Nicolás Saab",
+    "status": "no_image",
+    "wikipedia_title": "Selknam (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Chile",
+    "player": "Felipe Méndez",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Julián Montoya",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Juli_n_Montoya.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Ignacio Ruiz",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Ignacio_Ruiz.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Francisco Coria Marchetti",
+    "status": "no_image",
+    "wikipedia_title": "Francisco Coria Marchetti",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Pedro Delgado",
+    "status": "no_image",
+    "wikipedia_title": "Pedro Delgado (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Thomas Gallo",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Thomas_Gallo.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Tomas Rapetti",
+    "status": "no_image",
+    "wikipedia_title": "Tomas Rapetti",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Mayco Vivas",
+    "status": "no_image",
+    "wikipedia_title": "Mayco Vivas",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Boris Wenger",
+    "status": "no_image",
+    "wikipedia_title": "Boris Wenger",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Matías Alemanno",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Mat_as_Alemanno.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Efraín Elías",
+    "status": "no_image",
+    "wikipedia_title": "Efraín Elías",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Guido Petti",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Guido_Petti.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Pedro Rubiolo",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Pedro_Rubiolo.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Juan Martín González",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Juan_Mart_n_Gonz_lez.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Marcos Kremer",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Marcos_Kremer.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Santiago Grondona",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Santiago_Grondona.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Pablo Matera",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Pablo_Matera.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Juan Bautista Pedemonte",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Juan_Bautista_Pedemonte.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Joaquín Oviedo",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Joaqu_n_Oviedo.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Simon Benitez Cruz",
+    "status": "no_image",
+    "wikipedia_title": "Simón Benítez Cruz",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Gonzalo Bertranou",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Gonzalo_Bertranou.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Agustín Moyano",
+    "status": "no_image",
+    "wikipedia_title": "Agustín Moyano",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Santiago Carreras",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Santiago_Carreras.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Gerónimo Prisciantelli",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Ger_nimo_Prisciantelli.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Nicolás Roger",
+    "status": "no_image",
+    "wikipedia_title": "Nicolás Roger",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Santiago Chocobares",
+    "status": "no_image",
+    "wikipedia_title": "Santiago Chocobares",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Matías Moroni",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Mat_as_Moroni.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Justo Piccardo",
+    "status": "no_image",
+    "wikipedia_title": "Justo Piccardo",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Mateo Carreras",
+    "status": "no_image",
+    "wikipedia_title": "Mateo Carreras",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Bautista Delguy",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Bautista_Delguy.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Rodrigo Isgró",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Rodrigo_Isgr_.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Ignacio Mendy",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Ignacio_Mendy.jpg"
+  },
+  {
+    "team": "Argentina",
+    "player": "Benjamín Elizalde",
+    "status": "no_image",
+    "wikipedia_title": "Benjamín Elizalde",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Argentina",
+    "player": "Juan Cruz Mallía",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Argentina/Juan_Cruz_Mall_a.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Shodai Hirao",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Shoma Sagawa",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Kenji Sato",
+    "status": "no_image",
+    "wikipedia_title": "List of Japan national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Sho Furuhata",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Ryosuke Iwaihara",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Ryosuke_Iwaihara.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Sanshiro Kihara",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Kenta Kobayashi",
+    "status": "no_image",
+    "wikipedia_title": "List of Japan national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Shuhei Takeuchi",
+    "status": "no_image",
+    "wikipedia_title": "List of Japan national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Keijiro Tamefusa",
+    "status": "no_image",
+    "wikipedia_title": "List of Japan national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Jack Cornelsen",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Jack_Cornelsen.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Warner Dearns",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Warner_Dearns.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Harry Hockings",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Harry_Hockings.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Shohei Ito",
+    "status": "no_image",
+    "wikipedia_title": "Black Rams Tokyo",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Tyler Paul",
+    "status": "no_image",
+    "wikipedia_title": "Tyler Paul",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Epineri Uluiviti",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Epineri_Uluiviti.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Tiennan Costley",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Ben Gunter",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Ben_Gunter.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Michael Leitch",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Michael_Leitch.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Faulua Makisi",
+    "status": "no_image",
+    "wikipedia_title": "Faulua Makisi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Kanji Shimokawa",
+    "status": "no_image",
+    "wikipedia_title": "Kanji Shimokawa",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "David Van Zeeland",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Shu Yamamoto",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Asahi Doei",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Shinobu Fujiwara",
+    "status": "no_image",
+    "wikipedia_title": "List of Japan national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Kenta Fukuda",
+    "status": "no_image",
+    "wikipedia_title": "Kenta Fukuda",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Naoto Saitō",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Naoto_Sait_.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Sam Greene",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Sam_Greene.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Kotaro Ito",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Kotaro_Ito.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Shinya Komura",
+    "status": "no_image",
+    "wikipedia_title": "List of Japan national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Lee Seung-sin",
+    "status": "no_image",
+    "wikipedia_title": "Lee Seung-sin",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Yuya Hirose",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Yuya_Hirose.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Yuki Ikeda",
+    "status": "no_image",
+    "wikipedia_title": "List of Japan national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Charlie Lawrence",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Charlie_Lawrence.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Dylan Riley",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Japan/Dylan_Riley.jpg"
+  },
+  {
+    "team": "Japan",
+    "player": "Kippei Ishida",
+    "status": "no_image",
+    "wikipedia_title": "Kippei Ishida",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Tomoki Osada",
+    "status": "no_image",
+    "wikipedia_title": "Tomoki Osada",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Kazuma Ueda",
+    "status": "no_image",
+    "wikipedia_title": "Kazuma Ueda",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Japan",
+    "player": "Yoshitaka Yazaki",
+    "status": "no_image",
+    "wikipedia_title": "Yoshitaka Yazaki",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Sama Malolo",
+    "status": "no_image",
+    "wikipedia_title": "Sama Malolo",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Mills Sanerivi",
+    "status": "no_image",
+    "wikipedia_title": "Mills Sanerivi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Luteru Tolai",
+    "status": "no_image",
+    "wikipedia_title": "Luteru Tolai",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Jarred Adams",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Jarred_Adams.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Michael Alaalatoa",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Michael_Alaalatoa.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Titi Lamositele",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Titi_Lamositele.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Scott Sio",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Scott_Sio.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Tietie Tuimauga",
+    "status": "no_image",
+    "wikipedia_title": "Tietie Tuimauga",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Michael Curry",
+    "status": "no_image",
+    "wikipedia_title": "Tom Curry (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Theo McFarland",
+    "status": "no_image",
+    "wikipedia_title": "Theo McFarland",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Ben Nee-Nee",
+    "status": "no_image",
+    "wikipedia_title": "Ben Nee-Nee",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Miracle Faiʻilagi",
+    "status": "no_image",
+    "wikipedia_title": "Miracle Faiʻilagi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Niko Jones",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Niko_Jones.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Iakopo Mapu",
+    "status": "no_image",
+    "wikipedia_title": "Iakopo Mapu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Alamanda Motuga",
+    "status": "no_image",
+    "wikipedia_title": "Alamanda Motuga",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Abraham Papali'i",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Abraham_Papali_i.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Taleni Seu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Taleni_Seu.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Joel Lam",
+    "status": "no_image",
+    "wikipedia_title": "AJ Lam",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Jonathan Taumateine",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Jonathan_Taumateine.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Connor Tupai",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Connor_Tupai.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Rodney Iona",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Rodney_Iona.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Jacob Umaga",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Jacob_Umaga.jpg"
+  },
+  {
+    "team": "Samoa",
+    "player": "Lalomilo Lalomilo",
+    "status": "no_image",
+    "wikipedia_title": "Lalomilo Lalomilo",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Tumua Manu",
+    "status": "no_image",
+    "wikipedia_title": "Tumua Manu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Melani Nanai",
+    "status": "no_image",
+    "wikipedia_title": "Melani Nanai",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Faletoi Peni",
+    "status": "no_image",
+    "wikipedia_title": "Faletoi Peni",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Va'a Apelu Maliko",
+    "status": "no_image",
+    "wikipedia_title": "Va'a Apelu Maliko",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Latrell Smiler-Ah Kiong",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Tuna Tuitama",
+    "status": "no_image",
+    "wikipedia_title": "Tuna Tuitama",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Samoa",
+    "player": "Duncan Paia'aua",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Samoa/Duncan_Paia_aua.jpg"
+  },
+  {
+    "team": "Uruguay",
+    "player": "Germán Kessler",
+    "status": "no_image",
+    "wikipedia_title": "Germán Kessler",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Joaquín Myszka",
+    "status": "no_image",
+    "wikipedia_title": "2024 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Sebastián Pérez",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Santiago Cagnone",
+    "status": "no_image",
+    "wikipedia_title": "S.L. Benfica (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Ignacio Péculo",
+    "status": "no_image",
+    "wikipedia_title": "Ignacio Péculo",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Mateo Perillo",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Reinaldo Piussi",
+    "status": "no_image",
+    "wikipedia_title": "Reinaldo Piussi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Francisco Suárez",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Felipe Aliaga",
+    "status": "no_image",
+    "wikipedia_title": "Felipe Aliaga",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Ignacio Dotti",
+    "status": "no_image",
+    "wikipedia_title": "Ignacio Dotti",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Manuel Leindekar",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Uruguay/Manuel_Leindekar.jpg"
+  },
+  {
+    "team": "Uruguay",
+    "player": "Manuel Ardao",
+    "status": "no_image",
+    "wikipedia_title": "Manuel Ardao",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Lucas Bianchi",
+    "status": "no_image",
+    "wikipedia_title": "Lucas Bianchi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Santiago Civetta",
+    "status": "no_image",
+    "wikipedia_title": "Santiago Civetta",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Carlos Deus",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Manuel Diana",
+    "status": "no_image",
+    "wikipedia_title": "Manuel Diana",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Manuel Rosmarino",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Santiago Álvarez",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Uruguay/Santiago__lvarez.jpg"
+  },
+  {
+    "team": "Uruguay",
+    "player": "Ícaro Amarillo",
+    "status": "no_image",
+    "wikipedia_title": "2024 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Jean Cotarmanac'h",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Felipe Etcheverry",
+    "status": "no_image",
+    "wikipedia_title": "Felipe Etcheverry",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Juan Manuel Alonso",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Joaquín Suárez",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Andrés Vilaseca",
+    "status": "no_image",
+    "wikipedia_title": "Andrés Vilaseca",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Bautista Basso",
+    "status": "no_image",
+    "wikipedia_title": "Bautista Basso",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Justo Ferrario",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Francisco Gonzalez Capdevila",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Uruguay",
+    "player": "Juan Gonzalez",
+    "status": "no_image",
+    "wikipedia_title": "Juan Gonzalez (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Liam Belcher",
+    "status": "no_image",
+    "wikipedia_title": "Liam Belcher",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Ryan Elias",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Ryan_Elias.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Dewi Lake",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Dewi_Lake.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Evan Lloyd",
+    "status": "no_image",
+    "wikipedia_title": "Evan Lloyd (rugby union, born 2001)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Keiron Assiratti",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Keiron_Assiratti.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Rhys Barratt",
+    "status": "no_image",
+    "wikipedia_title": "Rhys Barratt",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Rhys Carré",
+    "status": "no_image",
+    "wikipedia_title": "Rhys Carré",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Dillon Lewis",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Dillon_Lewis.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Nicky Smith",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Nicky_Smith.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Gareth Thomas",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Gareth_Thomas.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Sam Wainwright",
+    "status": "no_image",
+    "wikipedia_title": "Sam Wainwright",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Ben Warren",
+    "status": "no_image",
+    "wikipedia_title": "Ben Warren (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Adam Beard",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Adam_Beard.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Ben Carter",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Ben_Carter.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Dafydd Jenkins",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Dafydd_Jenkins.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Freddie Thomas",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Freddie_Thomas.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Teddy Williams",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Teddy_Williams.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "James Botham",
+    "status": "no_image",
+    "wikipedia_title": "James Botham",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Olly Cracknell",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Olly_Cracknell.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Kane James",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Kane_James.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Harrison Keddie",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Harrison_Keddie.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Alex Mann",
+    "status": "no_image",
+    "wikipedia_title": "Alex Mann (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Jac Morgan",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Jac_Morgan.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Taine Plumtree",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Taine_Plumtree.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Tommy Reffell",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Tommy_Reffell.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Aaron Wainwright",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Aaron_Wainwright.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Ryan Woodman",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Ryan_Woodman.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Ellis Bevan",
+    "status": "no_image",
+    "wikipedia_title": "Ellis Bevan",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Kieran Hardy",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Kieran_Hardy.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Reuben Morgan-Williams",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Reuben_Morgan-Williams.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Tomos Williams",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Tomos_Williams.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Sam Costelow",
+    "status": "no_image",
+    "wikipedia_title": "Sam Costelow",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Dan Edwards",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Dan_Edwards.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Jarrod Evans",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Jarrod_Evans.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Bryn Bradley",
+    "status": "no_image",
+    "wikipedia_title": "Bryn Bradley",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Mason Grady",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Mason_Grady.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Joe Hawkins",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Joe_Hawkins.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Louie Hennessey",
+    "status": "no_image",
+    "wikipedia_title": "Louie Hennessey",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Eddie James",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Eddie_James.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Max Llewellyn",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Max_Llewellyn.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Joe Roberts",
+    "status": "no_image",
+    "wikipedia_title": "Joe Roberts (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Ben Thomas",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Ben_Thomas.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Josh Adams",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Josh_Adams.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Gabriel Hamer-Webb",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Gabriel_Hamer-Webb.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Ellis Mee",
+    "status": "no_image",
+    "wikipedia_title": "Ellis Mee",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Wales",
+    "player": "Louis Rees-Zammit",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Louis_Rees-Zammit.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Blair Murray",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Blair_Murray.jpg"
+  },
+  {
+    "team": "Wales",
+    "player": "Tom Rogers",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Wales/Tom_Rogers.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Jamie George",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Jamie_George.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Luke Cowan-Dickie",
+    "status": "no_image",
+    "wikipedia_title": "Luke Cowan-Dickie",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Theo Dan",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Theo_Dan.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Ellis Genge",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Ellis_Genge.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Joe Heyes",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Joe_Heyes.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Bevan Rodd",
+    "status": "no_image",
+    "wikipedia_title": "Bevan Rodd",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Trevor Davison",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Trevor_Davison.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Emmanuel Iyogun",
+    "status": "no_image",
+    "wikipedia_title": "Emmanuel Iyogun",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Vilikesa Sela",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Vilikesa_Sela.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Maro Itoje",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Maro_Itoje.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Ollie Chessum",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Ollie_Chessum.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Alex Coles",
+    "status": "no_image",
+    "wikipedia_title": "Alex Coles (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Arthur Clark",
+    "status": "no_image",
+    "wikipedia_title": "Arthur Clark (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Tom Curry",
+    "status": "no_image",
+    "wikipedia_title": "Tom Curry (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Ben Earl",
+    "status": "no_image",
+    "wikipedia_title": "Ben Earl",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Sam Underhill",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Sam_Underhill.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Chandler Cunningham-South",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Chandler_Cunningham-South.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Guy Pepper",
+    "status": "no_image",
+    "wikipedia_title": "Guy Pepper",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Henry Pollock",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Henry_Pollock.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Greg Fisilau",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Greg_Fisilau.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Alex Mitchell",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Alex_Mitchell.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Jack van Poortvliet",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Jack_van_Poortvliet.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Ben Spencer",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Ben_Spencer.jpg"
+  },
+  {
+    "team": "England",
+    "player": "George Ford",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/George_Ford.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Marcus Smith",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Marcus_Smith.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Fin Smith",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Fin_Smith.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Henry Slade",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Henry_Slade.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Ollie Lawrence",
+    "status": "no_image",
+    "wikipedia_title": "Ollie Lawrence",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Fraser Dingwall",
+    "status": "no_image",
+    "wikipedia_title": "Fraser Dingwall",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Seb Atkinson",
+    "status": "no_image",
+    "wikipedia_title": "Seb Atkinson",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Max Ojomoh",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Max_Ojomoh.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Tommy Freeman",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Tommy_Freeman.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Henry Arundell",
+    "status": "no_image",
+    "wikipedia_title": "Henry Arundell",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Immanuel Feyi-Waboso",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Immanuel_Feyi-Waboso.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Tom Roebuck",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Tom_Roebuck.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Cadan Murley",
+    "status": "no_image",
+    "wikipedia_title": "Cadan Murley",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "England",
+    "player": "Elliot Daly",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Elliot_Daly.jpg"
+  },
+  {
+    "team": "England",
+    "player": "Freddie Steward",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/England/Freddie_Steward.jpg"
+  },
+  {
+    "team": "England",
+    "player": "George Furbank",
+    "status": "no_image",
+    "wikipedia_title": "George Furbank",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Alexandre Raynier",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Vincent Tauzia",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Charlesty Berguet",
+    "status": "no_image",
+    "wikipedia_title": "Rugby Club Vannes",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Jean-Baptiste de Clercq",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Maxime Jadot",
+    "status": "no_image",
+    "wikipedia_title": "2017 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Basile van Parys",
+    "status": "no_image",
+    "wikipedia_title": "List of France national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Seppe Verelst",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Bruno Vliegen",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Gillian Benoy",
+    "status": "no_image",
+    "wikipedia_title": "2017 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Maurice Fromont",
+    "status": "no_image",
+    "wikipedia_title": "List of New Zealand national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Maximilien Hendrickx",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Jérémie Brasseur",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Toon Deceuninck",
+    "status": "no_image",
+    "wikipedia_title": "2021 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Jean-Maurice Decubber",
+    "status": "no_image",
+    "wikipedia_title": "2025 Rugby Europe Championship",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Felipe Geraghty",
+    "status": "no_image",
+    "wikipedia_title": "Geraghty",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Lucas Rassinfosse",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Belgium/Lucas_Rassinfosse.jpg"
+  },
+  {
+    "team": "Belgium",
+    "player": "William Van Bost",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Julien Berger",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Belgium/Julien_Berger.jpg"
+  },
+  {
+    "team": "Belgium",
+    "player": "Isaac Montoisy",
+    "status": "no_image",
+    "wikipedia_title": "2017 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Timothé Rifon",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Hugo De Francq",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Matias Remue",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Florian Remue",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Jens Torfs",
+    "status": "no_image",
+    "wikipedia_title": "Stade Montois Rugby",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Maxime Vacquier",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Robin Wedlake",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Belgium/Robin_Wedlake.jpg"
+  },
+  {
+    "team": "Belgium",
+    "player": "Dazzy Cornez",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Lucas Michiels",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Ervin Muric",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Thomas Wallraf",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Belgium",
+    "player": "Siméon Soenen",
+    "status": "no_image",
+    "wikipedia_title": "Belgium national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Harry Baron",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Calum Scott",
+    "status": "no_image",
+    "wikipedia_title": "Calum",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Rory Cinnamond",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Zacceus Cinnamond",
+    "status": "no_image",
+    "wikipedia_title": "Hong Kong national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Sunia Fameitau",
+    "status": "no_image",
+    "wikipedia_title": "2024 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "James Holmes",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Hong_Kong_China/James_Holmes.jpg"
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Callum McFeat Smith",
+    "status": "no_image",
+    "wikipedia_title": "Callum McFeat Smith",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Faizal Solomona-Penesa",
+    "status": "no_image",
+    "wikipedia_title": "Hong Kong national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Dana Fourie",
+    "status": "no_image",
+    "wikipedia_title": "2010 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Max Murphy",
+    "status": "no_image",
+    "wikipedia_title": "List of Scotland national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Kyle Sullivan",
+    "status": "no_image",
+    "wikipedia_title": "Sullivan (surname)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Jack Bartlett",
+    "status": "no_image",
+    "wikipedia_title": "List of Chiefs (Super Rugby) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Lachlan Doheny",
+    "status": "no_image",
+    "wikipedia_title": "Hong Kong national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "c",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Hong_Kong_China/c.jpg"
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Pierce MacKinlay-West",
+    "status": "no_image",
+    "wikipedia_title": "List of England national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Tyler McNutt",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "James Sawyer",
+    "status": "no_image",
+    "wikipedia_title": "List of Ireland national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Brendon Nell",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Chui Wai Lap Eric",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Joe Barker",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Hong_Kong_China/Joe_Barker.jpg"
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Gregor McNeish",
+    "status": "no_image",
+    "wikipedia_title": "Hong Kong national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Jack Abbott",
+    "status": "no_image",
+    "wikipedia_title": "List of Hurricanes (rugby union) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Benjamin Axten-Burrett",
+    "status": "no_image",
+    "wikipedia_title": "Hong Kong national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Isaac Campbell-Wu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Hong_Kong_China/Isaac_Campbell-Wu.jpg"
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Thomas Hill",
+    "status": "no_image",
+    "wikipedia_title": "Jonny Hill (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "James Rivers",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Hong_Kong_China/James_Rivers.jpg"
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Guy Spanton",
+    "status": "no_image",
+    "wikipedia_title": "Hong Kong national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Murray Brechin",
+    "status": "no_image",
+    "wikipedia_title": "Hong Kong national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Charlie Higson-Smith",
+    "status": "no_image",
+    "wikipedia_title": "Charlie Higson-Smith",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Dylan McCann",
+    "status": "no_image",
+    "wikipedia_title": "List of Scotland national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Elliott Quinton",
+    "status": "no_image",
+    "wikipedia_title": "Carole Quinton",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Marcus Ramage",
+    "status": "no_image",
+    "wikipedia_title": "2014 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Penetana Smith",
+    "status": "no_image",
+    "wikipedia_title": "Hong Kong national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Hong Kong China",
+    "player": "Matt Worley",
+    "status": "no_image",
+    "wikipedia_title": "Matt Worley",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Armand Combrinck",
+    "status": "no_image",
+    "wikipedia_title": "List of Lions (United Rugby Championship) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Louis van der Westhuizen",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Namibia/Louis_van_der_Westhuizen.jpg"
+  },
+  {
+    "team": "Namibia",
+    "player": "Torsten van Jaarsveld",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Namibia/Torsten_van_Jaarsveld.jpg"
+  },
+  {
+    "team": "Namibia",
+    "player": "Otja Auala",
+    "status": "no_image",
+    "wikipedia_title": "Namibia national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Joshua Bester",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Namibia/Joshua_Bester.jpg"
+  },
+  {
+    "team": "Namibia",
+    "player": "Aranos Coetzee",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Namibia/Aranos_Coetzee.jpg"
+  },
+  {
+    "team": "Namibia",
+    "player": "Gianluca Savoldelli",
+    "status": "no_image",
+    "wikipedia_title": "Namibia national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Haitembu Shikufa",
+    "status": "no_image",
+    "wikipedia_title": "Namibia national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Tiaan de Klerk",
+    "status": "no_image",
+    "wikipedia_title": "Tiaan de Klerk",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Max Katjijeko",
+    "status": "no_image",
+    "wikipedia_title": "Max Katjijeko",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Adriaan Ludick",
+    "status": "no_image",
+    "wikipedia_title": "Adriaan Ludick",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Johan Retief",
+    "status": "no_image",
+    "wikipedia_title": "Johan Retief (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Adriaan Booysen",
+    "status": "no_image",
+    "wikipedia_title": "Adriaan Booysen",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Wian Conradie",
+    "status": "no_image",
+    "wikipedia_title": "Wian Conradie",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Prince ǃGaoseb",
+    "status": "no_image",
+    "wikipedia_title": "Prince ǃGaoseb",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Riaan Grové",
+    "status": "no_image",
+    "wikipedia_title": "List of Stormers players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Johan Luttig",
+    "status": "no_image",
+    "wikipedia_title": "List of Namibia national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "AJ Kearns",
+    "status": "no_image",
+    "wikipedia_title": "2024 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "TC Kisting",
+    "status": "no_image",
+    "wikipedia_title": "TC Kisting",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Jacques Theron",
+    "status": "no_image",
+    "wikipedia_title": "List of Sharks (rugby union) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Cliven Loubser",
+    "status": "no_image",
+    "wikipedia_title": "Cliven Loubser",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "André van den Berg",
+    "status": "no_image",
+    "wikipedia_title": "André van den Berg",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Danco Burger",
+    "status": "no_image",
+    "wikipedia_title": "List of Namibia national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Johan Deysel",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Namibia/Johan_Deysel.jpg"
+  },
+  {
+    "team": "Namibia",
+    "player": "Divan Rossouw",
+    "status": "no_image",
+    "wikipedia_title": "List of Bulls (rugby union) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "J. C. Greyling",
+    "status": "no_image",
+    "wikipedia_title": "List of Namibia national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Jürgen Meyer",
+    "status": "no_image",
+    "wikipedia_title": "List of Bulls (rugby union) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Jay-Cee Nel",
+    "status": "no_image",
+    "wikipedia_title": "Jay-Cee Nel",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Danie van der Merwe",
+    "status": "no_image",
+    "wikipedia_title": "Danie van der Merwe",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Namibia",
+    "player": "Aston Mukwiilongo",
+    "status": "no_image",
+    "wikipedia_title": "Namibia national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Álvaro García",
+    "status": "no_image",
+    "wikipedia_title": "Álvaro García",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Santiago Ovejero",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Joaquín Domínguez",
+    "status": "no_image",
+    "wikipedia_title": "Joaquín Domínguez",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Raúl Calzón",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Thierry Futeu",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Joel Merkler",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Spain/Joel_Merkler.jpg"
+  },
+  {
+    "team": "Spain",
+    "player": "Hugo Pirlet",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Lucas Santamaría",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Bernardo Vasquez",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Jon Zabala",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Spain/Jon_Zabala.jpg"
+  },
+  {
+    "team": "Spain",
+    "player": "Matthew Foulds",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Pablo Guirao",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Ignacio Piñeiro",
+    "status": "no_image",
+    "wikipedia_title": "Ignacio",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Antonio Suárez",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Imanol Urraza",
+    "status": "no_image",
+    "wikipedia_title": "List of Basque rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Manex Ariceta",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Vicente Boronat",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Ekain Imaz",
+    "status": "no_image",
+    "wikipedia_title": "List of Basque rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Raphaël Nieto",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Mario Pichardie",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Alex Saleta",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Matheo Triki",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Kerman Aurrekoetxea",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Estanislao Bay",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Nicolás Infer",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Gonzalo López-Bontempo",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Lucien Richardis",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Gonzalo Vinuesa",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Samuel Ezeala",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Spain/Samuel_Ezeala.jpg"
+  },
+  {
+    "team": "Spain",
+    "player": "Yago Fernández",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Álvar Gimeno",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Spain/_lvar_Gimeno.jpg"
+  },
+  {
+    "team": "Spain",
+    "player": "Iñaki Mateu",
+    "status": "no_image",
+    "wikipedia_title": "Iñaki Mateu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Pau Aira",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Martiniano Cian",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Egoitz García",
+    "status": "no_image",
+    "wikipedia_title": "List of Basque rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Alejandro Laforga",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "J. W. Bell",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Alberto Carmona",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Spain",
+    "player": "Beltrán Ortega",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Liam Larkan",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Matthew Mandioma",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Bryan Chiang",
+    "status": "no_image",
+    "wikipedia_title": "Deaths in January 2026",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Bornwell Gwinji",
+    "status": "no_image",
+    "wikipedia_title": "2026 men's rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Cleopas Kundiona",
+    "status": "no_image",
+    "wikipedia_title": "Cleopas Kundiona",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Victor Mupunga",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Brian Makamure",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Tyran Fagan",
+    "status": "no_image",
+    "wikipedia_title": "2025 Rugby Africa Cup",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Zvikomborero Chimoto",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Kudakwashe Nyakufaringwa",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Simba Siraha",
+    "status": "no_image",
+    "wikipedia_title": "2026 men's rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Tadiwanashe Gwashu",
+    "status": "no_image",
+    "wikipedia_title": "2026 men's rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Brian Nyaude",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Godfrey Muzanargwo",
+    "status": "no_image",
+    "wikipedia_title": "2025 Rugby Africa Cup",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Aiden Burnett",
+    "status": "no_image",
+    "wikipedia_title": "2026 men's rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Jason Fraser",
+    "status": "no_image",
+    "wikipedia_title": "List of Hurricanes (rugby union) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Dylan Utete",
+    "status": "no_image",
+    "wikipedia_title": "2026 men's rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Tinotenda Mavesere",
+    "status": "no_image",
+    "wikipedia_title": "Tinotenda Mavesere",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Keegan Joubert",
+    "status": "no_image",
+    "wikipedia_title": "List of Sharks (rugby union) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Hilton Mudariki",
+    "status": "no_image",
+    "wikipedia_title": "Hilton Mudariki",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Tyrone Gombe",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Zimbabwe/Tyrone_Gombe.jpg"
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Ian Prior",
+    "status": "no_image",
+    "wikipedia_title": "Ian Prior (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Lenience Tambwera",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby sevens team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Bruce Houston",
+    "status": "no_image",
+    "wikipedia_title": "Bruce Houston",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Brandon Mudzekenyedzi",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Kudzai Mashawi",
+    "status": "no_image",
+    "wikipedia_title": "2026 men's rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Dion Khumalo",
+    "status": "no_image",
+    "wikipedia_title": "2026 men's rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Matthew McNab",
+    "status": "no_image",
+    "wikipedia_title": "Matthew McNab",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Edward Sigauke",
+    "status": "no_image",
+    "wikipedia_title": "Edward Sigauke",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Trevor Gurwe",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Takudzwa Musingwini",
+    "status": "no_image",
+    "wikipedia_title": "Zimbabwe national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Zimbabwe",
+    "player": "Tapiwa Mafura",
+    "status": "no_image",
+    "wikipedia_title": "Tapiwa Mafura",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Italy",
+    "player": "Tommaso Di Bartolomeo",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Tommaso_Di_Bartolomeo.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Pablo Dimcheff",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Pablo_Dimcheff.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Giacomo Nicotera",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Giacomo_Nicotera.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Simone Ferrari",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Simone_Ferrari.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Danilo Fischetti",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Danilo_Fischetti.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Muhamed Hasa",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Muhamed_Hasa.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Mirco Spagnolo",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Mirco_Spagnolo.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Giosuè Zilocchi",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Giosu__Zilocchi.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Niccolò Cannone",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Niccol__Cannone.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Riccardo Favretto",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Riccardo_Favretto.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Federico Ruzza",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Federico_Ruzza.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Andrea Zambonin",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Andrea_Zambonin.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Lorenzo Cannone",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Lorenzo_Cannone.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Alessandro Izekor",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Alessandro_Izekor.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Michele Lamaro",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Michele_Lamaro.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Samuele Locatelli",
+    "status": "no_image",
+    "wikipedia_title": "Samuele Locatelli",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Italy",
+    "player": "David Odiase",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/David_Odiase.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Manuel Zuliani",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Manuel_Zuliani.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Alessandro Fusco",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Alessandro_Fusco.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Alessandro Garbisi",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Alessandro_Garbisi.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Stephen Varney",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Stephen_Varney.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Giacomo Da Re",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Giacomo_Da_Re.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Paolo Garbisi",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Paolo_Garbisi.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Ignacio Brex",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Ignacio_Brex.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Leonardo Marin",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Leonardo_Marin.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Damiano Mazza",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Damiano_Mazza.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Tommaso Menoncello",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Tommaso_Menoncello.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Paolo Odogwu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Paolo_Odogwu.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Monty Ioane",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Monty_Ioane.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Louis Lynagh",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Louis_Lynagh.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Matt Gallagher",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Matt_Gallagher.jpg"
+  },
+  {
+    "team": "Italy",
+    "player": "Lorenzo Pani",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Italy/Lorenzo_Pani.jpg"
+  },
+  {
+    "team": "Fiji",
+    "player": "Tevita Ikanivere",
+    "status": "found",
+    "wikipedia_title": "Tevita Ikanivere",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tevita_Ikanivere_2023.png",
+    "saved_path": "photos/Fiji/Tevita_Ikanivere.png"
+  },
+  {
+    "team": "Fiji",
+    "player": "Kavaia Tagivetaua",
+    "status": "no_image",
+    "wikipedia_title": "Kavaia Tagivetaua",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Zuriel Togiatama",
+    "status": "no_image",
+    "wikipedia_title": "Zuriel Togiatama",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Mesake Doge",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Fiji/Mesake_Doge.jpg"
+  },
+  {
+    "team": "Fiji",
+    "player": "Haereiti Hetet",
+    "status": "no_image",
+    "wikipedia_title": "Haereiti Hetet",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Tim Hoyt",
+    "status": "no_image",
+    "wikipedia_title": "Tim Hoyt",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Eroni Mawi",
+    "status": "no_image",
+    "wikipedia_title": "Eroni Mawi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Atunaisa Sokobale",
+    "status": "no_image",
+    "wikipedia_title": "Atunaisa Sokobale",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Samu Tawake",
+    "status": "no_image",
+    "wikipedia_title": "Samu Tawake",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Temo Mayanavanua",
+    "status": "no_image",
+    "wikipedia_title": "Temo Mayanavanua",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Isoa Nasilasila",
+    "status": "found",
+    "wikipedia_title": "Isoa Nasilasila",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Isoa_Nasilasila_2023.png",
+    "saved_path": "photos/Fiji/Isoa_Nasilasila.png"
+  },
+  {
+    "team": "Fiji",
+    "player": "Setariki Turagacoke",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Mesake Vocevoce",
+    "status": "no_image",
+    "wikipedia_title": "Mesake Vocevoce",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Elia Canakaivata",
+    "status": "no_image",
+    "wikipedia_title": "Elia Canakaivata",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Viliame Mata",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Fiji/Viliame_Mata.jpg"
+  },
+  {
+    "team": "Fiji",
+    "player": "Motikai Murray",
+    "status": "no_image",
+    "wikipedia_title": "Motikai Murray",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Kitione Salawa Jr.",
+    "status": "no_image",
+    "wikipedia_title": "Kitione Salawa (rugby union, born 2001)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Pita Gus Sowakula",
+    "status": "no_image",
+    "wikipedia_title": "Pita Gus Sowakula",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Lekima Tagitagivalu",
+    "status": "no_image",
+    "wikipedia_title": "Lekima Tagitagivalu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Simione Kuruvoli",
+    "status": "no_image",
+    "wikipedia_title": "Simione Kuruvoli (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Philip Baselala",
+    "status": "found",
+    "wikipedia_title": "Philip Baselala",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Philip_Baselala_LQ_2023.png",
+    "saved_path": "photos/Fiji/Philip_Baselala.png"
+  },
+  {
+    "team": "Fiji",
+    "player": "Sam Wye",
+    "status": "no_image",
+    "wikipedia_title": "Sam Wye",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Isaiah Armstrong-Ravula",
+    "status": "no_image",
+    "wikipedia_title": "Isaiah Armstrong-Ravula",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Caleb Muntz",
+    "status": "no_image",
+    "wikipedia_title": "Caleb Muntz",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Vilimoni Botitu",
+    "status": "no_image",
+    "wikipedia_title": "Vilimoni Botitu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Iosefo Masi",
+    "status": "found",
+    "wikipedia_title": "Iosefo Masi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Iosefo_Masi_2023.png",
+    "saved_path": "photos/Fiji/Iosefo_Masi.png"
+  },
+  {
+    "team": "Fiji",
+    "player": "Sireli Maqala",
+    "status": "no_image",
+    "wikipedia_title": "Sireli Maqala",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Josua Tuisova",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Fiji/Josua_Tuisova.jpg"
+  },
+  {
+    "team": "Fiji",
+    "player": "Ponepati Loganimasi",
+    "status": "no_image",
+    "wikipedia_title": "Ponepati Loganimasi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Joji Nasova",
+    "status": "no_image",
+    "wikipedia_title": "Joji Nasova",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Seta Tuicuvu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Fiji/Seta_Tuicuvu.jpg"
+  },
+  {
+    "team": "Fiji",
+    "player": "Kalaveti Ravouvou",
+    "status": "no_image",
+    "wikipedia_title": "Kalaveti Ravouvou",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Fiji",
+    "player": "Selestino Ravutaumada",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Fiji/Selestino_Ravutaumada.jpg"
+  },
+  {
+    "team": "Fiji",
+    "player": "Jiuta Wainiqolo",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Fiji/Jiuta_Wainiqolo.jpg"
+  },
+  {
+    "team": "Fiji",
+    "player": "Salesi Rayasi",
+    "status": "no_image",
+    "wikipedia_title": "Salesi Rayasi",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Luka Begic",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Maixent da Costa",
+    "status": "no_image",
+    "wikipedia_title": "Portugal national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Luis Lopes",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Nuno Mascarenhas",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Pedro Santiago Lopes",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Diego Pinheiro Ruiz",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Pedro Vicente",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Anthony Alves",
+    "status": "no_image",
+    "wikipedia_title": "Anthony Alves",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "David Costa",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Portugal/David_Costa.jpg"
+  },
+  {
+    "team": "Portugal",
+    "player": "Abel da Cunha",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "José Lavos",
+    "status": "no_image",
+    "wikipedia_title": "Grupo Dramático e Sportivo Cascais",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "António Prim",
+    "status": "no_image",
+    "wikipedia_title": "List of Spain national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Martim Souto",
+    "status": "no_image",
+    "wikipedia_title": "Portugal national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Cody Thomas",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Portugal/Cody_Thomas.jpg"
+  },
+  {
+    "team": "Portugal",
+    "player": "Martim Belo",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Guilherme Costa",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Pedro Ferreira",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "José Madeira",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Duarte Nunes",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Duarte Torgal",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Francisco Almeida",
+    "status": "no_image",
+    "wikipedia_title": "2025 mid-year rugby union tests",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Vasco Baptista",
+    "status": "no_image",
+    "wikipedia_title": "Portugal national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "André da Cunha",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Nicolas Martins",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Portugal/Nicolas_Martins.jpg"
+  },
+  {
+    "team": "Portugal",
+    "player": "Sabata Mokhachane",
+    "status": "no_image",
+    "wikipedia_title": "2025–26 Campeonato Nacional de Rugby Divisão de Honra",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "David Wallis",
+    "status": "no_image",
+    "wikipedia_title": "Rugby union in Wallis and Futuna",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Tomas Amado",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Tomás Batista",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Portugal/Tom_s_Batista.jpg"
+  },
+  {
+    "team": "Portugal",
+    "player": "Hugo Camacho",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "António Campos",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Pedro Lucas",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Samuel Marques",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Portugal/Samuel_Marques.jpg"
+  },
+  {
+    "team": "Portugal",
+    "player": "Hugo Aubry",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Tomas Marques",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Tomás Appleton",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Portugal/Tom_s_Appleton.jpg"
+  },
+  {
+    "team": "Portugal",
+    "player": "Martim Faro",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Guilherme Vasconcelos",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Rodrigo Marta",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/Portugal/Rodrigo_Marta.jpg"
+  },
+  {
+    "team": "Portugal",
+    "player": "Vincent Pinto",
+    "status": "no_image",
+    "wikipedia_title": "Portugal national rugby union team",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Raffaele Storti",
+    "status": "found",
+    "wikipedia_title": "Raffaele Storti",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Raffaele_Storti_2023.png/500px-Raffaele_Storti_2023.png",
+    "saved_path": "photos/Portugal/Raffaele_Storti.png"
+  },
+  {
+    "team": "Portugal",
+    "player": "Alfredo Almeida",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Simão Bento",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Nuno Sousa Guedes",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Manuel Cardoso Pinto",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "Portugal",
+    "player": "Manuel Vareiro",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Kaleb Geiger",
+    "status": "no_image",
+    "wikipedia_title": "Kaleb Geiger",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Sean McNulty",
+    "status": "no_image",
+    "wikipedia_title": "Sean McNulty",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Mike Sosene-Feagai",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/USA/Mike_Sosene-Feagai.jpg"
+  },
+  {
+    "team": "USA",
+    "player": "David Ainuʻu",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/USA/David_Ainu_u.jpg"
+  },
+  {
+    "team": "USA",
+    "player": "Pono Davis",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/USA/Pono_Davis.jpg"
+  },
+  {
+    "team": "USA",
+    "player": "Jack Iscaro",
+    "status": "no_image",
+    "wikipedia_title": "Jack Iscaro",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Tonga Kofe",
+    "status": "no_image",
+    "wikipedia_title": "Tonga Kofe",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Ezekiel Lindenmuth",
+    "status": "no_image",
+    "wikipedia_title": "Ezekiel Lindenmuth",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Maliu Niuafe",
+    "status": "no_image",
+    "wikipedia_title": "Maliu Niuafe",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Payton Talea",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Jason Damm",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Brandon Harvey",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Vili Helu",
+    "status": "no_image",
+    "wikipedia_title": "Vili Helu",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Tevita Naqali",
+    "status": "no_image",
+    "wikipedia_title": "Tevita Naqali",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Rick Rose",
+    "status": "no_image",
+    "wikipedia_title": "List of Scotland national rugby union players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Makeen Alikhan",
+    "status": "no_image",
+    "wikipedia_title": "Makeen Alikhan",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Cory Daniel",
+    "status": "no_image",
+    "wikipedia_title": "List of Hurricanes (rugby union) players",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Nafi Ma'afu",
+    "status": "no_image",
+    "wikipedia_title": "2025 end-of-year rugby union internationals",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Christian Poidevin",
+    "status": "no_image",
+    "wikipedia_title": "Christian Poidevin",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Marno Redelinghuys",
+    "status": "no_image",
+    "wikipedia_title": "Marno Redelinghuys",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Paddy Ryan",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/USA/Paddy_Ryan.jpg"
+  },
+  {
+    "team": "USA",
+    "player": "Michael Baska",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Ruben de Haas",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Ethan McVeigh",
+    "status": "no_image",
+    "wikipedia_title": "Ethan McVeigh",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Luke Carty",
+    "status": "no_image",
+    "wikipedia_title": "Luke Carty",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Christopher Hilsenbeck",
+    "status": "no_image",
+    "wikipedia_title": "Christopher Hilsenbeck",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Dominic Besag",
+    "status": "no_image",
+    "wikipedia_title": "Dominic Besag",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Tommaso Boni",
+    "status": "found",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": "photos/USA/Tommaso_Boni.jpg"
+  },
+  {
+    "team": "USA",
+    "player": "Tavite Lopeti",
+    "status": "no_image",
+    "wikipedia_title": "Tavite Lopeti",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Erich Storti",
+    "status": "no_image",
+    "wikipedia_title": "Erich Storti",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Malacchi Esdale",
+    "status": "no_image",
+    "wikipedia_title": "Malacchi Esdale",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Toby Fricker",
+    "status": "error: error decoding response body: expected value at line 1 column 1",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Lauina Futi",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Rufus McLean",
+    "status": "no_wiki_page",
+    "wikipedia_title": null,
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Mark O'Keeffe",
+    "status": "no_image",
+    "wikipedia_title": "Mark O'Keeffe",
+    "image_url": null,
+    "saved_path": null
+  },
+  {
+    "team": "USA",
+    "player": "Mitch Wilson",
+    "status": "no_image",
+    "wikipedia_title": "Mitch Wilson (rugby union)",
+    "image_url": null,
+    "saved_path": null
+  }
+]

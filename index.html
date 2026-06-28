@@ -19,7 +19,6 @@
   }
 
   * { box-sizing: border-box; }
-
   html, body { margin: 0; min-height: 100%; }
 
   body {
@@ -32,13 +31,8 @@
     align-items: center;
   }
 
-  .wrap {
-    width: 100%;
-    max-width: 900px;
-    padding: 0 0 60px;
-  }
+  .wrap { width: 100%; max-width: 900px; padding: 0 0 60px; }
 
-  /* ---- Top nav bar, World Rugby style ---- */
   .topbar {
     width: 100%;
     background: var(--navy);
@@ -46,7 +40,6 @@
     padding: 18px 24px;
     margin-bottom: 28px;
   }
-
   .topbar-inner {
     max-width: 900px;
     margin: 0 auto;
@@ -54,35 +47,18 @@
     align-items: center;
     gap: 14px;
   }
-
   .topbar-crest {
-    width: 38px;
-    height: 38px;
+    width: 38px; height: 38px;
     border-radius: 50%;
     background: var(--red);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 800;
-    font-size: 15px;
-    letter-spacing: -0.5px;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 800; font-size: 15px; letter-spacing: -0.5px;
     flex: 0 0 auto;
   }
-
   .topbar-text h1 {
     margin: 0;
-    font-size: 1.15rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-  }
-
-  .topbar-text .tag {
-    font-size: 0.72rem;
-    color: rgba(255,255,255,0.6);
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    font-weight: 600;
+    font-size: 1.15rem; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.04em;
   }
 
   .content-pad { padding: 0 16px; }
@@ -97,7 +73,35 @@
 
   .hidden { display: none !important; }
 
-  /* ---- Setup screen ---- */
+  /* ---- Mode toggle ---- */
+  .mode-toggle {
+    display: flex;
+    gap: 0;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 24px;
+  }
+  .mode-btn {
+    flex: 1;
+    padding: 12px;
+    font-size: 0.88rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    border: none;
+    background: var(--white);
+    color: var(--muted);
+    cursor: pointer;
+    transition: background 0.12s, color 0.12s;
+  }
+  .mode-btn.active {
+    background: var(--navy);
+    color: var(--white);
+  }
+  .mode-btn:first-child { border-right: 1px solid var(--line); }
+
+  /* ---- Shared setup pieces ---- */
   .setup label {
     display: block;
     font-weight: 800;
@@ -107,7 +111,6 @@
     margin-bottom: 8px;
     color: var(--navy);
   }
-
   select {
     width: 100%;
     padding: 13px 16px;
@@ -119,288 +122,300 @@
     font-family: inherit;
     appearance: none;
   }
-
   select:focus, button:focus-visible, input:focus-visible {
     outline: 2px solid var(--red);
     outline-offset: 1px;
   }
-
   .field-group { margin-bottom: 20px; }
-
-  .meta-row {
-    margin-top: 6px;
-    font-size: 0.85rem;
-    color: var(--muted);
-  }
+  .meta-row { margin-top: 6px; font-size: 0.85rem; color: var(--muted); }
   .meta-row strong { color: var(--navy); }
 
   button.primary {
-    width: 100%;
-    margin-top: 22px;
-    padding: 15px;
-    font-size: 0.95rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    border: none;
-    border-radius: 3px;
-    background: var(--red);
-    color: var(--white);
-    cursor: pointer;
-    transition: background 0.15s;
+    width: 100%; margin-top: 22px; padding: 15px;
+    font-size: 0.95rem; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    border: none; border-radius: 3px;
+    background: var(--red); color: var(--white);
+    cursor: pointer; transition: background 0.15s;
   }
   button.primary:hover { background: var(--red-dark); }
   button.primary:active { transform: translateY(1px); }
 
   button.secondary {
-    width: 100%;
-    margin-top: 12px;
-    padding: 13px;
-    font-size: 0.88rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    border: 1px solid var(--navy);
-    border-radius: 3px;
-    background: transparent;
-    color: var(--navy);
-    cursor: pointer;
+    width: 100%; margin-top: 12px; padding: 13px;
+    font-size: 0.88rem; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    border: 1px solid var(--navy); border-radius: 3px;
+    background: transparent; color: var(--navy); cursor: pointer;
   }
   button.secondary:hover { background: var(--off-white); }
 
-  .loading, .error-state {
-    text-align: center;
-    padding: 40px 10px;
-  }
+  .loading, .error-state { text-align: center; padding: 40px 10px; }
   .error-state strong { color: var(--red); }
 
-  /* ---- Quiz screen ---- */
-  .back-row {
-    display: flex;
-    align-items: center;
-    margin-bottom: 12px;
-  }
-
+  /* ---- Back button ---- */
+  .back-row { display: flex; align-items: center; margin-bottom: 12px; }
   .back-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    background: none;
-    border: none;
-    color: var(--navy);
-    font-weight: 700;
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    cursor: pointer;
-    padding: 6px 0;
+    display: inline-flex; align-items: center; gap: 6px;
+    background: none; border: none;
+    color: var(--navy); font-weight: 700;
+    font-size: 0.85rem; text-transform: uppercase;
+    letter-spacing: 0.05em; cursor: pointer; padding: 6px 0;
   }
   .back-btn:hover { color: var(--red); }
   .back-btn svg { width: 16px; height: 16px; }
 
+  /* ---- Quiz screen ---- */
   .quiz-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-bottom: 16px;
+    display: flex; justify-content: space-between;
+    align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 16px;
   }
-
   .quiz-top h2 {
-    margin: 0;
-    font-size: 1.3rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0.02em;
-    color: var(--navy);
+    margin: 0; font-size: 1.3rem; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.02em; color: var(--navy);
   }
-
   .timer {
-    font-weight: 800;
-    font-size: 1.3rem;
-    color: var(--ink);
-    background: var(--off-white);
-    border: 1px solid var(--line);
-    border-radius: 3px;
-    padding: 6px 16px;
-    min-width: 90px;
-    text-align: center;
-    font-variant-numeric: tabular-nums;
+    font-weight: 800; font-size: 1.3rem; color: var(--ink);
+    background: var(--off-white); border: 1px solid var(--line);
+    border-radius: 3px; padding: 6px 16px; min-width: 90px;
+    text-align: center; font-variant-numeric: tabular-nums;
   }
   .timer.warn { color: var(--red); border-color: var(--red); }
-
-  .progress-bar {
-    height: 6px;
-    background: var(--line);
-    overflow: hidden;
-    margin-bottom: 16px;
-  }
-  .progress-fill {
-    height: 100%;
-    background: var(--red);
-    transition: width 0.2s ease;
-    width: 0%;
-  }
+  .progress-bar { height: 6px; background: var(--line); overflow: hidden; margin-bottom: 16px; }
+  .progress-fill { height: 100%; background: var(--red); transition: width 0.2s ease; width: 0%; }
 
   .sticky-bar {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background: var(--white);
-    padding: 14px 0 10px;
-    margin: -4px 0 0;
-    border-bottom: 1px solid var(--line);
-    margin-bottom: 14px;
+    position: sticky; top: 0; z-index: 10;
+    background: var(--white); padding: 14px 0 10px; margin: -4px 0 0;
+    border-bottom: 1px solid var(--line); margin-bottom: 14px;
   }
-
-  .input-row {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 6px;
-  }
-
+  .input-row { display: flex; gap: 10px; margin-bottom: 6px; }
   #guess-input {
-    flex: 1;
-    padding: 15px 18px;
-    font-size: 1.05rem;
-    border: 2px solid var(--navy);
-    border-radius: 3px;
-    font-family: inherit;
-    background: #fff;
-    color: var(--ink);
+    flex: 1; padding: 15px 18px; font-size: 1.05rem;
+    border: 2px solid var(--navy); border-radius: 3px;
+    font-family: inherit; background: #fff; color: var(--ink);
   }
-
   #guess-input::placeholder { color: #a3a8b3; }
+  .input-feedback { min-height: 1.4em; font-size: 0.88rem; font-weight: 700; margin: -4px 0 14px; }
 
-  .input-feedback {
-    min-height: 1.4em;
-    font-size: 0.88rem;
-    font-weight: 700;
-    margin: -4px 0 14px;
-  }
-  .input-feedback.shake { color: var(--red); }
-
-  /* ---- Roster table ---- */
-  .roster {
-    display: grid;
-    gap: 6px;
-  }
-
+  .roster { display: grid; gap: 6px; }
   .roster-row {
     display: grid;
     grid-template-columns: minmax(0,2.2fr) minmax(0,1.4fr) minmax(0,1fr) 70px;
-    gap: 10px;
-    align-items: center;
-    padding: 11px 14px;
-    border: 1px solid var(--line);
-    border-radius: 3px;
-    background: #fff;
-    font-size: 0.9rem;
+    gap: 10px; align-items: center; padding: 11px 14px;
+    border: 1px solid var(--line); border-radius: 3px;
+    background: #fff; font-size: 0.9rem;
     transition: background 0.25s, border-color 0.25s;
   }
-
   .roster-row.header-row {
-    background: transparent;
-    border: none;
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    font-weight: 800;
-    color: var(--muted);
-    padding: 0 14px;
+    background: transparent; border: none;
+    font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em;
+    font-weight: 800; color: var(--muted); padding: 0 14px;
   }
-
-  .roster-row .name-cell {
-    font-weight: 700;
-    color: var(--ink);
-    min-width: 0;
-    overflow-wrap: anywhere;
-  }
-
-  .roster-row .name-cell.blank {
-    color: #c2c6cf;
-    font-weight: 700;
-    letter-spacing: 0.06em;
-  }
-
-  .roster-row.filled {
-    border-color: var(--green);
-    background: #eef9f1;
-    animation: pop 0.35s ease;
-  }
-
+  .roster-row .name-cell { font-weight: 700; color: var(--ink); min-width: 0; overflow-wrap: anywhere; }
+  .roster-row .name-cell.blank { color: #c2c6cf; font-weight: 700; letter-spacing: 0.06em; }
+  .roster-row.filled { border-color: var(--green); background: #eef9f1; animation: pop 0.35s ease; }
   @keyframes pop {
     0% { transform: scale(0.98); }
     50% { transform: scale(1.01); }
     100% { transform: scale(1); }
   }
-
-  .roster-row .pos-cell,
-  .roster-row .club-cell,
-  .roster-row .caps-cell {
-    color: var(--muted);
-    min-width: 0;
-    overflow-wrap: anywhere;
+  .roster-row .pos-cell, .roster-row .club-cell, .roster-row .caps-cell {
+    color: var(--muted); min-width: 0; overflow-wrap: anywhere;
   }
-
-  .roster-row .caps-cell {
-    text-align: right;
-    font-variant-numeric: tabular-nums;
-  }
-
-  .roster-row.revealed .name-cell {
-    color: var(--red);
-    font-weight: 700;
-  }
+  .roster-row .caps-cell { text-align: right; font-variant-numeric: tabular-nums; }
+  .roster-row.revealed .name-cell { color: var(--red); font-weight: 700; }
 
   .give-up-btn {
-    width: 100%;
-    margin-top: 18px;
-    padding: 13px;
-    font-size: 0.85rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    border: 1px solid var(--red);
-    border-radius: 3px;
-    background: transparent;
-    color: var(--red);
-    cursor: pointer;
+    width: 100%; margin-top: 18px; padding: 13px;
+    font-size: 0.85rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em;
+    border: 1px solid var(--red); border-radius: 3px;
+    background: transparent; color: var(--red); cursor: pointer;
     transition: background 0.15s, color 0.15s;
   }
-  .give-up-btn:hover {
-    background: var(--red);
-    color: #fff;
-  }
+  .give-up-btn:hover { background: var(--red); color: #fff; }
 
-  /* ---- Results screen ---- */
+  /* ---- Results ---- */
   .results-hero { text-align: center; margin-bottom: 8px; }
-
   .results-score {
-    font-size: clamp(2.6rem, 12vw, 3.8rem);
-    font-weight: 800;
-    color: var(--navy);
-    line-height: 1;
-    margin: 6px 0;
+    font-size: clamp(2.6rem, 12vw, 3.8rem); font-weight: 800;
+    color: var(--navy); line-height: 1; margin: 6px 0;
   }
   .results-score span { font-size: 0.4em; color: var(--muted); font-weight: 700; }
-
   .results-tag {
-    text-align: center;
-    font-size: 1rem;
-    font-weight: 800;
-    color: var(--red);
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 22px;
+    text-align: center; font-size: 1rem; font-weight: 800;
+    color: var(--red); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 22px;
   }
 
-  footer {
-    margin-top: 30px;
+  /* ---- Flashcard study mode ---- */
+  .study-header {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 20px; flex-wrap: wrap; gap: 10px;
+  }
+  .study-header h2 {
+    margin: 0; font-size: 1.3rem; font-weight: 800;
+    text-transform: uppercase; color: var(--navy);
+  }
+  .study-counter {
+    font-size: 0.9rem; font-weight: 700; color: var(--muted);
+  }
+
+  /* 3-D flip card */
+  .flashcard-wrap {
+    perspective: 1200px;
+    width: 100%;
+    max-width: 420px;
+    margin: 0 auto 28px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .flashcard {
+    position: relative;
+    width: 100%;
+    padding-top: 130%; /* portrait aspect ratio */
+    transform-style: preserve-3d;
+    transition: transform 0.55s cubic-bezier(0.4, 0.2, 0.2, 1);
+    border-radius: 12px;
+  }
+  .flashcard.flipped { transform: rotateY(180deg); }
+
+  .card-face {
+    position: absolute;
+    inset: 0;
+    border-radius: 12px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.13);
+  }
+
+  /* Front — photo */
+  .card-front {
+    background: var(--navy);
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+  }
+  .card-front img {
+    width: 100%; height: 100%;
+    object-fit: cover; object-position: center top;
+    display: block;
+  }
+  .card-front .no-photo {
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    width: 100%; height: 100%;
+    background: var(--navy-light);
+    color: rgba(255,255,255,0.35);
+    gap: 12px;
+  }
+  .card-front .no-photo svg { width: 72px; height: 72px; opacity: 0.4; }
+  .card-front .no-photo span { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; }
+
+  .flip-hint {
+    position: absolute;
+    bottom: 14px; left: 0; right: 0;
+    text-align: center;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: rgba(255,255,255,0.55);
+    pointer-events: none;
+  }
+
+  /* Back — player info */
+  .card-back {
+    transform: rotateY(180deg);
+    background: var(--white);
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    padding: 32px 24px;
+    gap: 16px;
+  }
+  .card-back .player-name {
+    font-family: 'Georgia', serif;
+    font-size: clamp(1.5rem, 6vw, 2.2rem);
+    font-weight: 700;
+    color: var(--navy);
+    text-align: center;
+    line-height: 1.2;
+  }
+  .card-back .player-meta {
+    display: flex; flex-direction: column;
+    align-items: center; gap: 8px;
+    width: 100%;
+  }
+  .card-back .meta-pill {
+    background: var(--off-white);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 6px 18px;
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: var(--ink);
+    text-align: center;
+    max-width: 100%;
+  }
+  .card-back .meta-pill .label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .card-back .flip-hint-back {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+
+  /* Nav row */
+  .flashcard-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 20px;
+  }
+  .nav-btn {
+    width: 48px; height: 48px;
+    border-radius: 50%;
+    border: 2px solid var(--line);
+    background: var(--white);
+    color: var(--navy);
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer;
+    transition: border-color 0.12s, background 0.12s;
+    flex: 0 0 auto;
+  }
+  .nav-btn:hover:not(:disabled) { border-color: var(--navy); background: var(--off-white); }
+  .nav-btn:disabled { opacity: 0.3; cursor: default; }
+  .nav-btn svg { width: 20px; height: 20px; }
+
+  .card-dots {
+    display: flex; gap: 6px; align-items: center; flex-wrap: wrap; justify-content: center;
+    max-width: 280px;
+  }
+  .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--line);
+    transition: background 0.2s;
+    flex: 0 0 auto;
+  }
+  .dot.active { background: var(--navy); }
+  .dot.no-photo-dot { background: #ddd; outline: 1px dashed #aaa; }
+
+  .study-skip-note {
     text-align: center;
     font-size: 0.78rem;
     color: var(--muted);
+    margin-bottom: 8px;
   }
 
   @media (max-width: 600px) {
@@ -411,7 +426,7 @@
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .progress-fill, .roster-row { transition: none; animation: none; }
+    .progress-fill, .roster-row, .flashcard { transition: none; animation: none; }
   }
 </style>
 </head>
@@ -433,28 +448,45 @@
     <div id="setup-loading" class="loading">Loading squads&hellip;</div>
     <div id="setup-error" class="error-state hidden">
       <strong>Couldn't load squads.json</strong>
-      <p>Make sure <code>squads.json</code> is in the same folder as this file, and that you're viewing this page via a local server (not a double-clicked <code>file://</code> URL) — for example run <code>python3 -m http.server</code> in this folder and open <code>http://localhost:8000/index.html</code>.</p>
+      <p>Make sure <code>squads.json</code> is in the same folder as this file, served via <code>python3 -m http.server</code>.</p>
     </div>
 
     <div id="setup-body" class="hidden">
+      <!-- Mode toggle -->
+      <div class="mode-toggle">
+        <button class="mode-btn active" id="mode-quiz-btn">Quiz</button>
+        <button class="mode-btn" id="mode-study-btn">Study</button>
+      </div>
+
       <div class="field-group">
         <label for="team-select">Team</label>
         <select id="team-select"></select>
         <div class="meta-row">Squad size: <strong id="squad-size">—</strong> players</div>
       </div>
 
-      <div class="field-group">
-        <label for="time-select">Time limit</label>
-        <select id="time-select">
-          <option value="0">No time limit</option>
-          <option value="180">3 minutes</option>
-          <option value="300" selected>5 minutes</option>
-          <option value="420">7 minutes</option>
-          <option value="600">10 minutes</option>
-        </select>
+      <!-- Quiz-only options -->
+      <div id="quiz-options">
+        <div class="field-group">
+          <label for="time-select">Time limit</label>
+          <select id="time-select">
+            <option value="0">No time limit</option>
+            <option value="180">3 minutes</option>
+            <option value="300" selected>5 minutes</option>
+            <option value="420">7 minutes</option>
+            <option value="600">10 minutes</option>
+          </select>
+        </div>
+        <button class="primary" id="start-quiz-btn">Kick off</button>
       </div>
 
-      <button class="primary" id="start-btn">Kick off</button>
+      <!-- Study-only options -->
+      <div id="study-options" class="hidden">
+        <div class="meta-row" style="margin-bottom:16px;">
+          Cards are shown in random order. Click a card to reveal the player.
+          Players without a photo are skipped automatically.
+        </div>
+        <button class="primary" id="start-study-btn">Start studying</button>
+      </div>
     </div>
   </div>
 
@@ -466,7 +498,6 @@
         Choose another team
       </button>
     </div>
-
     <div class="sticky-bar">
       <div class="quiz-top">
         <h2 id="quiz-team-name">Team</h2>
@@ -474,28 +505,16 @@
       </div>
       <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
       <div class="input-row">
-        <input
-          type="text"
-          id="guess-input"
-          autocomplete="off"
-          autocapitalize="off"
-          autocorrect="off"
-          spellcheck="false"
-          placeholder="Type a player's last name…"
-        >
+        <input type="text" id="guess-input" autocomplete="off" autocapitalize="off"
+          autocorrect="off" spellcheck="false" placeholder="Type a player's last name…">
       </div>
       <div class="input-feedback" id="input-feedback"></div>
     </div>
-
     <div class="roster" id="roster">
       <div class="roster-row header-row">
-        <div>Player</div>
-        <div>Position</div>
-        <div>Club</div>
-        <div>Caps</div>
+        <div>Player</div><div>Position</div><div>Club</div><div>Caps</div>
       </div>
     </div>
-
     <button class="give-up-btn" id="give-up-btn">Give up &amp; reveal answers</button>
   </div>
 
@@ -508,13 +527,68 @@
     <div class="results-tag" id="results-tag"></div>
     <div class="roster" id="results-roster">
       <div class="roster-row header-row">
-        <div>Player</div>
-        <div>Position</div>
-        <div>Club</div>
-        <div>Caps</div>
+        <div>Player</div><div>Position</div><div>Club</div><div>Caps</div>
       </div>
     </div>
     <button class="primary" id="retry-btn" style="margin-top:22px;">Choose another team / play again</button>
+  </div>
+
+  <!-- STUDY SCREEN -->
+  <div class="card hidden" id="study-screen">
+    <div class="back-row">
+      <button class="back-btn" id="study-back-btn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        Choose another team
+      </button>
+    </div>
+
+    <div class="study-header">
+      <h2 id="study-team-name">Team</h2>
+      <div class="study-counter" id="study-counter">1 / 30</div>
+    </div>
+
+    <!-- Flashcard -->
+    <div class="flashcard-wrap" id="flashcard-wrap">
+      <div class="flashcard" id="flashcard">
+        <!-- Front: photo -->
+        <div class="card-face card-front" id="card-front">
+          <div class="no-photo" id="card-no-photo" style="display:none;">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+            <span>No photo available</span>
+          </div>
+          <img id="card-photo" src="" alt="" style="display:none;">
+          <div class="flip-hint">Tap to reveal</div>
+        </div>
+        <!-- Back: player info -->
+        <div class="card-face card-back" id="card-back">
+          <div class="player-name" id="card-name"></div>
+          <div class="player-meta">
+            <div class="meta-pill">
+              <span class="label">Position</span>
+              <span id="card-position">—</span>
+            </div>
+            <div class="meta-pill">
+              <span class="label">Club</span>
+              <span id="card-club">—</span>
+            </div>
+          </div>
+          <div class="flip-hint-back">Tap to flip back</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Dots indicator -->
+    <div class="card-dots" id="card-dots"></div>
+
+    <!-- Prev / Next -->
+    <div class="flashcard-nav" style="margin-top:18px;">
+      <button class="nav-btn" id="prev-btn" disabled>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+      </button>
+      <button class="nav-btn" id="next-btn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </button>
+    </div>
   </div>
 
   </div>
@@ -525,115 +599,94 @@
   let squads = {};
   let teamKeys = [];
   let currentTeam = null;
-  let players = [];        // [{name, position, club, caps, filled}]
-  let timeLimit = 300;      // seconds, 0 = none
+
+  // Quiz state
+  let players = [];
+  let timeLimit = 300;
   let timerInterval = null;
   let remaining = 0;
   let solvedCount = 0;
 
+  // Study state
+  let studyDeck = [];   // players with photos only, shuffled
+  let studyIdx = 0;
+
   const el = (id) => document.getElementById(id);
 
-  // ---------- Normalization ----------
+  // ===== Normalization & matching (quiz) =====
   function stripAccents(str) {
     return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   }
-
-  // Full normalization used for names that contain accents, apostrophes,
-  // or hyphens — these are the ONLY cases where any leniency is applied
-  // (accent/punctuation stripping), never partial-string leniency.
   function normalizeLenient(str) {
-    return stripAccents(str)
-      .toLowerCase()
-      .replace(/['''`´]/g, '')
-      .replace(/-/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim();
+    return stripAccents(str).toLowerCase().replace(/['''`´]/g, '').replace(/-/g, ' ').replace(/\s+/g, ' ').trim();
   }
-
-  // Strict normalization: case-insensitive only, nothing else stripped.
-  // Used for plain ASCII names with no accents/apostrophes/hyphens.
   function normalizeStrict(str) {
     return str.toLowerCase().replace(/\s+/g, ' ').trim();
   }
-
   function hasSpecialChars(str) {
     return /[\u0300-\u036f''`´-]/.test(str.normalize('NFD'));
   }
-
-  // Exact comparison. If either string contains an accent, apostrophe,
-  // or hyphen, comparison is done in a lenient/normalized way (so "Nche"
-  // matches "Nché", "ORiordan" matches "O'Riordan"). Otherwise it is a
-  // strict, full, case-insensitive string match only — NO partial or
-  // substring matching, NO edit-distance leniency.
   function exactMatch(input, target) {
-    if (hasSpecialChars(input) || hasSpecialChars(target)) {
-      return normalizeLenient(input) === normalizeLenient(target);
-    }
+    if (hasSpecialChars(input) || hasSpecialChars(target)) return normalizeLenient(input) === normalizeLenient(target);
     return normalizeStrict(input) === normalizeStrict(target);
   }
-
-  // Returns true if `input` is a valid guess for `player.name`.
-  // Rules:
-  //   - Must type the FULL last name, or the FULL full name — no partial
-  //     substrings are ever accepted (e.g. "mar" must NOT match "Earle"
-  //     or anyone else; only a complete token match counts).
-  //   - First name alone is rejected.
-  //   - For hyphenated last names (e.g. "Feinberg-Mngomezulu"), either
-  //     hyphen-separated half alone is accepted, as is the full form.
-  //   - For particle surnames (du Toit, van der Merwe), the full
-  //     particle+surname is accepted, or just the final bare word.
-  //   - Leniency (accent/apostrophe/hyphen normalization) is applied ONLY
-  //     when the name actually contains one of those characters.
   function matchesPlayer(input, fullName) {
     const trimmed = input.trim();
     if (!trimmed) return false;
-
-    // Full name match
     if (exactMatch(trimmed, fullName)) return true;
-
     const tokens = fullName.trim().split(/\s+/);
     const firstName = tokens[0];
     const lastToken = tokens[tokens.length - 1];
-
-    // Reject if input is only the first name
     if (tokens.length > 1 && exactMatch(trimmed, firstName)) return false;
-
-    // Build the full set of accepted complete-surname forms
     const accepted = new Set();
     accepted.add(lastToken);
-
-    // Hyphenated last token: accept each half as a complete answer
-    if (lastToken.includes('-')) {
-      lastToken.split('-').forEach(part => { if (part) accepted.add(part); });
-    }
-
-    // Particle surnames: accept the full particle+name run
-    // e.g. "du Toit", "van der Merwe", "de Allende" — and also just the
-    // bare final word ("Toit", "Merwe", "Allende") via lastToken above.
+    if (lastToken.includes('-')) lastToken.split('-').forEach(part => { if (part) accepted.add(part); });
     const particleRe = /^(de|du|van|der|den|le|la|von|st\.?|mc|mac|o'|di|da|dos|del|al)$/i;
     let startIdx = tokens.length - 1;
     while (startIdx > 0 && particleRe.test(tokens[startIdx - 1])) {
       startIdx--;
       accepted.add(tokens.slice(startIdx).join(' '));
     }
-
-    for (const candidate of accepted) {
-      if (exactMatch(trimmed, candidate)) return true;
-    }
-
+    for (const candidate of accepted) { if (exactMatch(trimmed, candidate)) return true; }
     return false;
   }
 
-  // ---------- Load data ----------
+  // ===== Photo path helper =====
+  // Matches the Rust scraper's sanitize_filename logic:
+  // keep a-z A-Z 0-9 - _ space, everything else → _, spaces → _
+  function sanitizeFilename(s) {
+    return s.split('').map(c => /[a-zA-Z0-9\-_ ]/.test(c) ? c : '_').join('').trim().replace(/ /g, '_');
+  }
+  function photoPath(teamName, playerName) {
+    return `photos/${sanitizeFilename(teamName)}/${sanitizeFilename(playerName)}.jpg`;
+  }
+
+  // Try to detect if a photo actually exists by attempting to load it.
+  // Returns a Promise that resolves to true (found) or false (not found).
+  function probePhoto(url) {
+    return new Promise(resolve => {
+      const img = new Image();
+      img.onload = () => resolve(true);
+      img.onerror = () => {
+        // Also try .png extension (some photos were saved as .png)
+        const pngUrl = url.replace(/\.jpg$/, '.png');
+        if (pngUrl === url) { resolve(false); return; }
+        const img2 = new Image();
+        img2.onload = () => resolve(pngUrl);
+        img2.onerror = () => resolve(false);
+        img2.src = pngUrl;
+      };
+      img.src = url;
+    });
+  }
+
+  // ===== Load data =====
   fetch('squads.json')
-    .then(r => {
-      if (!r.ok) throw new Error('not found');
-      return r.json();
-    })
+    .then(r => { if (!r.ok) throw new Error(); return r.json(); })
     .then(data => {
       squads = data;
       teamKeys = Object.keys(squads).filter(k => (squads[k].players || []).length >= 4);
-      if (teamKeys.length === 0) throw new Error('empty');
+      if (!teamKeys.length) throw new Error();
       populateTeamSelect();
       el('setup-loading').classList.add('hidden');
       el('setup-body').classList.remove('hidden');
@@ -658,238 +711,252 @@
 
   function updateTeamMeta() {
     const team = el('team-select').value;
-    const data = squads[team];
-    el('squad-size').textContent = (data.players || []).length;
+    el('squad-size').textContent = (squads[team].players || []).length;
   }
 
-  el('time-select').addEventListener('change', () => {
-    timeLimit = parseInt(el('time-select').value, 10);
-  });
-  timeLimit = parseInt(el('time-select').value, 10);
+  // ===== Mode toggle =====
+  let activeMode = 'quiz';
 
-  // ---------- Navigation ----------
-  el('start-btn').addEventListener('click', startQuiz);
+  el('mode-quiz-btn').addEventListener('click', () => {
+    activeMode = 'quiz';
+    el('mode-quiz-btn').classList.add('active');
+    el('mode-study-btn').classList.remove('active');
+    el('quiz-options').classList.remove('hidden');
+    el('study-options').classList.add('hidden');
+  });
+
+  el('mode-study-btn').addEventListener('click', () => {
+    activeMode = 'study';
+    el('mode-study-btn').classList.add('active');
+    el('mode-quiz-btn').classList.remove('active');
+    el('study-options').classList.remove('hidden');
+    el('quiz-options').classList.add('hidden');
+  });
+
+  // ===== Navigation =====
+  el('start-quiz-btn').addEventListener('click', startQuiz);
+  el('start-study-btn').addEventListener('click', startStudy);
   el('retry-btn').addEventListener('click', goToSetup);
   el('back-btn').addEventListener('click', goToSetup);
+  el('study-back-btn').addEventListener('click', goToSetup);
   el('give-up-btn').addEventListener('click', () => finishQuiz(true));
+  el('time-select').addEventListener('change', () => { timeLimit = parseInt(el('time-select').value, 10); });
+  timeLimit = parseInt(el('time-select').value, 10);
 
   function goToSetup() {
     stopTimer();
-    el('results-screen').classList.add('hidden');
-    el('quiz-screen').classList.add('hidden');
+    ['results-screen', 'quiz-screen', 'study-screen'].forEach(id => el(id).classList.add('hidden'));
     el('setup-screen').classList.remove('hidden');
   }
 
+  // ===== Quiz =====
   function startQuiz() {
     currentTeam = el('team-select').value;
     timeLimit = parseInt(el('time-select').value, 10);
-
-    players = squads[currentTeam].players.map(p => ({
-      name: p.name,
-      position: p.position || '',
-      club: p.club || '',
-      caps: p.caps || '',
-      filled: false
-    }));
+    players = squads[currentTeam].players.map(p => ({ name: p.name, position: p.position || '', club: p.club || '', caps: p.caps || '', filled: false }));
     solvedCount = 0;
 
     el('setup-screen').classList.add('hidden');
     el('results-screen').classList.add('hidden');
     el('quiz-screen').classList.remove('hidden');
-
     el('quiz-team-name').textContent = currentTeam;
 
     renderRoster();
     updateProgress();
 
-    const input = el('guess-input');
-    input.value = '';
+    const inp = el('guess-input');
+    inp.value = '';
     el('input-feedback').textContent = '';
     el('input-feedback').className = 'input-feedback';
-    input.disabled = false;
-    input.focus();
-
+    inp.disabled = false;
+    inp.focus();
     startTimer();
   }
 
-  // ---------- Timer ----------
   function startTimer() {
     stopTimer();
-    if (timeLimit === 0) {
-      el('timer').textContent = '∞';
-      el('timer').classList.remove('warn');
-      return;
-    }
+    if (timeLimit === 0) { el('timer').textContent = '∞'; el('timer').classList.remove('warn'); return; }
     remaining = timeLimit;
     renderTimer();
-    timerInterval = setInterval(() => {
-      remaining--;
-      renderTimer();
-      if (remaining <= 0) {
-        finishQuiz(false);
-      }
-    }, 1000);
+    timerInterval = setInterval(() => { remaining--; renderTimer(); if (remaining <= 0) finishQuiz(false); }, 1000);
   }
-
-  function stopTimer() {
-    if (timerInterval) clearInterval(timerInterval);
-    timerInterval = null;
-  }
-
+  function stopTimer() { if (timerInterval) clearInterval(timerInterval); timerInterval = null; }
   function renderTimer() {
-    const m = Math.floor(remaining / 60);
-    const s = remaining % 60;
+    const m = Math.floor(remaining / 60), s = remaining % 60;
     el('timer').textContent = `${m}:${String(s).padStart(2, '0')}`;
     el('timer').classList.toggle('warn', remaining <= 30);
   }
 
-  // ---------- Roster rendering ----------
   function renderRoster() {
     const roster = el('roster');
     roster.querySelectorAll('.roster-row:not(.header-row)').forEach(r => r.remove());
-
     players.forEach((p, i) => {
       const row = document.createElement('div');
-      row.className = 'roster-row';
-      row.dataset.index = i;
-
-      const nameCell = document.createElement('div');
-      if (p.filled) {
-        nameCell.className = 'name-cell';
-        nameCell.textContent = p.name;
-      } else {
-        nameCell.className = 'name-cell blank';
-        nameCell.textContent = '?????';
-      }
-
-      const posCell = document.createElement('div');
-      posCell.className = 'pos-cell';
-      posCell.textContent = p.position;
-
-      const clubCell = document.createElement('div');
-      clubCell.className = 'club-cell';
-      clubCell.textContent = p.club;
-
-      const capsCell = document.createElement('div');
-      capsCell.className = 'caps-cell';
-      capsCell.textContent = p.caps;
-
-      row.appendChild(nameCell);
-      row.appendChild(posCell);
-      row.appendChild(clubCell);
-      row.appendChild(capsCell);
-
+      row.className = 'roster-row'; row.dataset.index = i;
+      const nc = document.createElement('div');
+      nc.className = p.filled ? 'name-cell' : 'name-cell blank';
+      nc.textContent = p.filled ? p.name : '?????';
+      const pc = document.createElement('div'); pc.className = 'pos-cell'; pc.textContent = p.position;
+      const cc = document.createElement('div'); cc.className = 'club-cell'; cc.textContent = p.club;
+      const kc = document.createElement('div'); kc.className = 'caps-cell'; kc.textContent = p.caps;
+      row.append(nc, pc, cc, kc);
       if (p.filled) row.classList.add('filled');
-
       roster.appendChild(row);
     });
   }
 
   function updateProgress() {
-    const pct = players.length ? (solvedCount / players.length) * 100 : 0;
-    el('progress-fill').style.width = `${pct}%`;
+    el('progress-fill').style.width = `${players.length ? (solvedCount / players.length) * 100 : 0}%`;
   }
 
-  // ---------- Input handling ----------
-  const input = el('guess-input');
-  input.addEventListener('input', handleInput);
-  input.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') e.preventDefault(); // no enter needed
-  });
+  const inp = el('guess-input');
+  inp.addEventListener('input', handleInput);
+  inp.addEventListener('keydown', e => { if (e.key === 'Enter') e.preventDefault(); });
 
   function handleInput() {
-    const value = input.value;
-    if (!value.trim()) {
-      el('input-feedback').textContent = '';
-      el('input-feedback').className = 'input-feedback';
-      return;
-    }
-
+    const value = inp.value;
+    if (!value.trim()) { el('input-feedback').textContent = ''; el('input-feedback').className = 'input-feedback'; return; }
     for (let i = 0; i < players.length; i++) {
       const p = players[i];
       if (p.filled) continue;
       if (matchesPlayer(value, p.name)) {
-        p.filled = true;
-        solvedCount++;
-        input.value = '';
-        el('input-feedback').textContent = '';
-        el('input-feedback').className = 'input-feedback';
-        updateRosterRow(i);
+        p.filled = true; solvedCount++;
+        inp.value = ''; el('input-feedback').textContent = ''; el('input-feedback').className = 'input-feedback';
+        const row = el('roster').querySelector(`.roster-row[data-index="${i}"]`);
+        if (row) { row.querySelector('.name-cell').textContent = p.name; row.querySelector('.name-cell').classList.remove('blank'); row.classList.add('filled'); }
         updateProgress();
-
-        if (solvedCount === players.length) {
-          finishQuiz(false);
-        }
+        if (solvedCount === players.length) finishQuiz(false);
         return;
       }
     }
   }
 
-  // Update a single row in place (no full re-render) so the page never
-  // jumps/scrolls when a correct guess lands.
-  function updateRosterRow(index) {
-    const row = el('roster').querySelector(`.roster-row[data-index="${index}"]`);
-    const p = players[index];
-    if (!row || !p) return;
-
-    const nameCell = row.querySelector('.name-cell');
-    nameCell.textContent = p.name;
-    nameCell.classList.remove('blank');
-    row.classList.add('filled');
-  }
-
-  // ---------- Finish ----------
   function finishQuiz(gaveUp) {
-    stopTimer();
-    input.disabled = true;
+    stopTimer(); inp.disabled = true;
     el('quiz-screen').classList.add('hidden');
     el('results-screen').classList.remove('hidden');
-
     el('final-score-num').textContent = solvedCount;
     el('final-score-den').textContent = `/${players.length}`;
-
     const pct = players.length ? solvedCount / players.length : 0;
-    let tag;
-    if (gaveUp)          tag = 'Quiz abandoned — answers revealed below';
-    else if (pct === 1)  tag = 'Grand Slam — full squad recalled';
-    else if (pct >= 0.8) tag = 'Player of the match';
-    else if (pct >= 0.6) tag = 'Solid squad knowledge';
-    else if (pct >= 0.4) tag = 'Room on the bench';
-    else                 tag = 'Back to the academy';
+    let tag = gaveUp ? 'Quiz abandoned — answers revealed below' :
+              pct === 1 ? 'Grand Slam — full squad recalled' :
+              pct >= 0.8 ? 'Player of the match' :
+              pct >= 0.6 ? 'Solid squad knowledge' :
+              pct >= 0.4 ? 'Room on the bench' : 'Back to the academy';
     el('results-tag').textContent = `${currentTeam} — ${tag}`;
-
-    const resultsRoster = el('results-roster');
-    resultsRoster.querySelectorAll('.roster-row:not(.header-row)').forEach(r => r.remove());
-
+    const rr = el('results-roster');
+    rr.querySelectorAll('.roster-row:not(.header-row)').forEach(r => r.remove());
     players.forEach(p => {
-      const row = document.createElement('div');
-      row.className = 'roster-row';
-      if (p.filled) row.classList.add('filled');
-      else row.classList.add('revealed');
-
-      const nameCell = document.createElement('div');
-      nameCell.className = 'name-cell';
-      nameCell.textContent = p.name;
-
-      const posCell = document.createElement('div');
-      posCell.className = 'pos-cell';
-      posCell.textContent = p.position;
-
-      const clubCell = document.createElement('div');
-      clubCell.className = 'club-cell';
-      clubCell.textContent = p.club;
-
-      const capsCell = document.createElement('div');
-      capsCell.className = 'caps-cell';
-      capsCell.textContent = p.caps;
-
-      row.appendChild(nameCell);
-      row.appendChild(posCell);
-      row.appendChild(clubCell);
-      row.appendChild(capsCell);
-      resultsRoster.appendChild(row);
+      const row = document.createElement('div'); row.className = 'roster-row';
+      row.classList.add(p.filled ? 'filled' : 'revealed');
+      const nc = document.createElement('div'); nc.className = 'name-cell'; nc.textContent = p.name;
+      const pc = document.createElement('div'); pc.className = 'pos-cell'; pc.textContent = p.position;
+      const cc = document.createElement('div'); cc.className = 'club-cell'; cc.textContent = p.club;
+      const kc = document.createElement('div'); kc.className = 'caps-cell'; kc.textContent = p.caps;
+      row.append(nc, pc, cc, kc); rr.appendChild(row);
     });
   }
+
+  // ===== Study mode =====
+  function shuffle(arr) {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+    return a;
+  }
+
+  async function startStudy() {
+    currentTeam = el('team-select').value;
+    const allPlayers = squads[currentTeam].players || [];
+
+    el('start-study-btn').textContent = 'Checking photos…';
+    el('start-study-btn').disabled = true;
+
+    // Probe which players actually have photos. We check both .jpg and .png.
+    // probePhoto resolves to true (jpg found), a string (alt url found), or false.
+    const checked = await Promise.all(allPlayers.map(async p => {
+      const jpgUrl = photoPath(currentTeam, p.name);
+      const result = await probePhoto(jpgUrl);
+      return { ...p, photoUrl: result === false ? null : (result === true ? jpgUrl : result) };
+    }));
+
+    studyDeck = shuffle(checked.filter(p => p.photoUrl !== null));
+
+    el('start-study-btn').textContent = 'Start studying';
+    el('start-study-btn').disabled = false;
+
+    if (studyDeck.length === 0) {
+      alert(`No photos found for ${currentTeam}. Run the photo scraper first and make sure the photos/ folder is in the same directory as index.html.`);
+      return;
+    }
+
+    studyIdx = 0;
+    el('setup-screen').classList.add('hidden');
+    el('study-screen').classList.remove('hidden');
+    el('study-team-name').textContent = currentTeam;
+
+    buildDots();
+    showCard(0);
+  }
+
+  function buildDots() {
+    const dotsEl = el('card-dots');
+    dotsEl.innerHTML = '';
+    studyDeck.forEach((_, i) => {
+      const dot = document.createElement('div');
+      dot.className = 'dot';
+      dot.dataset.idx = i;
+      dotsEl.appendChild(dot);
+    });
+  }
+
+  function showCard(idx) {
+    studyIdx = idx;
+    const p = studyDeck[idx];
+
+    // Reset flip
+    el('flashcard').classList.remove('flipped');
+
+    // Set photo
+    const imgEl = el('card-photo');
+    const noPhotoEl = el('card-no-photo');
+    imgEl.src = p.photoUrl;
+    imgEl.style.display = 'block';
+    noPhotoEl.style.display = 'none';
+
+    // Set back info
+    el('card-name').textContent = p.name;
+    el('card-position').textContent = p.position || '—';
+    el('card-club').textContent = p.club || '—';
+
+    // Counter
+    el('study-counter').textContent = `${idx + 1} / ${studyDeck.length}`;
+
+    // Dots
+    el('card-dots').querySelectorAll('.dot').forEach((dot, i) => {
+      dot.classList.toggle('active', i === idx);
+    });
+
+    // Nav buttons
+    el('prev-btn').disabled = idx === 0;
+    el('next-btn').disabled = idx === studyDeck.length - 1;
+  }
+
+  // Flip on card click
+  el('flashcard-wrap').addEventListener('click', () => {
+    el('flashcard').classList.toggle('flipped');
+  });
+
+  el('prev-btn').addEventListener('click', () => { if (studyIdx > 0) showCard(studyIdx - 1); });
+  el('next-btn').addEventListener('click', () => { if (studyIdx < studyDeck.length - 1) showCard(studyIdx + 1); });
+
+  // Keyboard navigation in study mode
+  document.addEventListener('keydown', e => {
+    if (el('study-screen').classList.contains('hidden')) return;
+    if (e.key === 'ArrowRight' || e.key === 'ArrowDown') { e.preventDefault(); if (studyIdx < studyDeck.length - 1) showCard(studyIdx + 1); }
+    if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { e.preventDefault(); if (studyIdx > 0) showCard(studyIdx - 1); }
+    if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); el('flashcard').classList.toggle('flipped'); }
+  });
+
 })();
 </script>
 </body>
