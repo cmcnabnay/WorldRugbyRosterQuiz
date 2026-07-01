@@ -27,6 +27,7 @@
 //! descriptive User-Agent, per Wikimedia's API etiquette guidelines.
 
 use anyhow::{Context, Result};
+use regex::Regex;
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use std::fs;
@@ -43,6 +44,7 @@ const REQUEST_DELAY_MS: u64 = 5000; // be polite to the Wikipedia API (5s betwee
 const RETRY_DELAY_MS: u64 = 15_000;
 // Back-off ladder used inside download_image on 429 responses.
 // If the server sends a Retry-After header we use that value instead.
+const GOOGLE_DELAY_MS: u64 = 8_000;
 const IMAGE_RETRY_DELAYS_MS: [u64; 5] = [
     30_000,   // 30 s
     60_000,   // 1 min
@@ -59,6 +61,7 @@ struct Args {
     team: Option<String>,
     retry_failed: bool,
     retry_missing: bool,
+    retry_google: bool,
 }
 
 impl Args {
@@ -77,6 +80,7 @@ impl Args {
         let mut team: Option<String> = None;
         let mut retry_failed = false;
         let mut retry_missing = false;
+        let mut retry_google = false;
 
         let mut args = std::env::args().skip(1);
         while let Some(arg) = args.next() {
@@ -105,6 +109,9 @@ impl Args {
                 "--retry-missing" => {
                     retry_missing = true;
                 }
+                "--retry-google" => {
+                    retry_google = true;
+                }
                 "-h" | "--help" => {
                     print_help();
                     std::process::exit(0);
@@ -124,6 +131,7 @@ impl Args {
             team,
             retry_failed,
             retry_missing,
+            retry_google,
         }
     }
 }
@@ -215,7 +223,7 @@ struct Thumbnail {
 
 // ---------- Report tracking ----------
 
-#[derive(Debug, Serialize)]
+#[derive(Debug, Serialize, Deserialize)]
 struct PlayerResult {
     team: String,
     player: String,
@@ -259,6 +267,16 @@ fn main() -> Result<()> {
         return Ok(());
     }
 
+    if args.retry_google {
+        retry_via_google_images(
+            &client,
+            &args.out_dir.join("missing.csv"),
+            &args.out_dir.join("report.json"),
+            &args.out_dir,
+        )?;
+        return Ok(());
+    }
+
     if args.retry_missing {
         retry_missing_players(
             &client,
@@ -271,8 +289,6 @@ fn main() -> Result<()> {
     }
 
     let mut results: Vec<PlayerResult> = Vec::new();
-
-    let mut retry_failed = false;
 
     let teams: Vec<(&String, &TeamEntry)> = squads
         .0
@@ -382,15 +398,6 @@ fn main() -> Result<()> {
     );
     println!("Full report: {}", report_path.display());
     println!("Missing list: {}", missing_path.display());
-
-    if retry_failed {
-        redownload_failed_images(
-            &client,
-            &PathBuf::from("photos/report.json"),
-            &args.out_dir,
-        )?;
-        return Ok(());
-    }
 
     Ok(())
 }
@@ -841,6 +848,205 @@ fn redownload_failed_images(
 
     Ok(())
 }
+
+/// Read missing.csv (team,player,status) and attempt to find + download a
+/// photo for each entry via Google Images.
+fn retry_via_google_images(
+    client: &reqwest::blocking::Client,
+    missing_csv_path: &PathBuf,
+    report_path: &PathBuf,
+    out_dir: &PathBuf,
+) -> Result<()> {
+    let missing = read_missing_csv(missing_csv_path)
+        .with_context(|| format!("failed to read {}", missing_csv_path.display()))?;
+
+    if missing.is_empty() {
+        println!("No entries in {} — nothing to do.", missing_csv_path.display());
+        return Ok(());
+    }
+
+    println!(
+        "Found {} players in {}. Searching Google Images, {}s between requests.",
+        missing.len(), missing_csv_path.display(), GOOGLE_DELAY_MS / 1000
+    );
+
+    let mut report: Vec<PlayerResult> = if report_path.exists() {
+        let raw = fs::read_to_string(report_path)?;
+        serde_json::from_str(&raw).unwrap_or_default()
+    } else {
+        Vec::new()
+    };
+
+    let mut improved = 0usize;
+    let total = missing.len();
+
+    for (i, entry) in missing.iter().enumerate() {
+        print!("[{}/{}] {} ({}) ... ", i + 1, total, entry.player, entry.team);
+        let _ = std::io::stdout().flush();
+
+        let team_dir = out_dir.join(sanitize_filename(&entry.team));
+        fs::create_dir_all(&team_dir)?;
+
+        let existing = ["jpg", "jpeg", "png", "webp"].iter().find_map(|ext| {
+            let p = team_dir.join(format!("{}.{}", sanitize_filename(&entry.player), ext));
+            p.exists().then_some(p)
+        });
+        if let Some(p) = existing {
+            println!("SKIP (already saved at {})", p.display());
+            update_report_entry(&mut report, &entry.team, &entry.player, "found", None, Some(p.display().to_string()));
+            improved += 1;
+            continue;
+        }
+
+        let query = format!("{} {} rugby", entry.player, entry.team);
+
+        match search_google_images(client, &query) {
+            Ok(Some(image_url)) => {
+                let ext = guess_extension(&image_url);
+                let out_path = team_dir.join(format!("{}.{}", sanitize_filename(&entry.player), ext));
+                match download_image(client, &image_url, &out_path) {
+                    Ok(()) => {
+                        println!("OK -> {}", out_path.display());
+                        update_report_entry(&mut report, &entry.team, &entry.player, "found_via_google", Some(image_url), Some(out_path.display().to_string()));
+                        improved += 1;
+                    }
+                    Err(e) => {
+                        println!("DOWNLOAD FAILED ({})", e);
+                        update_report_entry(&mut report, &entry.team, &entry.player, &format!("google_download_failed: {}", e), Some(image_url), None);
+                    }
+                }
+            }
+            Ok(None) => {
+                println!("NO RESULT");
+                update_report_entry(&mut report, &entry.team, &entry.player, "google_no_result", None, None);
+            }
+            Err(e) => {
+                println!("SEARCH FAILED ({})", e);
+                update_report_entry(&mut report, &entry.team, &entry.player, &format!("google_search_failed: {}", e), None, None);
+            }
+        }
+
+        std::thread::sleep(Duration::from_millis(GOOGLE_DELAY_MS));
+    }
+
+    fs::write(report_path, serde_json::to_string_pretty(&report)?)?;
+
+    let mut csv = String::from("team,player,status\n");
+    for r in &report {
+        if r.status != "found" && r.status != "found_via_google" {
+            csv.push_str(&format!("\"{}\",\"{}\",\"{}\"\n",
+                r.team.replace('"', "'"), r.player.replace('"', "'"), r.status.replace('"', "'")));
+        }
+    }
+    fs::write(missing_csv_path, csv)?;
+
+    println!("\nDone. {}/{} players found via Google Images.", improved, total);
+    println!("Reminder: Google Images photos have no verified license.");
+    Ok(())
+}
+
+#[derive(Debug, Clone)]
+struct MissingEntry {
+    team: String,
+    player: String,
+    #[allow(dead_code)]
+    status: String,
+}
+
+fn read_missing_csv(path: &PathBuf) -> Result<Vec<MissingEntry>> {
+    let raw = fs::read_to_string(path)?;
+    let mut out = Vec::new();
+    for (i, line) in raw.lines().enumerate() {
+        if i == 0 { continue; }
+        let line = line.trim();
+        if line.is_empty() { continue; }
+        let fields = parse_csv_line(line);
+        if fields.len() < 2 { continue; }
+        out.push(MissingEntry {
+            team: fields[0].clone(),
+            player: fields[1].clone(),
+            status: fields.get(2).cloned().unwrap_or_default(),
+        });
+    }
+    Ok(out)
+}
+
+fn parse_csv_line(line: &str) -> Vec<String> {
+    let mut fields = Vec::new();
+    let mut current = String::new();
+    let mut in_quotes = false;
+    let mut chars = line.chars().peekable();
+    while let Some(c) = chars.next() {
+        match c {
+            '"' => {
+                if in_quotes && chars.peek() == Some(&'"') {
+                    current.push('"'); chars.next();
+                } else { in_quotes = !in_quotes; }
+            }
+            ',' if !in_quotes => { fields.push(current.clone()); current.clear(); }
+            other => current.push(other),
+        }
+    }
+    fields.push(current);
+    fields
+}
+
+fn update_report_entry(
+    report: &mut Vec<PlayerResult>,
+    team: &str, player: &str, status: &str,
+    image_url: Option<String>, saved_path: Option<String>,
+) {
+    if let Some(existing) = report.iter_mut().find(|r| r.team == team && r.player == player) {
+        existing.status = status.to_string();
+        if image_url.is_some() { existing.image_url = image_url; }
+        if saved_path.is_some() { existing.saved_path = saved_path; }
+    } else {
+        report.push(PlayerResult {
+            team: team.to_string(), player: player.to_string(), status: status.to_string(),
+            wikipedia_title: None, image_url, saved_path,
+        });
+    }
+}
+
+fn search_google_images(client: &reqwest::blocking::Client, query: &str) -> Result<Option<String>> {
+    let search_url = format!("https://www.google.com/search?q={}&tbm=isch&safe=active", urlencode(query));
+    let html = client
+        .get(&search_url)
+        .header("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+        .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+        .header("Accept-Language", "en-US,en;q=0.9")
+        .send()?.text()?;
+    
+    eprintln!("DEBUG first 500 chars: {}", &html[..html.len().min(500)]);
+
+    if html.contains("Our systems have detected unusual traffic")
+        || html.contains("/sorry/index")
+        || html.contains("consent.google.com") {
+        anyhow::bail!("blocked by Google (CAPTCHA/consent page)");
+    }
+
+    let url_re = Regex::new(r#"https?://[^" ]+?\.(?:jpg|jpeg|png|webp)"#)?;
+    for m in url_re.find_iter(&html) {
+        let candidate = m.as_str();
+        if candidate.contains("gstatic.com") || candidate.contains("google.com/images")
+            || candidate.contains("/logo") || candidate.contains("favicon") { continue; }
+        return Ok(Some(candidate.to_string()));
+    }
+    Ok(None)
+}
+
+fn urlencode(s: &str) -> String {
+    let mut out = String::new();
+    for byte in s.as_bytes() {
+        match *byte {
+            b'A'..=b'Z' | b'a'..=b'z' | b'0'..=b'9' | b'-' | b'_' | b'.' | b'~' => out.push(*byte as char),
+            b' ' => out.push('+'),
+            _ => out.push_str(&format!("%{:02X}", byte)),
+        }
+    }
+    out
+}
+
 
 fn guess_extension(url: &str) -> &str {
     let lower = url.to_lowercase();
