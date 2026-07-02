@@ -62,6 +62,7 @@ struct Args {
     retry_failed: bool,
     retry_missing: bool,
     retry_google: bool,
+    new_only: bool,
 }
 
 impl Args {
@@ -81,6 +82,7 @@ impl Args {
         let mut retry_failed = false;
         let mut retry_missing = false;
         let mut retry_google = false;
+        let mut new_only = false;
 
         let mut args = std::env::args().skip(1);
         while let Some(arg) = args.next() {
@@ -112,6 +114,9 @@ impl Args {
                 "--retry-google" => {
                     retry_google = true;
                 }
+                "--new-only" => {
+                    new_only = true;
+                }
                 "-h" | "--help" => {
                     print_help();
                     std::process::exit(0);
@@ -132,6 +137,7 @@ impl Args {
             retry_failed,
             retry_missing,
             retry_google,
+            new_only,
         }
     }
 }
@@ -148,6 +154,7 @@ fn print_help() {
          --team <NAME>             Only process this team (default: all teams)\n    \
          --retry-failed            Re-download images that previously got HTTP errors\n    \
          --retry-missing           Re-attempt all players from report.json that are not 'found'\n                                  (re-searches Wikipedia for no_image/error cases, re-downloads\n                                   for download_failed cases; skips players already saved)\n    \
+         --new-only                Only scrape players in squads.json that have NO entry at all\n                                  in report.json yet (i.e. players added since the last run).\n                                  Skips both previously-found players and previously-attempted\n                                  misses (no_image/no_wiki_page/errors) — those are untouched.\n    \
          -h, --help                Show this help\n"
     );
 }
@@ -283,6 +290,18 @@ fn main() -> Result<()> {
             &args.out_dir.join("report.json"),
             &args.out_dir,
             args.thumb_size,
+        )?;
+
+        return Ok(());
+    }
+
+    if args.new_only {
+        scrape_new_players(
+            &client,
+            &squads,
+            &args.out_dir,
+            args.thumb_size,
+            &args.team,
         )?;
 
         return Ok(());
@@ -942,6 +961,145 @@ fn retry_via_google_images(
 
     println!("\nDone. {}/{} players found via Google Images.", improved, total);
     println!("Reminder: Google Images photos have no verified license.");
+    Ok(())
+}
+
+/// Scrape only players from squads.json that have no entry at all yet in
+/// report.json — i.e. players who were added to the roster since the last
+/// scraper run. Players already recorded in report.json are left completely
+/// untouched, whether they were previously found, previously missed
+/// (no_image/no_wiki_page), or previously errored — use `--retry-missing`
+/// or `--retry-failed` to revisit those instead.
+fn scrape_new_players(
+    client: &reqwest::blocking::Client,
+    squads: &SquadsFile,
+    out_dir: &PathBuf,
+    thumb_size: u32,
+    team_filter: &Option<String>,
+) -> Result<()> {
+    let report_path = out_dir.join("report.json");
+
+    let mut report: Vec<PlayerResult> = if report_path.exists() {
+        let raw = fs::read_to_string(&report_path)
+            .with_context(|| format!("failed to read {}", report_path.display()))?;
+        serde_json::from_str(&raw)
+            .with_context(|| format!("failed to parse {}", report_path.display()))?
+    } else {
+        Vec::new()
+    };
+
+    let already_attempted: std::collections::HashSet<(String, String)> = report
+        .iter()
+        .map(|r| (r.team.clone(), r.player.clone()))
+        .collect();
+
+    let teams: Vec<(&String, &TeamEntry)> = squads
+        .0
+        .iter()
+        .filter(|(team, _)| team_filter.as_ref().map_or(true, |t| t == *team))
+        .collect();
+
+    if teams.is_empty() {
+        eprintln!("No matching teams found in squads.json.");
+        if let Some(t) = team_filter {
+            eprintln!("  (filtered to --team \"{}\")", t);
+        }
+        return Ok(());
+    }
+
+    // Only the players that don't already have a report.json entry.
+    let new_players: Vec<(String, Player)> = teams
+        .iter()
+        .flat_map(|(team_name, team)| {
+            team.players
+                .iter()
+                .filter(|p| !already_attempted.contains(&(team_name.to_string(), p.name.clone())))
+                .map(|p| (team_name.to_string(), p.clone()))
+                .collect::<Vec<_>>()
+        })
+        .collect();
+
+    let total = new_players.len();
+
+    if total == 0 {
+        println!(
+            "No new players found — every player in squads.json already has a report.json entry."
+        );
+        return Ok(());
+    }
+
+    println!(
+        "Found {} new player(s) not yet in report.json. {}s between players.",
+        total,
+        REQUEST_DELAY_MS / 1000
+    );
+
+    let mut found_count = 0usize;
+
+    for (i, (team_name, player)) in new_players.iter().enumerate() {
+        print!("[{}/{}] {} ({}) ... ", i + 1, total, player.name, team_name);
+        let _ = std::io::stdout().flush();
+
+        let team_dir = out_dir.join(sanitize_filename(team_name));
+        fs::create_dir_all(&team_dir)?;
+
+        let result = process_player(client, team_name, player, &team_dir, thumb_size);
+
+        match &result {
+            Ok(r) if r.status == "found" => {
+                found_count += 1;
+                println!("OK -> {}", r.saved_path.as_deref().unwrap_or("?"));
+            }
+            Ok(r) => {
+                println!("MISS ({})", r.status);
+            }
+            Err(e) => {
+                println!("ERROR ({})", e);
+            }
+        }
+
+        match result {
+            Ok(r) => report.push(r),
+            Err(e) => report.push(PlayerResult {
+                team: team_name.clone(),
+                player: player.name.clone(),
+                status: format!("error: {}", e),
+                wikipedia_title: None,
+                image_url: None,
+                saved_path: None,
+            }),
+        }
+
+        std::thread::sleep(Duration::from_millis(REQUEST_DELAY_MS));
+    }
+
+    // Write the merged report (untouched old entries + new results).
+    fs::write(&report_path, serde_json::to_string_pretty(&report)?)?;
+
+    // Rebuild missing.csv from the full merged report.
+    let missing_path = out_dir.join("missing.csv");
+    let mut csv = String::from("team,player,status\n");
+    for r in &report {
+        if r.status != "found" {
+            csv.push_str(&format!(
+                "\"{}\",\"{}\",\"{}\"\n",
+                r.team.replace('"', "'"),
+                r.player.replace('"', "'"),
+                r.status.replace('"', "'")
+            ));
+        }
+    }
+    fs::write(&missing_path, csv)?;
+
+    println!(
+        "\nDone. {}/{} new players found ({:.1}%).",
+        found_count,
+        total,
+        100.0 * found_count as f64 / total.max(1) as f64
+    );
+    println!("Updated report: {}", report_path.display());
+    println!("Updated missing list: {}", missing_path.display());
+
     Ok(())
 }
 
