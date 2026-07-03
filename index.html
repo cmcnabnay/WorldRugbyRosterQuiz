@@ -657,26 +657,43 @@
   function sanitizeFilename(s) {
     return s.split('').map(c => /[a-zA-Z0-9\-_ ]/.test(c) ? c : '_').join('').trim().replace(/ /g, '_');
   }
-  function photoPath(teamName, playerName) {
-    return `photos/${sanitizeFilename(teamName)}/${sanitizeFilename(playerName)}.jpg`;
+
+  // Photo filenames on disk aren't 100% consistent — most were saved with
+  // the player's original capitalization (e.g. "Siya_Kolisi.jpg"), but some
+  // ended up all-lowercase (e.g. "quan_horn"), some are .png/.webp instead
+  // of .jpg, and a few have no extension at all. Since we can't list the
+  // photos/ directory from the browser, build every plausible filename and
+  // probe them in order until one actually loads.
+  function photoCandidates(teamName, playerName) {
+    const team = sanitizeFilename(teamName);
+    const exact = sanitizeFilename(playerName);
+    const lower = exact.toLowerCase();
+    const bases = exact === lower ? [exact] : [exact, lower];
+    const exts = ['jpg', 'jpeg', 'png', 'webp', ''];
+
+    const candidates = [];
+    for (const base of bases) {
+      for (const ext of exts) {
+        candidates.push(`photos/${team}/${base}${ext ? '.' + ext : ''}`);
+      }
+    }
+    return candidates;
   }
 
-  // Try to detect if a photo actually exists by attempting to load it.
-  // Returns a Promise that resolves to true (found) or false (not found).
-  function probePhoto(url) {
+  // Try each candidate URL in turn; resolve with the first one that loads,
+  // or false if none of them do.
+  function probePhoto(candidates) {
     return new Promise(resolve => {
-      const img = new Image();
-      img.onload = () => resolve(true);
-      img.onerror = () => {
-        // Also try .png extension (some photos were saved as .png)
-        const pngUrl = url.replace(/\.jpg$/, '.png');
-        if (pngUrl === url) { resolve(false); return; }
-        const img2 = new Image();
-        img2.onload = () => resolve(pngUrl);
-        img2.onerror = () => resolve(false);
-        img2.src = pngUrl;
+      let i = 0;
+      const tryNext = () => {
+        if (i >= candidates.length) { resolve(false); return; }
+        const url = candidates[i++];
+        const img = new Image();
+        img.onload = () => resolve(url);
+        img.onerror = tryNext;
+        img.src = url;
       };
-      img.src = url;
+      tryNext();
     });
   }
 
@@ -871,12 +888,13 @@
     el('start-study-btn').textContent = 'Checking photos…';
     el('start-study-btn').disabled = true;
 
-    // Probe which players actually have photos. We check both .jpg and .png.
-    // probePhoto resolves to true (jpg found), a string (alt url found), or false.
+    // Probe which players actually have photos, trying every plausible
+    // filename (case variants, extensions) since photos/ isn't saved 100%
+    // consistently. probePhoto resolves to the working URL, or false.
     const checked = await Promise.all(allPlayers.map(async p => {
-      const jpgUrl = photoPath(currentTeam, p.name);
-      const result = await probePhoto(jpgUrl);
-      return { ...p, photoUrl: result === false ? null : (result === true ? jpgUrl : result) };
+      const candidates = photoCandidates(currentTeam, p.name);
+      const result = await probePhoto(candidates);
+      return { ...p, photoUrl: result === false ? null : result };
     }));
 
     studyDeck = shuffle(checked.filter(p => p.photoUrl !== null));
