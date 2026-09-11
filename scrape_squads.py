@@ -93,6 +93,7 @@ def get_sections(title):
         "action": "parse",
         "page": title,
         "prop": "sections",
+        "redirects": 1,
         "format": "json",
     }
     r = requests.get(API_URL, params=params, headers=HEADERS, timeout=30)
@@ -122,6 +123,7 @@ def get_section_html(title, index):
         "page": title,
         "prop": "text",
         "section": index,
+        "redirects": 1,
         "format": "json",
     }
     r = requests.get(API_URL, params=params, headers=HEADERS, timeout=30)
@@ -210,16 +212,16 @@ def parse_squad_table(html):
                 # Some cells have multiple links (flag + club name);
                 # pick the last <a> which is almost always the club name.
                 links = club_cell.find_all("a")
-                if links:
-                    # Skip flag/country links (their href contains "/wiki/Flag_of"
-                    # or the text is very short like a country code)
-                    club_links = [l for l in links if "Flag_of" not in l.get("href", "")
-                                  and len(l.get_text(strip=True)) > 2]
-                    if club_links:
-                        club = clean_text(club_links[-1].get_text())
-                    else:
-                        club = clean_text(links[-1].get_text())
+                # Skip flag/country links (their href contains "/wiki/Flag_of"
+                # or the text is very short/empty, e.g. an image-only flag link)
+                club_links = [l for l in links if "Flag_of" not in l.get("href", "")
+                              and len(l.get_text(strip=True)) > 2]
+                if club_links:
+                    club = clean_text(club_links[-1].get_text())
                 else:
+                    # Club name isn't wikilinked (plain text after the flag
+                    # icon) — the flag icon itself contributes no text, so
+                    # the full cell text is just the club name.
                     club = clean_text(club_cell.get_text())
 
             if not name or not position:

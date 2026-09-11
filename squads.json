@@ -5206,200 +5206,194 @@
       {
         "name": "Austin Creighton",
         "position": "Hooker",
-        "club": "James Bay",
+        "club": "Cobras Brasil Rugby",
         "caps": "3"
+      },
+      {
+        "name": "Foster DeWitt",
+        "position": "Hooker",
+        "club": "Peñarol",
+        "caps": "8"
       },
       {
         "name": "Dewald Kotze",
         "position": "Hooker",
-        "club": "Seattle Seawolves",
-        "caps": "13"
-      },
-      {
-        "name": "Jeffrey Young",
-        "position": "Hooker",
-        "club": "Dings Crusaders",
-        "caps": "0"
-      },
-      {
-        "name": "Cole Keith",
-        "position": "Prop",
-        "club": "New England Free Jacks",
-        "caps": "47"
+        "club": "Rotherham Titans",
+        "caps": "16"
       },
       {
         "name": "Sam Miller",
         "position": "Prop",
-        "club": "Southern Districts",
-        "caps": "4"
+        "club": "Benfica",
+        "caps": "8"
       },
       {
         "name": "Emerson Prior",
         "position": "Prop",
-        "club": "Utah Warriors",
-        "caps": "8"
+        "club": "Westshore",
+        "caps": "9"
       },
       {
         "name": "Kyle Steeves",
         "position": "Prop",
-        "club": "New England Free Jacks",
-        "caps": "5"
+        "club": "Hunter Wildfires",
+        "caps": "9"
       },
       {
-        "name": "Matt Tierney",
+        "name": "Sam Turner",
         "position": "Prop",
-        "club": "",
-        "caps": "31"
+        "club": "Clifton Rugby",
+        "caps": "0"
       },
       {
         "name": "Bryce Worden",
         "position": "Prop",
-        "club": "",
-        "caps": "0"
+        "club": "West Harbour",
+        "caps": "1"
       },
       {
         "name": "Callum Botchar",
         "position": "Lock",
-        "club": "New Orleans Gold",
+        "club": "James Bay",
         "caps": "10"
       },
       {
         "name": "Ryan Cozens",
         "position": "Lock",
-        "club": "Cardiff Metropolitan University",
+        "club": "Reading Rams",
         "caps": "0"
+      },
+      {
+        "name": "Daragh Doyle",
+        "position": "Lock",
+        "club": "Clontarf",
+        "caps": "3"
       },
       {
         "name": "Izzak Kelly",
         "position": "Lock",
-        "club": "Capilano",
-        "caps": "12"
+        "club": "Benfica",
+        "caps": "17"
       },
       {
         "name": "Barnaby Waddell",
         "position": "Lock",
-        "club": "Bridgend Ravens",
-        "caps": "2"
+        "club": "Camborne",
+        "caps": "3"
       },
       {
         "name": "Mason Flesch",
         "position": "Back row",
         "club": "Chicago Hounds",
-        "caps": "20"
+        "caps": "24"
       },
       {
-        "name": "Matthew Oworu",
+        "name": "Ethan Fryer",
         "position": "Back row",
-        "club": "Chicago Hounds",
-        "caps": "17"
+        "club": "Peñarol",
+        "caps": "5"
+      },
+      {
+        "name": "Cody Nhanala",
+        "position": "Back row",
+        "club": "UBC Thunderbirds",
+        "caps": "3"
       },
       {
         "name": "Sion Parry",
         "position": "Back row",
         "club": "Ebbw Vale",
-        "caps": "16"
+        "caps": "20"
       },
       {
         "name": "Lucas Rumball",
         "position": "Back row",
         "club": "Chicago Hounds",
-        "caps": "72"
-      },
-      {
-        "name": "Piers von Dadelszen",
-        "position": "Back row",
-        "club": "New England Free Jacks",
-        "caps": "13"
-      },
-      {
-        "name": "Brock Gallagher",
-        "position": "Scrum-half",
-        "club": "Seattle Seawolves",
-        "caps": "12"
+        "caps": "68"
       },
       {
         "name": "Jason Higgins",
         "position": "Scrum-half",
-        "club": "Chicago Hounds",
-        "caps": "27"
+        "club": "Cork Constitution",
+        "caps": "31"
       },
       {
-        "name": "James Naylor",
+        "name": "Jesse Kilgour",
         "position": "Scrum-half",
-        "club": "Rotherham Titans",
-        "caps": "1"
+        "club": "Aurora Barbarians",
+        "caps": "2"
       },
       {
-        "name": "Peter Nelson",
-        "position": "Fly-half",
-        "club": "Dungannon",
-        "caps": "35"
+        "name": "Stephen Webb",
+        "position": "Scrum-half",
+        "club": "UBC Thunderbirds",
+        "caps": "3"
       },
       {
-        "name": "Robbie Povey",
+        "name": "Cooper Coats",
         "position": "Fly-half",
-        "club": "Rotherham Titans",
+        "club": "UVIC Vikes",
         "caps": "24"
       },
       {
-        "name": "Noah Flesch",
+        "name": "Liam James",
+        "position": "Fly-half",
+        "club": "UBC Old Boys Ravens",
+        "caps": "3"
+      },
+      {
+        "name": "Jacob Ince",
         "position": "Centre",
-        "club": "Chicago Hounds",
-        "caps": "11"
+        "club": "Taranaki",
+        "caps": "2"
       },
       {
         "name": "Spencer Jones",
         "position": "Centre",
-        "club": "Utah Warriors",
-        "caps": "16"
+        "club": "Hamilton Old Boys",
+        "caps": "18"
+      },
+      {
+        "name": "Ben LeSage",
+        "position": "Centre",
+        "club": "New England Free Jacks",
+        "caps": "40"
       },
       {
         "name": "Josh McIndoe",
         "position": "Centre",
-        "club": "",
-        "caps": "0"
+        "club": "UVIC Vikes",
+        "caps": "2"
       },
       {
-        "name": "Talon McMullin",
-        "position": "Centre",
-        "club": "UBC Thunderbirds",
+        "name": "Takoda McMullin",
+        "position": "Wing",
+        "club": "Bayside Sharks",
+        "caps": "8"
+      },
+      {
+        "name": "Isaac Olson",
+        "position": "Wing",
+        "club": "Castaway Wanderers",
         "caps": "8"
       },
       {
         "name": "Kyle Tremblay",
-        "position": "Centre",
-        "club": "Westshore",
-        "caps": "4"
+        "position": "Wing",
+        "club": "Bayside Sharks",
+        "caps": "8"
       },
       {
-        "name": "Nic Benn",
-        "position": "Wing",
-        "club": "Utah Warriors",
-        "caps": "13"
-      },
-      {
-        "name": "Morgan Di Nardo",
-        "position": "Wing",
-        "club": "Victoria Vikes",
+        "name": "Jamie Armstrong",
+        "position": "Fullback",
+        "club": "Ottawa Irish",
         "caps": "1"
       },
       {
-        "name": "Josiah Morra",
-        "position": "Wing",
-        "club": "New England Free Jacks",
-        "caps": "13"
-      },
-      {
-        "name": "Jack Shaw",
-        "position": "Wing",
-        "club": "RFCLA",
-        "caps": "2"
-      },
-      {
-        "name": "Cooper Coats",
+        "name": "Jack Gore",
         "position": "Fullback",
-        "club": "New Orleans Gold",
-        "caps": "21"
+        "club": "Laurier Golden Hawks",
+        "caps": "0"
       }
     ]
   },
